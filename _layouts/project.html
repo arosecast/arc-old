@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    <a href="javascript:" id="return-to-top"><i class="glyphicon glyphicon-chevron-up"></i></a>
+
+    <div class="container">
+      <div class="row">
+
+        {% include sidenav.html %}
+
+        <section id="project">
+          <div class="col-md-7">
+            {{content}}
+          </div>
+        </section>
+
+        <section id="rightAside">
+          <aside class="col-md-3">
+             <nav>
+              <ul class="pager">
+                <li><a href="#"><span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span></a></li>
+                <li><a href="#"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span></a></li>
+                <li><a href="#"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span></a></li>
+              </ul>
+            </nav>
+            <hr class="clear">
+            <h3>{{page.title}}</h3>
+            <p class="project">{{page.description}} <br><a href="{{page.bloglink}}">Find out more on the blog &raquo;</a></p>
+
+            <div class="highlight">
+              <p>Buy <span class="the">this</span> Piece <span class="the">on</span></p>
+              <p><a href="{{page.s6link}}">Society6</a> <span class="the">or</span> <a href="{{page.etsylink}}">Etsy</a></p>
+            </div>
+
+            <div id="tag-cloud">
+              <h3>Project Tags</h3>
+              <div id="tags">
+                <a href=""><span class="label label-default">{{ page.tags }}</span></a>
+              </div>
+            </div><!-- /#tag-cloud -->
+
+          </aside>
+
+        <hr class="clear">
+        </section>
+
+      </div><!-- row -->
+
+      <div class="row">
+
+        <section div="sideNav">
+          <aside class="col-md-2">
+          </aside>
+        </section>
+        {% include folio.html %}
+      </div><!-- row -->
+
+      <hr>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>

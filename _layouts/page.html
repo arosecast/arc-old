@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    <a href="javascript:" id="return-to-top"><i class="glyphicon glyphicon-chevron-up"></i></a>
+
+    <div class="container">
+      <div class="row">
+
+        {% include sidenav.html %}
+
+        <section id="content">
+          <div class="col-md-10">
+            <article>
+              <header><h1>{{ page.title }}</h1></header>
+            {{ content }}
+            <hr>
+          </article>
+
+          </div>
+          <hr>
+        </section><!-- content -->
+
+      </div><!-- row -->
+      <div class="row">
+
+        <section div="sideNav">
+          <aside class="col-md-2">
+          </aside>
+        </section>
+
+        {% include folio.html %}
+      </div><!-- row -->
+      <hr>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>

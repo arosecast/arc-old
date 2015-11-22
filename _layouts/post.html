@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<section id="content">
+  <div class="col-md-7">
+
+    <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+      {% include blogheader.html %}
+
+      <div class="post-content" itemprop="articleBody">
+        <!--<img src="{{ page.image }}" alt="{{page.alt}}">-->
+        {{ content }}
+        <hr>
+        <p class="shareButtons text-center">
+          <span class="share">Liked this? Please share it!</span><a href="#" class="share pinterest"></a><a href="#" class="share facebook"></a><a href="#" target="_blank" class="share twitter"></a>
+        </p>
+        <hr>
+        {% include categoryblurb.html %}
+      </div>
+
+      {% include related.html %}
+      {% include blogfooter.html %}
+
+    </article>
+
+      <hr class="divider">
+    </div>
+  </section><!-- content -->
+
+  {% include rightaside.html %}

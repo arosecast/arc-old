@@ -1,0 +1,50 @@
+---
+layout: default
+---
+
+<section id="content">
+  <div class="col-md-7">
+
+    {% for post in site.posts %}
+
+      <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+        <header class="post-header">
+          <h1 class="post-title" itemprop="name headline"><a href="{{ post.url }}">{{ post.title }}</a></h1>
+          <p class="date"><span>Published</span> // <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%-d %B, %Y" }}</time> &nbsp;|&nbsp; <span>Column</span> // <a href="#">{{ post.categories }}</a></p>
+        </header>
+
+        <div class="post-content" itemprop="articleBody">
+          <img src="{{ post.image }}" alt="{{post.alt}}">
+          {{ post.content }}
+          <hr>
+          <p class="shareButtons text-center">
+            <span class="share">Liked this? Please share it!</span><a href="#" class="share pinterest"></a><a href="#" class="share facebook"></a><a href="#" target="_blank" class="share twitter"></a>
+          </p>
+          <hr>
+          {% include categoryblurb.html %}
+        </div>
+
+        {% include related.html %}
+        <footer>
+          <div class="row">
+            <div class="col-md-8">
+              <p class="tags">
+                <strong>Tags</strong> // <a href=""><span class="label label-default">{{ post.tags }}</span></a>
+              </p>
+            </div>
+            <div class="col-md-4">
+              <p class="comments">
+                <span>33</span> <strong>Comments</strong>
+              </p>
+            </div>
+          </div>
+        </footer>
+
+      </article>
+      <hr>
+
+    {% endfor %}
+
+  </div>
+</section><!-- content -->
+{% include rightaside.html %}
