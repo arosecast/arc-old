@@ -20,16 +20,14 @@
 
         <section id="rightAside">
           <aside class="col-md-3">
-             <nav>
-              <ul class="pager">
-                <li><a href="#"><span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span></a></li>
-                <li><a href="#"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span></a></li>
-                <li><a href="#"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span></a></li>
-              </ul>
-            </nav>
-            <hr class="clear">
             <h3>{{page.title}}</h3>
-            <p class="project">{{page.description}} <br><a href="{{page.bloglink}}">Find out more on the blog &raquo;</a></p>
+            <p class="project">{{page.description}}
+              {% unless page.bloglink == empty %}
+                  {% for bloglink in page.bloglink %}
+                    <br><a href="{{ bloglink }}">Find out more on the blog &raquo;</a>
+                  {% endfor %}
+              {% endunless %}
+            </p>
 
             <div class="highlight">
               <p>Buy <span class="the">this</span> Piece <span class="the">on</span></p>
@@ -37,9 +35,9 @@
             </div>
 
             <div id="tag-cloud">
-              <h3>Project Tags</h3>
+              <h3>Project Type</h3>
               <div id="tags">
-                <a href=""><span class="label label-default">{{ page.tags }}</span></a>
+                {{ page.type }}
               </div>
             </div><!-- /#tag-cloud -->
 

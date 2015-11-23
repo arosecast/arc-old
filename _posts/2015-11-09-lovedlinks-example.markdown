@@ -2,7 +2,7 @@
 layout: post
 title:  "Example of a Loved Links Post"
 date:   2015-11-09 11:05:45 +0000
-image: '/assets/blog/2015_09/wishlist02.jpg'
+image: '/assets/folio/folio.jpg'
 alt: This is the alt text for the image
 categories: Loved-Links
 tags: illustration

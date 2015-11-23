@@ -9,9 +9,10 @@ layout: default
       {% include blogheader.html %}
 
       <div class="post-content" itemprop="articleBody">
+        <!--<img src="{{ page.image }}" alt="{{page.alt}}">-->
         {{ content }}
         {% include share.html %}
-        {% include categoryblurb.html %}
+        {% include cblurb-mywork.html %}
       </div>
 
       {% include related.html %}

@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: post-mywork
 title:  "Example of a My Work Post"
 date:   2015-11-09 11:05:45 +0000
-image: '/assets/blog/2015_09/mywork01.jpg'
+image: '/assets/folio/folio.jpg'
 alt: This is the alt text for the image
 categories: My-Work
-tags: illustration
+tags: illustration printables
 ---
 
 ![This is alternative text](/assets/blog/2015_09/mywork01.jpg "This is a title")

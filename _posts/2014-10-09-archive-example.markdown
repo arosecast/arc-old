@@ -2,7 +2,7 @@
 layout: post
 title:  "Example of a Month in Review Post"
 date:   2014-10-09 11:05:45 +0000
-image: '/assets/blog/2015_09/03.jpg'
+image: '/assets/folio/folio.jpg'
 alt: This is the alt text for the image
 categories: Month-in-Review
 tags: illustration

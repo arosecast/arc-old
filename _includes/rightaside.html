@@ -1,43 +1,57 @@
 <section id="rightAside">
   <aside class="col-md-3">
 
-    <div class="input-group">
-      <input type="text" class="form-control" placeholder="Search the Blog">
-      <span class="input-group-btn">
-        <button class="btn btn-default" type="button"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></button>
-      </span>
-    </div><!-- /input-group -->
-
     <h3 class="categories">Categories</h3>
     <nav role="navigation">
       <ul class="nav">
-        <li class="myWork"><h4><a href="/my-work/">My Work</a></h4></li>
-        <li class="freebies"><h4><a href="/freebies/">Freebies</a></h4></li>
-        <li class="creativeSpotlight"><h4><a href="/creative-spotlight/">Creative Spotlight</a></h4></li>
-        <li class="lovedLinks"><h4><a href="/loved-links/">Loved Links</a></h4></li>
-        <li class="wishList"><h4><a href="/wish-list/">Wish List</a></h4></li>
-        <li class="monthReview"><h4><a href="/month-in-review/">Month in Review</a></h4></li>
+        <li class="myWork"><h4><a href="/category/my-work/">My Work</a></h4></li>
+        <li class="freebies"><h4><a href="/category/freebies/">Freebies</a></h4></li>
+        <li class="creativeSpotlight"><h4><a href="/category/creative-spotlight/">Creative Spotlight</a></h4></li>
+        <li class="lovedLinks"><h4><a href="/category/loved-links/">Loved Links</a></h4></li>
+        <li class="wishList"><h4><a href="/category/wish-list/">Wish List</a></h4></li>
+        <li class="monthReview"><h4><a href="/category/month-in-review/">Month in Review</a></h4></li>
       </ul>
     </nav>
 
     <div id="tag-cloud">
       <h3><a href="#tags" class="" data-toggle="collapse">Browse <span class="the">the</span> Tags <span class="caret"></span></a></h3>
-
+        <div id="tags" class="collapse">
+          {% for tag in site.tags %}
+            <a href="/tag/{{ tag | first | slugize }}/">
+                <span class="label label-default">{{ tag | first }}</span>
+            </a>
+          {% endfor %}
+          <div class="spacer"></div>
+        </div>
+    </div>
 
     <div class="dropdown">
       <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
         <h3>Browse <span class="the">the</span> Archives <span class="caret"></span></h3>
       </button>
-      <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
-        <li><a href="#">Febuary 2016</a></li>
-        <li><a href="#">January 2016</a></li>
+      <ul class="dropdown-menu">
+        <li><a href="/2015/11/">November 2015</a></li>
         <li role="separator" class="divider"></li>
-        <li><a href="#">December 2015</a></li>
-        <li><a href="#">November 2015</a></li>
-        <li role="separator" class="divider"></li>
-        <li><a href="/archive.html">View Complete Archives &raquo;</a></li>
+        <li><a href="/archive/">View Complete Archives &raquo;</a></li>
       </ul>
     </div><!-- /.dropdown -->
+
+    <h3 class="social"><a href="#">Search <span class="the">the</span> Site</a></h3>
+    <div class="input-group">
+      <script>
+        (function() {
+          var cx = '008809606368367365436:ijrjcnnlagq';
+          var gcse = document.createElement('script');
+          gcse.type = 'text/javascript';
+          gcse.async = true;
+          gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+              '//cse.google.com/cse.js?cx=' + cx;
+          var s = document.getElementsByTagName('script')[0];
+          s.parentNode.insertBefore(gcse, s);
+        })();
+      </script>
+      <gcse:searchbox-only></gcse:searchbox-only>
+    </div><!-- /input-group -->
 
     <h3 class="social"><a href="#">Instagram</a></h3>
     <div class="center">

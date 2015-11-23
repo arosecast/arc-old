@@ -15,7 +15,6 @@ title: Blog
         </header>
 
         <div class="post-content" itemprop="articleBody">
-          <img src="{{ post.image }}" alt="{{post.alt}}">
           {{ post.content }}
           <hr>
           <p class="shareButtons text-center">
@@ -47,19 +46,38 @@ title: Blog
     {% endfor %}
 
     <!-- Pagination links -->
-    <div class="pagination">
-      {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+
+  <div class="text-center"> 
+  {% if paginator.total_pages > 1 %}
+    <ul class="pagination">  {% if paginator.previous_page %}
+      <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo;</a></li>
+    {% else %}
+      <li><span>&laquo;</span></li>
+    {% endif %}
+
+    {% for page in (1..paginator.total_pages) %}
+      {% if page == paginator.page %}
+        <li class="active"><span>{{ page }}</span></li>
+      {% elsif page == 1 %}
+        <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></li>
       {% else %}
-        <span class="previous">Previous</span>
+        <li><a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
       {% endif %}
-      <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-      {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-      {% else %}
-        <span class="next ">Next</span>
-      {% endif %}
-    </div>
+    {% endfor %}
+
+    {% if paginator.next_page %}
+      <li><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">&raquo;</a></li>
+    {% else %}
+      <li><span>&raquo;</span></li>
+    {% endif %}
+  </ul>
+  {% endif %}
+  </div>
+
+
+
+
+
 
   </div>
 </section><!-- content -->

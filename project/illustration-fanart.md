@@ -1,11 +1,11 @@
 ---
 layout: project
-title: Fan Art Greeting Cards
+title: Illustration | Fan Art Greeting Cards
 description: I'm a massive nerd, so I love creating illustrations of characters from some of my favourite TV shows and movies, such as Star Trek and Joss Whedon's creations Buffy and Firefly, to different manga and anime series, such as Sailor Moon. Not only have I released these watercolour pieces as prints, I've turned many into humourous greeting cards.
 bloglink: 
 etsylink: https://www.etsy.com/shop/Akaihane?section_id=16232976
 s6link: https://society6.com/akai_hane
-tags: illustration fanart watercolor
+type: Illustration | Fanart | Watercolor | Lettering | Stationery | Graphic Design
 ---
 
 ![An illustration of Malcolm Reynolds from Joss Whedon's sci-fi epic TV show Firefly](/assets/folio/fanart/illustration-fanart-mal-firefly.jpg "An illustration of Malcolm Reynolds from Joss Whedon's sci-fi epic TV show Firefly")
