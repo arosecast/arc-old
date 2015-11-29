@@ -2,7 +2,7 @@
 layout: project
 title: Illustration | Astronomy Fan Zahrah
 description: With a name meaning 'star', pink haired Zahrah has such a love for astronomy that she has had constellations and the phases of the moon tattooed onto her skin. As well as releasing this illustration as a print, I have turned it into a piece of rose gold necklace with a printed walnut wood pendant.
-etsylink: ADDLINK!
+#etsylink: ADDLINK!
 s6link: https://society6.com/arosecast
 type: Illustration | Watercolor | Portraits | Jewellery
 ---

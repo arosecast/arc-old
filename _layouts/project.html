@@ -22,17 +22,21 @@
           <aside class="col-md-3">
             <h3>{{page.title}}</h3>
             <p class="project">{{page.description}}
-              {% unless page.bloglink == empty %}
-                  {% for bloglink in page.bloglink %}
-                    <br><a href="{{ bloglink }}">Find out more on the blog &raquo;</a>
-                  {% endfor %}
-              {% endunless %}
+              {% for bloglink in page.bloglink %}
+                <br><a href="{{ bloglink }}">Find out more on the blog &raquo;</a>
+              {% endfor %}
             </p>
 
+            {% if page.s6link and page.etsylink %}
             <div class="highlight">
               <p>Buy <span class="the">this</span> Piece <span class="the">on</span></p>
-              <p><a href="{{page.s6link}}">Society6</a> <span class="the">or</span> <a href="{{page.etsylink}}">Etsy</a></p>
+              <p>
+                <a href="{{page.s6link}}">Society6</a>
+                <span class="the">or</span>
+                <a href="{{page.etsylink}}">Etsy</a>
+              </p>
             </div>
+            {% endif %}
 
             <div id="tag-cloud">
               <h3>Project Type</h3>

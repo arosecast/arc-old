@@ -17,7 +17,7 @@
       </div>
       <div class="collapse navbar-collapse">
         <ul class="nav nav-stacked">
-          <li class="mywork"><a href="/index.html" {% if current[1] == 'project' %}class='active'{% endif %}>My Work</a></li>
+          <li class="mywork"><a href="/index.html" {% if !current || current[1] == 'project' %}class='active'{% endif %}>My Work</a></li>
           <li class="about"><a href="/about/" {% if current[1] == 'about' %}class='active'{% endif %}>About</a></li>
           <li class="contact"><a href="/work-with-me/" {% if current[1] == 'work-with-me' %}class='active'{% endif %}>Work With Me</a></li>
           <li class="blog"><a href="/blog/" {% if current[1] == 'blog' %}class='active'{% endif %}>Blog</a></li>

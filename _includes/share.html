@@ -1,5 +1,9 @@
+{% capture social_link %}{{ site.url }}{{ page.url }}{% endcapture %}
 <hr>
-<p class="shareButtons text-center">
-  <span class="share">Liked this? Please share it!</span><a href="#" class="share pinterest"></a><a href="#" class="share facebook"></a><a href="#" target="_blank" class="share twitter"></a>
-</p>
+  <p class="shareButtons text-center">
+    <span class="share">Liked this? Please share it!</span>
+    <a href="http://pinterest.com/pin/create/bookmarklet/?url={{ social_link }}&is_video=false&description={{ page.title }}" class="share pinterest"></a>
+    <a href="http://www.facebook.com/sharer/sharer.php?u={{ social_link }}&title={{ page.title }}" class="share facebook"></a>
+    <a href="http://twitter.com/intent/tweet?status={{ page.title }}+{{ social_link }}" target="_blank" class="share twitter"></a>
+  </p>
 <hr>
