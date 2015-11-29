@@ -2,9 +2,6 @@
 layout: project
 title: Illustration | Haruki Murakami Novels
 description: Haruki Murakami is my favourite author. His usually surreal tales really captivate my imagination. A few years ago when I first started to do a little illustration (along side my day job as a web designer), I thought creating an illustration for each of his novels would be great practice. They proved a hit, with many people asking if I was selling them as prints. When I finally moved into illustration full-time, I decided to do just that, but as I'd improved greatly as an illustrator, I felt that before that could happen, a redo was in order. So here is my second attempt, which now includes an illustration for Colorless Tsukuru Tazaki and His Years of Pilgrimage, his most recent novel. I'll be releasing a new novel print every month for the next little while.
-bloglink: 
-etsylink: https://www.etsy.com/shop/Akaihane
-s6link: https://society6.com/akai_hane
 type: Illustration | Book Design | Watercolor | Graphic Design
 ---
 
