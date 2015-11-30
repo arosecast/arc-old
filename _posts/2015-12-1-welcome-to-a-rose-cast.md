@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A New Start | Welcome to A Rose Cast"
-date:   2015-11-30 09:00:00 +0000
+date:   2015-12-01 12:00:00 +0000
 image: '/assets/blog/2015-12/thumb-intro.jpg'
 alt: Rose Gold and Walnut Wood Pendant Necklace with Illustration of Zahrah
 categories: My-Work
