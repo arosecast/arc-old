@@ -87,10 +87,10 @@ a.navbar-brand {margin-top: -11px;}
 #sideNav ul.socialNav li.facebook a:hover {background-position: right -28px;}
 #sideNav ul.socialNav li.tumblr a {background-position: left -56px;}
 #sideNav ul.socialNav li.tumblr a:hover {background-position: right -56px;}
-#sideNav ul.socialNav li.pinterest a {background-position: left -84px;}
-#sideNav ul.socialNav li.pinterest a:hover {background-position: right -84px;}
-#sideNav ul.socialNav li.instagram a {background-position: left bottom; margin-right: 0;}
-#sideNav ul.socialNav li.instagram a:hover {background-position: right bottom; margin-right: 0;}
+#sideNav ul.socialNav li.instagram a {background-position: left -84px;}
+#sideNav ul.socialNav li.instagram a:hover {background-position: right -84px;}
+#sideNav ul.socialNav li.pinterest a {background-position: left bottom; margin-right: 0;}
+#sideNav ul.socialNav li.pinterest a:hover {background-position: right bottom; margin-right: 0;}
 
 
 /* MAIN CONTENT */

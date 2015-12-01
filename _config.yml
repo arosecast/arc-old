@@ -25,7 +25,6 @@ jekyll-archives:
 
 # Build settings
 markdown: kramdown
-lsi: true
 gems:
   - jekyll-archives
   - jekyll-paginate

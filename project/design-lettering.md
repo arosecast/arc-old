@@ -4,7 +4,7 @@ title: Design | Hand-Drawn Lettering
 description: Although most of my lettering work is combined with illustrations to create pieces such as stationery or graphic design, I have worked on a few projects that focus on rendering quotes or other text in an exciting way.
 bloglink: 
 etsylink: https://www.etsy.com/listing/195530262/quote-from-riverdeep-by-agnes-obel-hand
-s6link: https://society6.com/arosecast
+s6link: https://society6.com/akai_hane
 type: Lettering | Calligraphy | Graphic Design
 ---
 
