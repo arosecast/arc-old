@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Creative Spotlight // 3 of my Favourite Watercolor Illustrators"
+title:  "Creative Spotlight // 3 Watercolor Illustrators You Should Be Following"
 image: '/assets/blog/draft/helen-green-lady-gaga-watercolor-illustration.jpg'
-alt: Watercolor illustration of Lady Gaga by illustrator Helen Green
+alt: Watercolor illustration of Lady Gaga by illustrator Helen Green DATE - 2015-12-10-3
 categories: Creative-Spotlight
 tags: illustration, watercolor
 ---

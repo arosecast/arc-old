@@ -2,7 +2,7 @@
 layout: post
 title:  "Wish List // 6 Nerdy  ..."
 image: '/assets/blog/draft/leslie-knope-parksandrecs-brooch.jpg'
-alt: This is the alt text for the image
+alt: This is the alt text for the image DATE - 2015-12-15
 categories: Wish-List
 tags: Jewellery, Fashion
 ---
