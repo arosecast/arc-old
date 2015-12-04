@@ -8,7 +8,7 @@
 # Site settings
 title: Illustration and Design by Karen Murray | A Rose Cast
 email: hello@arosecast.com
-description: 
+description: A Rose Cast
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.arosecast.com" # the base hostname & protocol for your site
 twitter_username: arosecast
