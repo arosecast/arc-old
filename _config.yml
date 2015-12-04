@@ -8,8 +8,8 @@
 # Site settings
 title: Illustration and Design by Karen Murray | A Rose Cast
 email: hello@arosecast.com
-description: A Rose Cast is a one-person studio producing illustration and design work for clients - both big and small - as well as a line of illustrative products - from art prints and stationery to jewellery and homewares - sold both online and in physical stores.
-baseurl: "/" # the subpath of your site, e.g. /blog
+description: 
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.arosecast.com" # the base hostname & protocol for your site
 twitter_username: arosecast
 github_username:  arosecast
