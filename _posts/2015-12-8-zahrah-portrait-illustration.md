@@ -5,7 +5,7 @@ date:   2015-12-08 12:00:00 +0000
 image: '/assets/blog/2015-12/thumb-zahrah-illustration.jpg'
 alt: Pink-Haired Astronomy Lover Zahrah by illustrator / artist Karen Murray of A Rose Cast
 categories: My-Work
-tags: Illustration, Jewellery, Fashion
+tags: Illustration Jewellery Fashion
 ---
 
 ![Pink-Haired Astronomy Lover Zahrah by illustrator / artist Karen Murray of A Rose Cast](/assets/folio/portraits/portrait-illustration-zahrah.jpg "Pink-Haired Astronomy Lover Zahrah by illustrator / artist Karen Murray of A Rose Cast")
@@ -18,14 +18,14 @@ When creating her, I knew I wanted a nice deep yellow to be in there, but wasn't
 
 <div class="row">
 	<div class="col-md-6">
-		<a href="LINK" title="A4 Art Print of Zahrah // Pencil &amp; Watercolour Portrait of a Pink-Haired Astronomy Lover (Star and Moon) on Etsy"><img src="/assets/blog/2015-12/a4-print-portrait-illustration-zahrah.jpg" alt="A4 Art Print of Zahrah // Pencil &amp; Watercolour Portrait of a Pink-Haired Astronomy Lover (Star and Moon)"></a>
+		<a href="https://www.etsy.com/listing/257821175/zahrah-pencil-watercolour-portrait-of-a" title="A4 Art Print of Zahrah // Pencil &amp; Watercolour Portrait of a Pink-Haired Astronomy Lover (Star and Moon) on Etsy"><img src="/assets/blog/2015-12/a4-print-portrait-illustration-zahrah.jpg" alt="A4 Art Print of Zahrah // Pencil &amp; Watercolour Portrait of a Pink-Haired Astronomy Lover (Star and Moon)"></a>
 	</div>
 	<div class="col-md-6">
-		<a href="LINK" title="A6 / Postcard Art Print of Zahrah // Pencil &amp; Watercolour Portrait of a Pink-Haired Astronomy Lover (Star and Moon) on Etsy"><img src="/assets/blog/2015-12/a6-postcard-print-portrait-illustration-zahrah.jpg" alt="A6 / Postcard Art Print of Zahrah // Pencil &amp; Watercolour Portrait of a Pink-Haired Astronomy Lover (Star and Moon)"></a>
+		<a href="https://www.etsy.com/listing/257821175/zahrah-pencil-watercolour-portrait-of-a" title="A6 / Postcard Art Print of Zahrah // Pencil &amp; Watercolour Portrait of a Pink-Haired Astronomy Lover (Star and Moon) on Etsy"><img src="/assets/blog/2015-12/a6-postcard-print-portrait-illustration-zahrah.jpg" alt="A6 / Postcard Art Print of Zahrah // Pencil &amp; Watercolour Portrait of a Pink-Haired Astronomy Lover (Star and Moon)"></a>
 	</div>
 </div>
 
-Like most of my pieces, I have Zahrah up as an <a href="LINK" title="A4 Art Print of Zahrah // Pencil &amp; Watercolour Portrait of a Pink-Haired Astronomy Lover (Star and Moon) on Etsy">A4</a> and <a href="LINK" title="A6 / Postcard Art Print of Zahrah // Pencil &amp; Watercolour Portrait of a Pink-Haired Astronomy Lover (Star and Moon) on Etsy">A6 / postcard</a> print (see above) over on my Etsy store. Both are printed digitally on gorgeous soft silk paper (love the texture of this stuff); the A4s have a weight of 250gsm, whereas the A6 are of 300gsm, giving a nice thickness to each print. And I've used her on a whole range of items on my <a href="https://society6.com/product/astronomy-fan-zahrah-moon-and-star_print#1=45">Society6</a> store; pillows, phone covers, mugs, you name it, she's on them.
+Like most of my pieces, I have Zahrah up as an <a href="https://www.etsy.com/listing/257821175/zahrah-pencil-watercolour-portrait-of-a" title="A4 Art Print of Zahrah // Pencil &amp; Watercolour Portrait of a Pink-Haired Astronomy Lover (Star and Moon) on Etsy">A4</a> and <a href="https://www.etsy.com/listing/257821175/zahrah-pencil-watercolour-portrait-of-a" title="A6 / Postcard Art Print of Zahrah // Pencil &amp; Watercolour Portrait of a Pink-Haired Astronomy Lover (Star and Moon) on Etsy">A6 / postcard</a> print (see above) over on my Etsy store. Both are printed digitally on gorgeous soft silk paper (love the texture of this stuff); the A4s have a weight of 250gsm, whereas the A6 are of 300gsm, giving a nice thickness to each print. And I've used her on a whole range of items on my <a href="https://society6.com/product/astronomy-fan-zahrah-moon-and-star_print#1=45">Society6</a> store; pillows, phone covers, mugs, you name it, she's on them.
 
 <div class="highlight">
   <p>Buy <span class="the">this</span> Piece <span class="the">on</span>
