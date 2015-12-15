@@ -16,9 +16,9 @@ His novels have always captivated my imagination, and I consider him to be my fa
 
 <div class="highlight">
   <p>Buy <span class="the">this</span> Piece <span class="the">on</span>
-    <a href="https://society6.com/product/LINK" title="Buy Watercolor illustration of Haruki Murakami's novel Colorless Tsukuru Tazaki and His Years of Pilgrimage on the A Rose Cast Society6 store">Society6</a>
+    <a href="https://society6.com/product/haruki-murakamis-colorless-tsukuru-tazaki-and-his-years-of-pilgrimage-book-cover_print#1=45" title="Buy Watercolor illustration of Haruki Murakami's novel Colorless Tsukuru Tazaki and His Years of Pilgrimage on the A Rose Cast Society6 store">Society6</a>
     <span class="the">or</span>
-    <a href="LINK TO MURAKAMI SECTION" title="Buy Watercolor illustration of Haruki Murakami's novel Colorless Tsukuru Tazaki and His Years of Pilgrimage on the A Rose Cast Etsy store">Etsy</a>
+    <a href="https://www.etsy.com/shop/ARoseCast?section_id=18192366" title="Buy Watercolor illustration of Haruki Murakami's novel Colorless Tsukuru Tazaki and His Years of Pilgrimage on the A Rose Cast Etsy store">Etsy</a>
   </p>
 </div>
 
@@ -26,10 +26,10 @@ Two and a half years went by. I was now working full time as an illustrator and 
 
 <div class="row">
 	<div class="col-md-6">
-		<a href="LINK" title="A4 watercolor illustration Art Print of Haruki Murakami's novel Colorless Tsukuru Tazaki and His Years of Pilgrimage on Etsy"><img src="/assets/blog/2015-12/a4-illustration-murakami-colorlesstsukuru.jpg" alt="A4 watercolor illustration Art Print of Haruki Murakami's novel Colorless Tsukuru Tazaki and His Years of Pilgrimage on Etsy"></a>
+		<a href="https://www.etsy.com/shop/ARoseCast?section_id=18192366" title="A4 watercolor illustration Art Print of Haruki Murakami's novel Colorless Tsukuru Tazaki and His Years of Pilgrimage on Etsy"><img src="/assets/blog/2015-12/a4-illustration-murakami-colorlesstsukuru.jpg" alt="A4 watercolor illustration Art Print of Haruki Murakami's novel Colorless Tsukuru Tazaki and His Years of Pilgrimage on Etsy"></a>
 	</div>
 	<div class="col-md-6">
-		<a href="LINK" title="A6 watercolor illustration Art Print of Haruki Murakami's novel Colorless Tsukuru Tazaki and His Years of Pilgrimage on Etsy"><img src="/assets/blog/2015-12/a6-illustration-murakami-colorlesstsukuru.jpg" alt="A6 watercolor illustration Art Print of Haruki Murakami's novel Colorless Tsukuru Tazaki and His Years of Pilgrimage on Etsy"></a>
+		<a href="https://www.etsy.com/shop/ARoseCast?section_id=18192366" title="A6 watercolor illustration Art Print of Haruki Murakami's novel Colorless Tsukuru Tazaki and His Years of Pilgrimage on Etsy"><img src="/assets/blog/2015-12/a6-illustration-murakami-colorlesstsukuru.jpg" alt="A6 watercolor illustration Art Print of Haruki Murakami's novel Colorless Tsukuru Tazaki and His Years of Pilgrimage on Etsy"></a>
 	</div>
 </div>
 

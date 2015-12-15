@@ -1,19 +1,18 @@
 ---
 layout: post
 title:  "My Work // I'm So Pretty | Wooden Brooch of a Ginger Cat with Flowers"
-date: 	2015-12-22 12:00:00 +0000
-image: '/assets/blog/2015-12/thumb-im-so-pretty-gingercat.jpg'
+image: '/assets/blog/2016-01/thumb-im-so-pretty-gingercat.jpg'
 alt: by illustrator / artist Karen Muray of A Rose Cast
 categories: My-Work
 tags: Illustration Watercolor Cats Jewellery
 ---
 
-<p class="intro">A few weeks ago I released my first pieces of <a href="https://www.etsy.com/shop/ARoseCast?section_id=18187909" title="Illustrated jewellery on A Rose Cast's Etsy store">illustrated jewellery</a>; two rose gold and walnut wood pendant necklaces. And today I'm adding this cat-themed wooden brooch.
+<p class="intro">A few weeks ago I released my first pieces of <a href="https://www.etsy.com/shop/ARoseCast?section_id=18187909" title="Illustrated jewellery on A Rose Cast's Etsy store">illustrated jewellery</a>; two rose gold and walnut wood pendant necklaces. And today I'm adding this cat-themed wooden brooch to my product line.
 </p>
 
 ![I'm So Pretty - Wooden Brooch of a Ginger Cat with Flowers and Calligraphy Quote by illustrator / artist Karen Muray of A Rose Cast](/assets/folio/wsb/illustration-i-feel-pretty-cat.jpg "I'm So Pretty - Wooden Brooch of a Ginger Cat with Flowers and Calligraphy Quote by illustrator / artist Karen Muray of A Rose Cast")
 
-This piece is based on <a href="https://www.instagram.com/p/8nSfiJmFWm/" title="Toby on A Rose Cast's Instagram">Toby</a>, my rather handsome part-Norwegian Forest ginger tom cat. It's a bit of a thing at the moment, portraits of animals and people surrounded by flowers, so I thought I'd try my hand at a slightly tongue-in-cheek version of this. As with almost all of my pieces, this was painted in watercolour, the lines included (instead of my normal pencil).
+This piece is based on <a href="https://www.instagram.com/p/8nSfiJmFWm/" title="Toby on A Rose Cast's Instagram">Toby</a>, my rather handsome part-Norwegian Forest, ginger tom cat. It's a bit of a thing at the moment, portraits of animals and people surrounded by flowers, so I thought I'd try my hand at a slightly tongue-in-cheek version of this. As with almost all of my pieces, this was painted in watercolour, but this time watercolour was used for the lines as well, instead of my normal pencil.
 
 <div class="highlight">
   <p>Buy <span class="the">this</span> Piece <span class="the">on</span>
@@ -27,7 +26,7 @@ This piece is based on <a href="https://www.instagram.com/p/8nSfiJmFWm/" title="
 
 <div class="row">
 	<div class="col-md-6">
-		<a href="LINK" title="Buy the I'm So Pretty - Wooden Brooch on the A Rose Cast on Etsy"><img src="/assets/blog/2015-12/wooden-brooch-i-feel-pretty-cat-02.jpg" alt="I'm So Pretty - Wooden Brooch"></a>
+		<a href="LINK" title="Buy the I'm So Pretty - Wooden Brooch on the A Rose Cast on Etsy"><img src="/assets/blog/2016-01/wooden-brooch-i-feel-pretty-cat-02.jpg" alt="I'm So Pretty - Wooden Brooch"></a>
 	</div>
 	<div class="col-md-6">
 		<a href="LINK" title="Buy the I'm So Pretty - Wooden Brooch on the A Rose Cast on Etsy"><img src="/assets/folio/wsb/wooden-brooch-i-feel-pretty-cat.jpg" alt="I'm So Pretty - Wooden Brooch"></a>
