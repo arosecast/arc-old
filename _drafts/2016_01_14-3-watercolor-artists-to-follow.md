@@ -7,6 +7,8 @@ categories: Creative-Spotlight
 tags: Illustration Watercolor Cats Fanart
 ---
 
+date:   2016-01-14 10:00:00 +0000
+
 <p class="intro">As <a href="/" title="A Rose Cast Porfolio">my work</a> is primarily created using watercolours, I'm always looking for other artists who work within the same medium to gleam new ideas and find inspiration. Here are a few who have captured my attention recently.</p>
 
 ![Watercolor illustration of Lady Gaga by illustrator / artist Helen Green](/assets/blog/2016-01/helen-green-lady-gaga-watercolor-illustration.jpg "Watercolor illustration of Lady Gaga by illustrator Helen Green")

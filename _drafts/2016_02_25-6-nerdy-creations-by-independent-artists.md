@@ -7,6 +7,8 @@ categories: Wish-List
 tags: illustration, nerd
 ---
 
+date:   2016-02-25 11:00:00 +0000
+
 <p class="intro">I love to create my own <a href="" title="Buy fanart illustrations created by A Rose Cast">geeky fanart pieces</a>, and also love to buy those produced by other artists and illustrators like myself. Here are some of my favourite little nerdy creations.</p>
 
 <div class="row">

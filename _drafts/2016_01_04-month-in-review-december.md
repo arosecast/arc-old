@@ -4,10 +4,14 @@ title:  "Month in Review // December 2015"
 image: '/assets/blog/2015-12/thumb-mir-december.jpg'
 alt: This is the alt text for the image
 categories: Month-in-Review
-tags: illustration
+tags: Illustration Cats Literature Film/TV Music
 ---
 
-<p class="intro">So, this has been a pretty big month. Not only in terms of the festive season, but I also <a href="/my-work/2015/12/01/welcome-to-a-rose-cast.html" title="A New Start | Welcome to A Rose Cast">relaunched my illustration and design business</a>. Which means I've been relearning how to do everything, but better than the first time around many years back.</p>
+date:   2016-01-04 11:00:00 +0000
+
+<p class="intro">So, this has been a pretty big month for me. Not only in terms of the festive season, but also as I've <a href="/my-work/2015/12/01/welcome-to-a-rose-cast.html" title="A New Start | Welcome to A Rose Cast">relaunched my illustration and design business</a>. I've been relearning how to blog and promote my work, hopefully in a more successful way than before.</p>
+
+So what have I been up to over the month of December, not just in terms of work, but fun as well?
 
 <div class="row">
 	<div class="col-md-4"><a href="/my-work/2015/12/8/zahrah-portrait-illustration.html" title="Illustration and Rose Gold and Wood Pendant Necklace of Pink-Haired Astronomy Lover Zahrah"><img src="/assets/folio/portraits/portrait-illustration-zahrah.jpg" alt="Illustration and Rose Gold and Wood Pendant Necklace of Pink-Haired Astronomy Lover Zahrah by illustrator / artist Karen Murray of A Rose Cast"></a></div>
@@ -38,25 +42,31 @@ What I’ve been Loving and Lusting Over
 * * *
 
 <div class="row">
-	<div class="col-md-3"><img src="/assets/blog/2015_12/03.jpg" alt="ALT"></div>
-	<div class="col-md-3"><img src="/assets/blog/2015_12/04.jpg" alt="ALT"></div>
-	<div class="col-md-3"><img src="/assets/blog/2015_12/03.jpg" alt="ALT"></div>
-	<div class="col-md-3"><img src="/assets/blog/2015_12/04.jpg" alt="ALT"></div>
+	<div class="col-md-6"><img src="/assets/blog/2016-01/instagram-cat-wooden-brooch.jpg" alt="Sneak peek a a cat-themed wooden brooch due for release soon"></div>
+	<div class="col-md-6"><img src="/assets/blog/2016-01/instagram-freebie-celebrate.jpg" alt="Cat and Celebration-themed January desktop and phone wallpaper free download"></div>
+</div>
+
+<div class="row">
+	<div class="col-md-6"><img src="/assets/blog/2016-01/instagram-japan-kamakura.jpg" alt="Hokokuji Shrine in Kamakura, Japan"></div>
+	<div class="col-md-6"><img src="/assets/blog/2016-01/instagram-monty-cat.jpg" alt="My British Shorthair cat, Monty, being silly"></div>
 </div>
 
 Snapshots
 ---
-+ INST // INST // INST
++ A sneak peek at a cat-themed wooden brooch I'll be releasing on my [Etsy](https://www.etsy.com/shop/arosecast) store soon
++ Working on my January freebie digital wallpapers [(Grab them here!)](http://instagram.com/arosecast)
++ Hokokuji Shrine in Kamakura. Going through my photos from our trip to Japan in October is making me miss that country so damn much!
++ My kitty Monty is a bit of a weirdo
 + Keep up to date by following me on [Instagram](http://instagram.com/arosecast)
 
 * * *
 
 Other Happenings This Month
 ---
-+ <strong>Reading</strong> // It by Stephen King. Well, I’ve been reading it since August. It is so VERY long. Parts I’m loving, other parts I’m just feeling desperate to get to the end as my interest (and the story) waxes and wanes ([Follow me on Goodreads](https://www.goodreads.com/user/show/1680658-karen-murray))
-+ <strong>Watching</strong> // The Good Wife. All kinds of love for this show. I’m into season five now, but Netflix doesn’t have past this point! Please, Netflix, can we have the next two seasons?
++ <strong>Reading</strong> // It by Stephen King. Well, I’ve been reading it since August. It is so VERY long. Parts I’ve loved, other parts I was just feeling desperate to get to the end as my interest (and the story) waxed and waned ([Follow me on Goodreads](https://www.goodreads.com/arosecast))
++ <strong>Watching</strong> // The Good Wife. All kinds of love for this show. I’m into season five now, but Netflix doesn’t have past this point! Please, Netflix, can we have the rest?
 + <strong>Listening</strong> // [Weezer, Thank God for Girls](https://youtu.be/t4wjekuKn-4)
-+ <strong>Playing</strong> // The Legend of Zelda: Ocarina of Time. I’m so bad at this kind of game. I can never figure out what I’m supposed to do! But then I’ve rarely played this type of game before, so maybe I need to train myself
++ <strong>Playing</strong> // The Legend of Zelda: Ocarina of Time. I’m so bad at this kind of game. I can never figure out what I’m supposed to do! But then I’ve rarely played this type of game before, so maybe I need to train myself more?
 + <strong>Eating</strong> // ALL the Christmas goodness! Especially stuffing, ham and sprouts
 + <strong>Learning</strong> // Tying to learn how to run my new business! Baby steps ...
 + <strong>Doing</strong> // Finishing off painting our flat. Some more trim work do do ;_;

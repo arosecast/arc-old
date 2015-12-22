@@ -7,6 +7,8 @@ categories: My-Work
 tags: Illustration Watercolor Cats Jewellery
 ---
 
+date:   2016-01-05 11:00:00 +0000
+
 <p class="intro">A few weeks ago I released my first pieces of <a href="https://www.etsy.com/shop/ARoseCast?section_id=18187909" title="Illustrated jewellery on A Rose Cast's Etsy store">illustrated jewellery</a>; two rose gold and walnut wood pendant necklaces. And today I'm adding this cat-themed wooden brooch to my product line.
 </p>
 
