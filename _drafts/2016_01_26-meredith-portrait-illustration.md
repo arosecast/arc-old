@@ -7,7 +7,7 @@ categories: My-Work
 tags: Illustration Jewellery Fashion
 ---
 
-date: 	2016-01-19 11:00:00 +0000
+date: 	2016-01-26 11:00:00 +0000
 
 ![Blue-Haired Nautical Meredith by illustrator / artist Karen Murray of A Rose Cast](/assets/folio/portraits/portrait-illustration-meredith.jpg "Blue-Haired Nautical Meredith with a cupcake by illustrator / artist Karen Murray of A Rose Cast")
 

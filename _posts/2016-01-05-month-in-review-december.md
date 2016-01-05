@@ -1,27 +1,26 @@
 ---
 layout: post
 title:  "Month in Review // December 2015"
+date:   2016-01-05 12:00:00 +0000
 image: '/assets/blog/2015-12/thumb-mir-december.jpg'
-alt: This is the alt text for the image
+alt: Eye Baubles for your Christmas Tree - Month in Review // December 2015
 categories: Month-in-Review
 tags: Illustration Cats Literature Film/TV Music
 ---
-
-date:   2016-01-04 11:00:00 +0000
 
 <p class="intro">So, this has been a pretty big month for me. Not only in terms of the festive season, but also as I've <a href="/my-work/2015/12/01/welcome-to-a-rose-cast.html" title="A New Start | Welcome to A Rose Cast">relaunched my illustration and design business</a>. I've been relearning how to blog and promote my work, hopefully in a more successful way than before.</p>
 
 So what have I been up to over the month of December, not just in terms of work, but fun as well?
 
 <div class="row">
-	<div class="col-md-4"><a href="/my-work/2015/12/8/zahrah-portrait-illustration.html" title="Illustration and Rose Gold and Wood Pendant Necklace of Pink-Haired Astronomy Lover Zahrah"><img src="/assets/folio/portraits/portrait-illustration-zahrah.jpg" alt="Illustration and Rose Gold and Wood Pendant Necklace of Pink-Haired Astronomy Lover Zahrah by illustrator / artist Karen Murray of A Rose Cast"></a></div>
-	<div class="col-md-4"><a href="/my-work/2015/12/8/zahrah-portrait-illustration.html" title="Illustration and Rose Gold and Wood Pendant Necklace of Pink-Haired Astronomy Lover Zahrah"><img src="/assets/folio/portraits/portrait-illustration-zahrah-wooden-necklace-02.jpg" alt="Illustration and Rose Gold and Wood Pendant Necklace of Pink-Haired Astronomy Lover Zahrah by illustrator / artist Karen Murray of A Rose Cast"></a></div>
+	<div class="col-md-4"><a href="/my-work/2015/12/08/zahrah-portrait-illustration.html" title="Illustration and Rose Gold and Wood Pendant Necklace of Pink-Haired Astronomy Lover Zahrah"><img src="/assets/folio/portraits/portrait-illustration-zahrah.jpg" alt="Illustration and Rose Gold and Wood Pendant Necklace of Pink-Haired Astronomy Lover Zahrah by illustrator / artist Karen Murray of A Rose Cast"></a></div>
+	<div class="col-md-4"><a href="/my-work/2015/12/08/zahrah-portrait-illustration.html" title="Illustration and Rose Gold and Wood Pendant Necklace of Pink-Haired Astronomy Lover Zahrah"><img src="/assets/folio/portraits/portrait-illustration-zahrah-wooden-necklace-02.jpg" alt="Illustration and Rose Gold and Wood Pendant Necklace of Pink-Haired Astronomy Lover Zahrah by illustrator / artist Karen Murray of A Rose Cast"></a></div>
 	<div class="col-md-4"><a href="/my-work/2015/12/15/colorless-tsukuru-haruki-murakami.html" title="Watercolor illustration of Haruki Murakami's novel Colorless Tsukuru Tazaki and His Years of Pilgrimage"><img src="/assets/folio/murakami/illustration-murakami-colorlesstsukuru.jpg" alt="Watercolor illustration of Haruki Murakami's novel Colorless Tsukuru Tazaki and His Years of Pilgrimage by illustrator / artist Karen Muray of A Rose Cast"></a></div>
 </div>
 
 New Creations
 ---
-+ Illustration & Jewellery Project // [Pink-Haired Astronomy Lover Zahrah](/my-work/2015/12/8/zahrah-portrait-illustration.html)
++ Illustration & Jewellery Project // [Pink-Haired Astronomy Lover Zahrah](/my-work/2015/12/08/zahrah-portrait-illustration.html)
 + Haruki Murakami Novel Illustrations Project // [Colorless Tsukuru Tazaki and His Years of Pilgrimage](/my-work/2015/12/15/colorless-tsukuru-haruki-murakami.html)
 
 * * *
@@ -54,7 +53,7 @@ What I’ve been Loving and Lusting Over
 Snapshots
 ---
 + A sneak peek at a cat-themed wooden brooch I'll be releasing on my [Etsy](https://www.etsy.com/shop/arosecast) store soon
-+ Working on my January freebie digital wallpapers [(Grab them here!)](http://instagram.com/arosecast)
++ Working on my January freebie digital wallpapers [(Grab them here!)](/freebie/2015/12/31/cat-celebration-wallpapers.html)
 + Hokokuji Shrine in Kamakura. Going through my photos from our trip to Japan in October is making me miss that country so damn much!
 + My kitty Monty is a bit of a weirdo
 + Keep up to date by following me on [Instagram](http://instagram.com/arosecast)

@@ -7,7 +7,7 @@ categories: My-Work
 tags: Illustration Watercolor Literature Haruki-Murakami
 ---
 
-date: 	2016-01-12 11:00:00 +0000
+date: 	2016-01-19 11:00:00 +0000
 
 <p class="intro">Another month, another one of my Haruki Murakami illustrations. This time it is of 1Q84, one of Murakami's many surreal novels.</p>
 

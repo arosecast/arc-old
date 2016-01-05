@@ -9,7 +9,7 @@ tags: Illustration Watercolor Cats Fanart
 
 date:   2016-01-14 10:00:00 +0000
 
-<p class="intro">As <a href="/" title="A Rose Cast Porfolio">my work</a> is primarily created using watercolours, I'm always looking for other artists who work within the same medium to gleam new ideas and find inspiration. Here are a few who have captured my attention recently.</p>
+<p class="intro">As <a href="/" title="A Rose Cast Porfolio">my work</a> is primarily created using watercolours, I'm always looking for other artists who work within the same medium to glean new ideas and find inspiration. Here are a few who have captured my attention recently.</p>
 
 ![Watercolor illustration of Lady Gaga by illustrator / artist Helen Green](/assets/blog/2016-01/helen-green-lady-gaga-watercolor-illustration.jpg "Watercolor illustration of Lady Gaga by illustrator Helen Green")
 
@@ -24,7 +24,7 @@ If you are a fan of either David Bowie or Lady Gaga, I am sure you've come upon 
 
 [2. Megan Lynn Kott](http://meganlynnkott.myshopify.com)
 ---
-Cats and watercolour: always a pleasing combination in my mind. A lifelong cat lover, Megan Lynn Kott is not only an amazing watercolour illustrator, but has an often subversive sense of humour that makes her pieces standout. She has worked with clients including Old Navy, Chronicle Books, Gymboree, and Tea Collection, and has realised a book full of cat temporary tattoos, aptly named <a href="http://www.chroniclebooks.com/titles/cattoos.html" title="Megan Lynn Kott's temporary tattoo cat book, Cattoos! on Chronicle Books">Cattoos!</a>.
+Cats and watercolour: always a pleasing combination in my mind. A lifelong cat lover, Megan Lynn Kott is not only an amazing watercolour illustrator, but has an often subversive sense of humour that makes her pieces standout. She has worked with clients including Old Navy, Chronicle Books, Gymboree, and Tea Collection, and has realised a book full of temporary cat tattoos, aptly named <a href="http://www.chroniclebooks.com/titles/cattoos.html" title="Megan Lynn Kott's temporary tattoo cat book, Cattoos! on Chronicle Books">Cattoos!</a>.
 
 * * *
 
