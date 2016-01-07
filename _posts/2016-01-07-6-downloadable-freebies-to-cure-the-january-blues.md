@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Loved Links // 6 Downloadable Freebies to Help Cure the January Blues"
-image: '/assets/blog/2016-01/IMG.jpg'
+date:   2016-01-07 10:00:00 +0000
+image: '/assets/blog/2016-01/thumb-january-2016-freebies.jpg'
 alt: This is the alt text for the image
 categories: Loved-Links
-tags: Printable Download
+tags: Printable Download Cats Cake Holidays
 ---
 
-date:   2016-01-07 12:00:00 +0000
 
 <p class="intro">Well, that’s the holidays over for another year. By now most of us are back at work. The days are still horribly short and weather is getting a bit colder.</p>
 
@@ -32,14 +32,14 @@ I think we all need a little pick me up to get over the January blues. So I’m 
 
 <div class="row">
 	<div class="col-md-6">
-		<a href="http://www.designlovefest.com/2016/01/dress-your-tech-124/" title="Download these photographic digital wallpapers of cakes with motivating messages from DesignLoveFest"><img src="/assets/blog/2016-01/motivating-cake-wallpaper.jpg" alt="Download these vibrant photographic digital wallpapers of cakes with motivating messages from DesignLoveFest | Photography"></a>
-		<h2>3. <a href="http://www.designlovefest.com/2016/01/dress-your-tech-124/" title="Download these photographic digital wallpapers of cakes with motivating messages from DesignLoveFest">Digital Wallpapers of Cakes with Motivating Messages</a></h2>
-		<p>Cake makes everything better. So how about digital wallpapers of cakes with motivating messages? DesignLoveFest always has a great <a href="http://www.designlovefest.com/category/downloads/" title="Digital Wallpapers from DesignLoveFest">selection of digital wallpapers</a>, and I love the quirky and fun vibe behind these photographic ones.</p>
+		<a href="https://every-tuesday.com/freebie-printable-thank-you-card/" title="Download this Free Printable Thank You Card from Every Tuesday"><img src="/assets/blog/2016-01/printable-thank-you-card.jpg" alt="Download this Free Printable Thank You Card from Every Tuesday with dark blue calligraphy text, and gold and blue floral flourishes"></a>
+		<h2>5. <a href="https://every-tuesday.com/freebie-printable-thank-you-card/" title="Download this Free Printable Thank You Card from Every Tuesday">Printable Thank You Card</a></h2>
+		<p>I only know one or two people who still routinely send out thank you cards; I know it’s never been something I’ve done, normally saying thank you at the time when receiving a present, or sending the person a text message. But it is a nice tradition, and a lovely way spread some cheer in a physical way. Although originally created for Thanksgiving, the cuteness of this free downloadable card, by Teela of Every Tuesday, is a great excuse to send some caring snail mail.</p>
 	</div>
 	<div class="col-md-6">
-		<a href="http://lovelyindeed.com/twenty-sixteen-desktop-wallpaper/" title="Download this free pink and blue Inspiring New Year Quote Wallpaper"><img src="/assets/blog/2016-01/inspiring-new-year-quote-wallpaper.png" alt="Download this free pink and blue inspiring New Year quote wallpaper | Freebie | Downloadable"></a>
-		<h2>4. <a href="http://lovelyindeed.com/twenty-sixteen-desktop-wallpaper/" title="Download this free pink and blue Inspiring New Year Quote Wallpaper">Inspiring New Year Quote Wallpaper</a></h2>
-		<p>A little bit of encouragement always helps if you're feeling a bit burnt out or overwhelmed, common emotions when January comes along. This wallpaper, with a number of inspiring short quotes, is not only bright and cheeful, but reminds us that we can do what we set our minds to in the new year.</p>
+		<a href="http://www.damasklove.com/free-printable-coloring-calendar-pages/" title="Download these free printable 2016 Coloring Calendar of Ridiculous Holidays"><img src="/assets/blog/2016-01/printable-coloring-calendar-pages.jpg" alt="Download these free printable 2016 Coloring Calendar of Ridiculous Holidays | Freebie | Downloadable"></a>
+		<h2>4. <a href="http://www.damasklove.com/free-printable-coloring-calendar-pages/" title="Download this free pink and blue Inspiring New Year Quote Wallpaper">Free Printable 2016 Coloring Calendar of Ridiculous Holidays</a></h2>
+		<p>Ridiculous holidays are big at the moment. My planner even has a few pages dedicated to them. So how about free printable calendar pages that not only celebrate these fun holidays, but that you can colour in yourself? A collaboration between the blog <a href="http://www.damasklove.com/">Damask Love</a> and illustrator <a href="http://www.kbecca.com">Kristen Magee</a>, this is a great wee freebie to help you relax in through the rest of 2016.</p>
 	</div>
 </div>
 
@@ -47,9 +47,9 @@ I think we all need a little pick me up to get over the January blues. So I’m 
 
 <div class="row">
 	<div class="col-md-6">
-		<a href="https://every-tuesday.com/freebie-printable-thank-you-card/" title="Download this Free Printable Thank You Card from Every Tuesday"><img src="/assets/blog/2016-01/printable-thank-you-card.jpg" alt="Download this Free Printable Thank You Card from Every Tuesday with dark blue calligraphy text, and gold and blue floral flourishes"></a>
-		<h2>5. <a href="https://every-tuesday.com/freebie-printable-thank-you-card/" title="Download this Free Printable Thank You Card from Every Tuesday">Printable Thank You Card</a></h2>
-		<p>I only know one or two people who still routinely send out thank you cards; I know it’s never been something I’ve done, normally saying thank you at the time when receiving a present, or sending the person a text message. But it is a nice tradition, and a lovely way spread some cheer in a physical way. Although originally created for Thanksgiving, the cuteness of this free downloadable card, by Teela of Every Tuesday, is a great excuse to send some caring snail mail.</p>
+		<a href="http://www.designlovefest.com/2016/01/dress-your-tech-124/" title="Download these photographic digital wallpapers of cakes with motivating messages from DesignLoveFest"><img src="/assets/blog/2016-01/motivating-cake-wallpaper.jpg" alt="Download these vibrant photographic digital wallpapers of cakes with motivating messages from DesignLoveFest | Photography"></a>
+		<h2>3. <a href="http://www.designlovefest.com/2016/01/dress-your-tech-124/" title="Download these photographic digital wallpapers of cakes with motivating messages from DesignLoveFest">Digital Wallpapers of Cakes with Motivating Messages</a></h2>
+		<p>Cake makes everything better. So how about digital wallpapers of cakes with motivating messages? DesignLoveFest always has a great <a href="http://www.designlovefest.com/category/downloads/" title="Digital Wallpapers from DesignLoveFest">selection of digital wallpapers</a>, and I love the quirky and fun vibe behind these photographic ones.</p>
 	</div>
 	<div class="col-md-6">
 		<a href="/freebie/2015/12/31/cat-celebration-wallpapers.html" title="Dowload these free cat-themed celebration wallpapers for the New Year / January 2016"><img src="/assets/blog/2016-01/freebie-january-2016-cat-celebration-wallpaper.jpg" alt="Dowload these free cat-themed celebration wallpapers for the New Year / January 2016 | Downloadables | Popcorn | Party Popper"></a>
