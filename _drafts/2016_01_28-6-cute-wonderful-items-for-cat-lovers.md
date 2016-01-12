@@ -50,8 +50,8 @@ I love pretty much all animals, but these little feline rascals manage to push a
 		<p>There are a fair number of artists and illustrators on Etsy creating beautiful custom pet portraits. But an embroidered one is something maybe a little more special and rare.</p>
 	</div>
 	<div class="col-md-6">
-		<a href="" title="I'm So Pretty Cat &amp; Flower Wooden Brooch by Karen Murray of A Rose Cast"><img src="/assets/blog/2016-01/pretty-cat-flower-wooden-brooch.jpg" alt="I'm So Pretty Cat &amp; Flower Wooden Brooch by Karen Murray of A Rose Cast" title="I'm So Pretty Cat &amp; Flower Wooden Brooch by Karen Murray of A Rose Cast"></a>
-		<h2>6. <a href="" title="I'm So Pretty Cat &amp; Flower Wooden Brooch by Karen Murray of A Rose Cast">I'm So Pretty Cat &amp; Flower Wooden Brooch</a></h2>
+		<a href="/my-work/2016/01/12/i-feel-pretty-ginger-cat.html" title="I'm So Pretty Cat &amp; Flower Wooden Brooch by Karen Murray of A Rose Cast"><img src="/assets/blog/2016-01/pretty-cat-flower-wooden-brooch.jpg" alt="I'm So Pretty Cat &amp; Flower Wooden Brooch by Karen Murray of A Rose Cast" title="I'm So Pretty Cat &amp; Flower Wooden Brooch by Karen Murray of A Rose Cast"></a>
+		<h2>6. <a href="/my-work/2016/01/12/i-feel-pretty-ginger-cat.html" title="I'm So Pretty Cat &amp; Flower Wooden Brooch by Karen Murray of A Rose Cast">I'm So Pretty Cat &amp; Flower Wooden Brooch</a></h2>
 		<p>And last, but hopefully not least, one of my newest products. This is an illustrated wooden brooch produced for my new Wild Sofa Beasts line, products inspired by my own cats. You can see a few other <a href="/project/illustration-wild-sofa-beasts.html" title="Wild Sofa Beasts Illustration and Product Line">future pieces on my folio</a>, which will be avaiable soon!</p>
 	</div>
 </div>

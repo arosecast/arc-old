@@ -4,7 +4,7 @@ title: Illustration | Wild Sofa Beasts
 description: I adore cats (and pretty much any other animal), and I wanted to do a little project where they are the focus. Wild Sofa Beasts is a range of illustration products all about cats. So far I have used my own three felines as the inspiration for the pieces. I have turned these first three illustrations into printed walnut wood brooches. These brooches will be up for sale in the next few weeks.
 etsylink: https://www.etsy.com/listing/257820045/walnut-wood-brooch-with-illustration-of
 s6link: https://society6.com/product/i-feel-pretty--ginger-cat-surrounded-by-flowers_print#1=45
-bloglink: 
+bloglink: /my-work/2016/01/12/i-feel-pretty-ginger-cat.html
 type: Illustration | Watercolor | Lettering | Jewellery
 ---
 
