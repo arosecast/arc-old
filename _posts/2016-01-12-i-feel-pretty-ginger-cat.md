@@ -2,13 +2,11 @@
 layout: post
 title:  "My Work // I Feel Pretty | Wooden Brooch of a Ginger Cat with Flowers"
 image: '/assets/blog/2016-01/thumb-i-feel-pretty-gingercat.jpg'
+date:   2016-01-12 11:30:00 +0000
 alt: by illustrator / artist Karen Muray of A Rose Cast
 categories: My-Work
 tags: Illustration Watercolor Cats Jewellery
 ---
-
-date:   2016-01-12 11:30:00 +0000
-
 
 <p class="intro">A few weeks ago I released my first pieces of <a href="https://www.etsy.com/shop/ARoseCast?section_id=18187909" title="Illustrated jewellery on A Rose Cast's Etsy store">illustrated jewellery</a>; two rose gold and walnut wood pendant necklaces. And today I'm adding this cat-themed wooden brooch to my product line.
 </p>
