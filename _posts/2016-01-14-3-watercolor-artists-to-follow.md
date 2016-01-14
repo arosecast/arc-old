@@ -2,12 +2,11 @@
 layout: post
 title:  "Creative Spotlight // 3 Watercolor Illustrators You Should Be Following"
 image: '/assets/blog/2016-01/thumb-watercolor-lady-gaga.jpg'
+date:   2016-01-14 11:00:00 +0000
 alt: Watercolor illustration of Lady Gaga by illustrator Helen Green
 categories: Creative-Spotlight
-tags: Illustration Watercolor Cats Fanart
+tags: Illustration Watercolor Cats Fanart Music
 ---
-
-date:   2016-01-14 10:00:00 +0000
 
 <p class="intro">As <a href="/" title="A Rose Cast Porfolio">my work</a> is primarily created using watercolours, I'm always looking for other artists who work within the same medium to glean new ideas and find inspiration. Here are a few who have captured my attention recently.</p>
 
@@ -16,7 +15,7 @@ date:   2016-01-14 10:00:00 +0000
 
 [1. Helen Green](http://helengreenillustration.com)
 ---
-If you are a fan of either David Bowie or Lady Gaga, I am sure you've come upon Helen Green's illustration work before. She focuses on portraiture, particularly related to the music and fashion industries; her <a href="http://helengreenillustration.com/Time-May-Change-Me" title="David Bowie Time May Change Me animation on Helen Green’s website">David Bowie career-spanning time lapse animation</a> is especially a sight to see. Her style is wonderfully unique; despite its realistic appearance, you can always tell her pieces from other watercolour artists. I also love her pattern illustration designs, such as these ones of <a href="http://helengreenillustration.com/Red-Dwarf-Patterns" title="Red Dwarf Watercolor Pattern Illustration on Helen Green’s website">Red Dwarf</a> and <a href="http://helengreenillustration.com/Duran-Duran-Paper-Gods" title="Duran Duran, Paper Gods Watercolor Pattern Illustration on Helen Green’s website">Duran Duran</a>.
+If you are a fan of either David Bowie or Lady Gaga, I am sure you've come upon Helen Green's illustration work before. She focuses on portraiture, particularly related to the music and fashion industries; her <a href="http://helengreenillustration.com/Time-May-Change-Me" title="David Bowie Time May Change Me animation on Helen Green’s website">David Bowie career-spanning time lapse animation</a> is a sight to see and especially poignant this week. Her style is wonderfully unique; despite its realistic appearance, you can always tell her pieces from other watercolour artists. I also love her pattern illustration designs, such as these ones of <a href="http://helengreenillustration.com/Red-Dwarf-Patterns" title="Red Dwarf Watercolor Pattern Illustration on Helen Green’s website">Red Dwarf</a> and <a href="http://helengreenillustration.com/Duran-Duran-Paper-Gods" title="Duran Duran, Paper Gods Watercolor Pattern Illustration on Helen Green’s website">Duran Duran</a>.
 
 * * *
 
