@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "My Work // Illustration of Haruki Murakami's novel 1Q84"
+title:  "My Work // Watercolour Illustration of Haruki Murakami's novel 1Q84"
+date: 	2016-01-19 09:00:00 +0000
 image: '/assets/blog/2016-01/thumb-murakami-1q84.jpg'
 alt: Illustration of Haruki Murakami's novel 1Q84 by illustrator / artist Karen Muray of A Rose Cast
 categories: My-Work
 tags: Illustration Watercolor Literature Haruki-Murakami
 ---
-
-date: 	2016-01-19 11:00:00 +0000
 
 <p class="intro">Another month, another one of my Haruki Murakami illustrations. This time it is of 1Q84, one of Murakami's many surreal novels.</p>
 
@@ -19,7 +18,7 @@ As I mentioned last month, when I shared my illustration for [Colorless Tsukuru 
 
 <div class="highlight">
   <p>Buy <span class="the">this</span> Piece <span class="the">on</span>
-    <a href="https://society6.com/product/LINK" title="Buy Watercolor illustration of Haruki Murakami's novel 1Q84 on the A Rose Cast Society6 store">Society6</a>
+    <a href="https://society6.com/product/watercolor-illustration-of-haruki-murakamis-novel-1q84_print#1=45" title="Buy Watercolor illustration of Haruki Murakami's novel 1Q84 on the A Rose Cast Society6 store">Society6</a>
     <span class="the">or</span>
     <a href="https://www.etsy.com/shop/ARoseCast?section_id=18192366" title="Buy Watercolor illustration of Haruki Murakami's novel 1Q84 on the A Rose Cast Etsy store">Etsy</a>
   </p>
@@ -36,6 +35,6 @@ Two and a half years went by. I was now working full time as an illustrator and 
 	</div>
 </div>
 
-So here is my new version of the illustration for Murakami’s novel, 1Q84. As normal, I have released it as an A6 and A4 print on my [Etsy](https://www.etsy.com/shop/ARoseCast?section_id=18192366 "Watercolour Illustration for Haruki Murakami's 1Q84 on Esty") store, as well as a range of products over on [Society6](LINK "Watercolour Illustration for Haruki Murakami's 1Q84 on Esty").
+So here is my new version of the illustration for Murakami’s novel, 1Q84. As normal, I have released it as an A6 and A4 print on my [Etsy](https://www.etsy.com/shop/ARoseCast?section_id=18192366 "Watercolour Illustration for Haruki Murakami's 1Q84 on Esty") store, as well as a range of products over on [Society6](https://society6.com/product/watercolor-illustration-of-haruki-murakamis-novel-1q84_print#1=45 "Watercolour Illustration for Haruki Murakami's 1Q84 on Esty").
 
 You can also get a sneak peek at all the rest of my <a href="/project/illustration-murakami.html" title="Haruki Murakami novel watercolor illustrations by illustrator / artist Karen Muray of A Rose Cast">Haruki Murakami novel illustrations</a> over on my portfolio. For now, Colorless Tsukuru is the only one available to purchase, but I'll be adding a new one every month to my online stores.

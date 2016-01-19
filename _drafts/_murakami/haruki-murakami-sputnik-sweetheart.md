@@ -9,11 +9,11 @@ tags: Illustration Watercolor Literature Haruki-Murakami
 
 date: 	2016-01-?? 12:00:00 +0000
 
-<p class="intro">Another month, another one of my Haruki Murakami illustrations. This time it is of Sputnik Sweetheart, TEXT.</p>
+<p class="intro">Here is a new illustration in my line of pieces devoted to Haruki Murakami novels. This time it is of Sputnik Sweetheart, a tale about one man’s search for a friend who has mysteriously disappeared while in Greece.</p>
 
 ![Watercolor illustration of Haruki Murakami's novel Sputnik Sweetheart by illustrator / artist Karen Muray of A Rose Cast](/assets/folio/murakami/illustration-murakami-sputniksweetheart.jpg "Watercolor illustration of Haruki Murakami's novel Sputnik Sweetheart by illustrator / artist Karen Muray of A Rose Cast")
 
-TEXT ABOUT NOVEL
+The novel is largely about how we mould ourselves, losing who we truly are, in order to adapt and live in a conformist society. It’s another Murakami novel I remember loving, however as it’s been, I think, seven years since I’ve read it, a lot of the detail and its events have left my memory. I’m looking forward to rereading this novel on my chronological reread of all of Murakami’s novels (I’m currently on BOOKTITLE).
 
 As I've mentioned before when sharing my other [Haruki Murakami illustrations](/tag/Haruki-Murakami/ "Watercolour Illustration for Haruki Murakami's Novels"), a few years ago I decided to do an [illustration for each of Haruki Murakami's novels](http://www.akaihane.co.uk/post/54588755092/haruki-murakami "The original Haruki Murakami novel illustrations") in order to practice. Each was hand drawn in pencil and coloured digitally in Photoshop. I was surprised by how popular they became, and had many people asking if any of them were for sale as prints. But I wasn’t quite happy enough with them to have them printed; I was at a point where I was still deep into training and hadn’t yet developed a style I was settled on.
 
@@ -36,6 +36,8 @@ Two and a half years went by. I was now working full time as an illustrator and 
 	</div>
 </div>
 
-So here is my new version of the illustration for Murakami’s novel, Sputnik Sweetheart. As normal, I have released it as an A6 and A4 print on my [Etsy](https://www.etsy.com/shop/ARoseCast?section_id=18192366 "Watercolour Illustration for Haruki Murakami's Sputnik Sweetheart on Esty") store, as well as a range of products over on [Society6](LINK "Watercolour Illustration for Haruki Murakami's Sputnik Sweetheart on Esty").
+So here is my new version of the illustration for Murakami’s novel, Sputnik Sweetheart. This illustration is of, unsurprisingly, the satellite Sputnik, set against a dark but enchanting spacescape (is that a word?). I think it works well as a kind of dreamy image, the star and nebula filled background softening the cold, hard edge of the metallic spacecraft.
+
+As normal, I have released it as an A6 and A4 print on my [Etsy](https://www.etsy.com/shop/ARoseCast?section_id=18192366 "Watercolour Illustration for Haruki Murakami's Sputnik Sweetheart on Esty") store, as well as a range of products over on [Society6](LINK "Watercolour Illustration for Haruki Murakami's Sputnik Sweetheart on Esty").
 
 You can also get a sneak peek at all the rest of my <a href="/project/illustration-murakami.html" title="Haruki Murakami novel watercolor illustrations by illustrator / artist Karen Muray of A Rose Cast">Haruki Murakami novel illustrations</a> over on my portfolio.

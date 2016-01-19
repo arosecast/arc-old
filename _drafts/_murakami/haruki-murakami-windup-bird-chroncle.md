@@ -9,11 +9,11 @@ tags: Illustration Watercolor Literature Haruki-Murakami
 
 date: 	2016-01-?? 12:00:00 +0000
 
-<p class="intro">Another month, another one of my Haruki Murakami illustrations. This time it is of The Wind-Up Bird Chronicle, TEXT.</p>
+<p class="intro">Here is my refined illustration for Haruki Murakami's The Wind-Up Bird Chronicle. I was first introduced to this tale through the first Murakami book I ever picked up, The Elephant Vanishes, a short story collection.</p>
 
 ![Watercolor illustration of Haruki Murakami's novel The Wind-Up Bird Chronicle by illustrator / artist Karen Muray of A Rose Cast](/assets/folio/murakami/illustration-murakami-windupbirdchroncle.jpg "Watercolor illustration of Haruki Murakami's novel The Wind-Up Bird Chronicle by illustrator / artist Karen Muray of A Rose Cast")
 
-TEXT ABOUT NOVEL
+The first chapter of this novel is a kind of rewrite of one of the stories from that collection, and one of my personal favourites. On first reading this novel, I didn’t know that Murakami often took one of his short stories and transformed them into a complete novel, so I had a strange sense of deja vu at first. The novel begins with a man looking for his missing cat, and, in true Murakami style, this mundane tasks leads him to a rather bizarre adventure. This is another of my favourite Murakami novels; I find it a fun and intriguing ride, and completely captivating.
 
 As I've mentioned before when sharing my other [Haruki Murakami illustrations](/tag/Haruki-Murakami/ "Watercolour Illustration for Haruki Murakami's Novels"), a few years ago I decided to do an [illustration for each of Haruki Murakami's novels](http://www.akaihane.co.uk/post/54588755092/haruki-murakami "The original Haruki Murakami novel illustrations") in order to practice. Each was hand drawn in pencil and coloured digitally in Photoshop. I was surprised by how popular they became, and had many people asking if any of them were for sale as prints. But I wasn’t quite happy enough with them to have them printed; I was at a point where I was still deep into training and hadn’t yet developed a style I was settled on.
 
@@ -36,6 +36,8 @@ Two and a half years went by. I was now working full time as an illustrator and 
 	</div>
 </div>
 
-So here is my new version of the illustration for Murakami’s novel, The Wind-Up Bird Chronicle. As normal, I have released it as an A6 and A4 print on my [Etsy](https://www.etsy.com/shop/ARoseCast?section_id=18192366 "Watercolour Illustration for Haruki Murakami's The Wind-Up Bird Chronicle on Esty") store, as well as a range of products over on [Society6](LINK "Watercolour Illustration for Haruki Murakami's The Wind-Up Bird Chronicle on Esty").
+So here is my new version of the illustration for Murakami’s novel, The Wind-Up Bird Chronicle. This is one of the illustrations I am most delighted with. I always loved the idea of the wind-up bird, and think it makes for a really alluring image. So there wasn’t really a better idea for what to depict.
+
+As normal, I have released it as an A6 and A4 print on my [Etsy](https://www.etsy.com/shop/ARoseCast?section_id=18192366 "Watercolour Illustration for Haruki Murakami's The Wind-Up Bird Chronicle on Esty") store, as well as a range of products over on [Society6](LINK "Watercolour Illustration for Haruki Murakami's The Wind-Up Bird Chronicle on Esty").
 
 You can also get a sneak peek at all the rest of my <a href="/project/illustration-murakami.html" title="Haruki Murakami novel watercolor illustrations by illustrator / artist Karen Muray of A Rose Cast">Haruki Murakami novel illustrations</a> over on my portfolio.
