@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Wish List // 6 Cute and Wonderful Items for Cat Lovers"
+date:   2016-01-28 10:00:00 +0000
 image: '/assets/blog/2016-01/thumb-enamel-cat-lapel-pin.jpg'
 alt: 
 categories: Wish-List
 tags: Cats Fashion Jewellery Embroidery
 ---
 
-date:   2016-01-28 12:00:00 +0000
 
 <p class="intro">I think if you asked any of my family or friends what my most loved thing in creation was, they would waste no time before saying cats.</p>
 
