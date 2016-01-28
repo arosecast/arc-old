@@ -11,7 +11,7 @@ tags: Cats Fashion Jewellery Embroidery
 
 <p class="intro">I think if you asked any of my family or friends what my most loved thing in creation was, they would waste no time before saying cats.</p>
 
-I love pretty much all animals, but these little feline rascals manage to push ahead of the pack, and something cat-related will always pop up in my Christmas and birthday presents. So here are a few of my favourite kitty-themed items created my independent artists.
+I love pretty much all animals, but these little feline rascals manage to push ahead of the pack, and something cat-related will always pop up in my Christmas and birthday presents. So here are a few of by favourite kitty-themed items created my independent artists.
 
 <div class="row">
 	<div class="col-md-6">
