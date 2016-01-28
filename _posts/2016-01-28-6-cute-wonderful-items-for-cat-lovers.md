@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Wish List // 6 Cute and Wonderful Items for Cat Lovers"
-date:   2016-01-28 10:00:00 +0000
+date:   2016-01-28 12:00:00 +0000
 image: '/assets/blog/2016-01/thumb-enamel-cat-lapel-pin.jpg'
 alt: 
 categories: Wish-List
@@ -20,9 +20,9 @@ I love pretty much all animals, but these little feline rascals manage to push a
 		<p>I love cats and I love avocado. So a pin that combines them both? Pony People has so many wonderful cat-related items, and I’m having a hard time choosing between them. But this one is maybe at the top of my list.</p>
 	</div>
 	<div class="col-md-6">
-		<a href="https://www.etsy.com/listing/235943204/enamel-cat-lapel-pin-enamel-pin-lapel" title="Grey Fluffy Cat Face Enamel Pin from I Like Cakes"><img src="/assets/blog/2016-01/enamel-cat-lapel-pin.jpg" alt="Grey Fluffy Cat Face Enamel Pin from I Like Cakes" title="Grey Fluffy Cat Face Enamel Pin from I Like Cakes"></a>
-		<h2>2. <a href="https://www.etsy.com/listing/235943204/enamel-cat-lapel-pin-enamel-pin-lapel" title="Grey Fluffy Cat Face Enamel Pin from I Like Cakes">Grey Fluffy Cat Face Enamel Pin</a></h2>
-		<p>Really anything from the Etsy store I Like CATS is worth a purchase. Pins, prints, t-shirts, tote bags ... the list goes on. Everything is equally  adorable.</p>
+		<a href="https://www.etsy.com/shop/ilikeCATSshop" title="Fluffy Cat Face Enamel Pin from I Like Cakes"><img src="/assets/blog/2016-01/enamel-cat-lapel-pin.jpg" alt="Fluffy Cat Face Enamel Pin from I Like Cakes" title="Fluffy Cat Face Enamel Pin from I Like Cakes"></a>
+		<h2>2. <a href="https://www.etsy.com/shop/ilikeCATSshop">I Like CATS</a></h2>
+		<p>Anything from the Etsy store I Like CATS, run by Toby, is worth a purchase. Pins, prints, t-shirts, tote bags ... the list goes on. Everything is equally adorable and cat themed.</p>
 	</div>
 </div>
 
@@ -45,8 +45,8 @@ I love pretty much all animals, but these little feline rascals manage to push a
 
 <div class="row">
 	<div class="col-md-6">
-		<a href="https://www.etsy.com/listing/169834257/hand-embroidered-cat-or-dog-portrait-5" title="Hand Embroidered Cat (or Dog) Portrait by HOOPLASTITCH"><img src="/assets/blog/2016-01/hand-embroidered-cat-dog-portrait.jpg" alt="Hand Embroidered Cat (or Dog) Portrait by HOOPLASTITCH" title="Hand Embroidered Cat (or Dog) Portrait by HOOPLASTITCH"></a>
-		<h2>5. <a href="https://www.etsy.com/listing/169834257/hand-embroidered-cat-or-dog-portrait-5" title="Hand Embroidered Cat (or Dog) Portrait by HOOPLASTITCH">Hand Embroidered Cat (or Dog) Portrait</a></h2>
+		<a href="http://www.hooplastitch.com/petportraits/" title="Hand Embroidered Cat (or Dog) Portrait by HOOPLASTITCH"><img src="/assets/blog/2016-01/hand-embroidered-cat-dog-portrait.jpg" alt="Hand Embroidered Cat (or Dog) Portrait by HOOPLASTITCH" title="Hand Embroidered Cat (or Dog) Portrait by HOOPLASTITCH"></a>
+		<h2>5. <a href="http://www.hooplastitch.com/petportraits/" title="Hand Embroidered Cat (or Dog) Portrait by HOOPLASTITCH">Hand Embroidered Cat (or Dog) Portrait</a></h2>
 		<p>There are a fair number of artists and illustrators on Etsy creating beautiful custom pet portraits. But an embroidered one is something maybe a little more special and rare.</p>
 	</div>
 	<div class="col-md-6">
