@@ -1,17 +1,16 @@
 ---
 layout: post
 title:  "Month in Review // January 2016"
+date:   2016-02-04 10:00:00 +0000
 image: '/assets/blog/2016-02/thumb-miyajima-itsukushima.jpg'
 alt: Itsukushima Shrine in Miyajima, just off the coast of Hiroshima
 categories: Month-in-Review
 tags: Illustration
 ---
 
-date:   2016-02-04 12:00:00 +0000
-
 <p class="intro">Finally the dark days of January are over. When I finish work each day, there is actually still a bit of light in the sky, and in a week I celebrate my birthday! Yay for February.</p>
 
-But January has been a very good month for me. I've been hard at work for a new exciting prospect this March. (Which I'll be revealing very soon. It will especially be of interest to any of you in Northern Ireland.) And I've been producing some work that I am incredibly chuffed with. So here's a little recap of this past month.
+But January has been a very good month for me. I've been hard at work for a new exciting prospect starting this March. (Which I'll be revealing very soon. It will especially be of interest to any of you in Northern Ireland.) And I've been producing some work that I am incredibly chuffed with. So here's a little recap of this past month.
 
 <div class="row">
 	<div class="col-md-6">
@@ -78,7 +77,7 @@ What I’ve been Loving and Lusting Over
 
 Snapshots
 ---
-+ A sneak peek of my February 'Take a Leap' Printable Freebie [(Get it here!)](/freebies/2016/01/29/example-freebie.html)
++ A sneak peek of my February 'Take a Leap' Printable Freebie [(Get it here!)](/freebies/2016/02/02/freebie-take-a-leap-printable.html)
 + Redoing an old piece of work for a book cover. Feeling much happier with it now
 + Creating blue ombre hair for a new portrait illustration I'm using for a greeting card (and maybe more)
 + Another photo from my journey to Japan back in November, this time of the breathtaking Itsukushima Shrine in Miyajima, just off the coast of Hiroshima. If you are going to Japan, you MUST visit this island!
@@ -91,7 +90,7 @@ Other Happenings This Month
 + <strong>Reading</strong> // Hear / Pinball by Haruki Murakami. So happy to finally have the chance to read my favourite author's first two novels. Take a look at my [illustrations of Murakami's novels](/project/illustration-murakami.html), including these two ([Follow me on Goodreads](https://www.goodreads.com/user/show/1680658-karen-murray))
 + <strong>Watching</strong> // After waiting FAR too long for more than the first season to be shown on TV channels we have access to, we crumbled and bought the first four seasons of Game of Thrones on DVD. Now up to the start of the third season (still so behind) and wondering who'll be the next to die.
 + <strong>Listening</strong> // Skunk Anansie's new album, [Anarchytecture](https://open.spotify.com/album/0LBwAgeS29l0dbOI5ADdka). Long time fan, so always great to have new stuff from these guys.
-+ <strong>Playing</strong> // [Monument Valley](http://www.monumentvalleygame.com). I don't know why it took me so long to play (espically as I have a friend who works for [UsTwo](https://ustwo.com)), but I really loved it. Beautiful is an understatement. And I guess I'm not as bad at puzzle games as I thought. Maybe my brain just doesn't understand Zelda.
++ <strong>Playing</strong> // [Monument Valley](http://www.monumentvalleygame.com). I don't know why it took me so long to play (especially as I have a friend who works for [UsTwo](https://ustwo.com)), but I really loved it. Beautiful is an understatement. And I guess I'm not as bad at puzzle games as I thought. Maybe my brain just doesn't understand Zelda.
 + <strong>Eating</strong> // Marks &amp; Spencers have released cherry flavoured 'jaffa' cakes. They are unbelievable!
-+ <strong>Learning</strong> // LEARN
++ <strong>Learning</strong> // How to design packaging suited to physical stores (I'm used to selling online where the smaller the packaging the better!), and all about wholesale
 + <strong>Doing</strong> // Now that the major work has been completed in our flat, now it's onto the fun stuff, such as putting pretty stuff on the walls!
