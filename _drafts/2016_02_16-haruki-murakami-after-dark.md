@@ -7,7 +7,7 @@ categories: My-Work
 tags: Illustration Watercolor Literature Haruki-Murakami
 ---
 
-date: 	2016-01-?? 12:00:00 +0000
+date: 	2016-02-16 12:00:00 +0000
 
 <p class="intro">Another month, another one of my Haruki Murakami illustrations. This time it is of After Dark, a novel all about alienation, set over the course of one night after two of its principle characters meet at a Denny’s diner.</p>
 
