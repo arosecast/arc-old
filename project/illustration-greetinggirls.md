@@ -2,8 +2,7 @@
 layout: project
 title: Illustration | Greeting Girls
 description: A series of celebratory greeting cards featuring different lovely women, and a whole host of party accessories, such as balloons, presents, party poppers, confetti and, of course, cake. They are perfect as birthday cards, but also work brilliantly for graduations or just when you want to have a party.
-bloglink: 
-etsylink: https://www.etsy.com/listing/222817080/greeting-cards-select-who-you-want-ayo
+etsylink: https://www.etsy.com/shop/arosecast?section_id=18187907
 s6link: https://society6.com/akai_hane/collection/portraits
 type: Illustration | Watercolor | Lettering | Portraits | Stationery
 ---

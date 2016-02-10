@@ -28,10 +28,10 @@ Two and a half years went by. I was now working full time as an illustrator and 
 
 <div class="row">
 	<div class="col-md-6">
-		<a href="https://www.etsy.com/shop/ARoseCast?section_id=18192366" title="A4 watercolor illustration Art Print of Haruki Murakami's novel 1Q84 on Etsy"><img src="/assets/blog/2016-01/a4-illustration-murakami-1q84.jpg" alt="A4 watercolor illustration Art Print of Haruki Murakami's novel 1Q84 on Etsy"></a>
+		<a href="https://www.etsy.com/listing/258057151/haruki-murakamis-1q84-a4-illustration-of" title="A4 watercolor illustration Art Print of Haruki Murakami's novel 1Q84 on Etsy"><img src="/assets/blog/2016-01/a4-illustration-murakami-1q84.jpg" alt="A4 watercolor illustration Art Print of Haruki Murakami's novel 1Q84 on Etsy"></a>
 	</div>
 	<div class="col-md-6">
-		<a href="https://www.etsy.com/shop/ARoseCast?section_id=18192366" title="A6 watercolor illustration Art Print of Haruki Murakami's novel 1Q84 on Etsy"><img src="/assets/blog/2016-01/a6-illustration-murakami-1q84.jpg" alt="A6 watercolor illustration Art Print of Haruki Murakami's novel 1Q84 on Etsy"></a>
+		<a href="https://www.etsy.com/listing/267617721/haruki-murakami-watercolor-novel" title="A6 watercolor illustration Art Print of Haruki Murakami's novel 1Q84 on Etsy"><img src="/assets/blog/2016-01/a6-illustration-murakami-1q84.jpg" alt="A6 watercolor illustration Art Print of Haruki Murakami's novel 1Q84 on Etsy"></a>
 	</div>
 </div>
 

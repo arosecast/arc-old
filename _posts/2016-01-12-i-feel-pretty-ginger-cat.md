@@ -35,3 +35,5 @@ This piece is based on <a href="https://www.instagram.com/p/8nSfiJmFWm/" title="
 </div>
 
 You can have a sneak peek at the other two finished <a href="/project/illustration-wild-sofa-beasts.html" title="See the other cat-themed wooden brooches, due to be released over the next few months">cat-themed wooden brooches</a> over on my portfolio, (which include my other two cats <a href="https://www.instagram.com/p/5wHS6TGFTD/" title="Mog and Monty on A Rose Cast's Instagram">Mog and Monty</a>). For now, 'I Feel Pretty' is the only one available to purchase, but I'm hoping to add a new one every month to my online stores.
+
+UPDATE: I have now added a new <em>Wild Sofa Beasts</em> wooden brooch, [Crazy Cat Lady](/my-work/2016/02/09/crazy-cat-lady.html).
