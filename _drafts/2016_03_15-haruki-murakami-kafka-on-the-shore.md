@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "My Work // Illustration of Haruki Murakami's novel Kafka On The Shore"
-image: '/assets/blog/draft/thumb-murakami-kafkaontheshore.jpg'
+image: '/assets/blog/2016-03/thumb-murakami-kafkaontheshore.jpg'
 alt: Illustration of Haruki Murakami's novel Kafka On The Shore by illustrator / artist Karen Muray of A Rose Cast
 categories: My-Work
 tags: Illustration Watercolor Literature Haruki-Murakami
 ---
 
-date: 	2016-01-?? 12:00:00 +0000
+date: 	2016-03-15 12:00:00 +0000
 
 <p class="intro">Another month, another one of my Haruki Murakami illustrations. This time it is of Kafka On The Shore, a novel about a teenage runaway and talking cats.</p>
 
@@ -31,10 +31,10 @@ Two and a half years went by. I was now working full time as an illustrator and 
 
 <div class="row">
 	<div class="col-md-6">
-		<a href="https://www.etsy.com/shop/ARoseCast?section_id=18192366" title="A4 watercolor illustration Art Print of Haruki Murakami's novel Kafka On The Shore on Etsy"><img src="/assets/blog/draft/a4-illustration-murakami-kafkaontheshore.jpg" alt="A4 watercolor illustration Art Print of Haruki Murakami's novel Kafka On The Shore on Etsy"></a>
+		<a href="https://www.etsy.com/shop/ARoseCast?section_id=18192366" title="A4 watercolor illustration Art Print of Haruki Murakami's novel Kafka On The Shore on Etsy"><img src="/assets/blog/2016-03/a4-illustration-murakami-kafkaontheshore.jpg" alt="A4 watercolor illustration Art Print of Haruki Murakami's novel Kafka On The Shore on Etsy"></a>
 	</div>
 	<div class="col-md-6">
-		<a href="https://www.etsy.com/shop/ARoseCast?section_id=18192366" title="A6 watercolor illustration Art Print of Haruki Murakami's novel Kafka On The Shore on Etsy"><img src="/assets/blog/draft/a6-illustration-murakami-kafkaontheshore.jpg" alt="A6 watercolor illustration Art Print of Haruki Murakami's novel Kafka On The Shore on Etsy"></a>
+		<a href="https://www.etsy.com/shop/ARoseCast?section_id=18192366" title="A6 watercolor illustration Art Print of Haruki Murakami's novel Kafka On The Shore on Etsy"><img src="/assets/blog/2016-03/a6-illustration-murakami-kafkaontheshore.jpg" alt="A6 watercolor illustration Art Print of Haruki Murakami's novel Kafka On The Shore on Etsy"></a>
 	</div>
 </div>
 
