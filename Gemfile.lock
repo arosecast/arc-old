@@ -8,6 +8,7 @@ GEM
     ffi (1.9.10)
     foreman (0.78.0)
       thor (~> 0.19.1)
+    gsl (1.16.0.6)
     jekyll (3.0.0)
       colorator (~> 0.1)
       jekyll-sass-converter (~> 1.0)
@@ -44,6 +45,7 @@ PLATFORMS
 DEPENDENCIES
   classifier-reborn
   foreman
+  gsl
   jekyll
   jekyll-archives
   jekyll-paginate
