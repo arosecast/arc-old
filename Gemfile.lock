@@ -6,6 +6,8 @@ GEM
     colorator (0.1)
     fast-stemmer (1.0.2)
     ffi (1.9.10)
+    foreman (0.78.0)
+      thor (~> 0.19.1)
     jekyll (3.0.0)
       colorator (~> 0.1)
       jekyll-sass-converter (~> 1.0)
@@ -34,12 +36,14 @@ GEM
     rouge (1.10.1)
     safe_yaml (1.0.4)
     sass (3.4.19)
+    thor (0.19.1)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   classifier-reborn
+  foreman
   jekyll
   jekyll-archives
   jekyll-paginate
