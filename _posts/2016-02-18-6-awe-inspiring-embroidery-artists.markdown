@@ -4,8 +4,8 @@ title:  "Creative Spotlight // 6 Awe-Inspiring Embroidery Artists"
 date:   2016-02-18 10:00:00 +0000
 image: '/assets/blog/2016-02/thumb-embroidery-artists.jpg'
 alt: 	Embroidery Work by Carrie Violet of Memorial Stitches
-categories: Creative-Spotlight
-tags: Embroidery Homewares Art
+categories: creative-spotlight
+tags: embroidery homewares art
 ---
 
 <p class="intro">Embroidery art really seems to have taken off over the past little while.</p>

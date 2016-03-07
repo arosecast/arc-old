@@ -4,8 +4,8 @@ title:  "Freebie // Printable Tattoo-Inspired Christmas Garland Downloads"
 date: 	2015-12-10 12:00:00 +0000
 image: '/assets/blog/2015-12/thumb-freebie.jpg'
 alt: Printable Tattoo-Inspired Christmas Garland Downloads, including Santa Claus, Reindeers, Robins, Stars and Fairy Lights
-categories: Freebie
-tags: Printable Download Christmas Events
+categories: freebie
+tags: printable download holidays events
 ---
 
 <p class="intro">Due to more than a few factors (relaunching my business, sickness and a long trip to Japan), I was not only unable to add any Christmas products to my <a href="https://www.etsy.com/shop/arosecast" title="A Rose Cast on Etsy">Etsy store</a> (I really wanted to sell Christmas cards this year!), but didn't get around to making a little freebie to giveaway.</p>

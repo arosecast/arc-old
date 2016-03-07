@@ -4,8 +4,8 @@ title:  "Wish List // 6 Cute and Wonderful Items for Cat Lovers"
 date:   2016-01-28 12:00:00 +0000
 image: '/assets/blog/2016-01/thumb-enamel-cat-lapel-pin.jpg'
 alt: 
-categories: Wish-List
-tags: Cats Fashion Jewellery Embroidery
+categories: wish-list
+tags: cats fashion jewellery embroidery
 ---
 
 

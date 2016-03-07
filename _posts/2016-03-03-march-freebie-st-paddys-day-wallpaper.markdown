@@ -4,8 +4,8 @@ title:  "Freebie // March 2016 | Cat-Themed St. Paddy's Day Downloadable Wallpap
 date:   2016-03-03 11:00:00 +0000
 image: '/assets/blog/2016-03/thumb-freebie-march-2016-cat-st-paddys-day-wallpaper.jpg'
 alt: Freebie March 2016 - Cat-Themed St. Paddy's Day Watercolour Illustration - Downloadable Wallpaper
-categories: Freebie
-tags: Downloads Printable Holidays Cats Watercolor
+categories: freebie
+tags: downloads printable holidays cats watercolor wild-sofa-beasts
 ---
 
 ![Freebie March 2016 - Cat-Themed St. Paddy's Day Watercolour Illustration - Downloadable Wallpaper by A Rose Cast](/assets/blog/2016-03/freebie-march-2016-cat-st-paddys-day-wallpaper-01.jpg "Freebie March 2016 - Cat-Themed St. Paddy's Day Watercolour Illustration - Downloadable Wallpaper by @arosecast")

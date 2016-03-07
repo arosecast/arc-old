@@ -4,8 +4,8 @@ title:  "Month in Review // December 2015"
 date:   2016-01-05 12:00:00 +0000
 image: '/assets/blog/2015-12/thumb-mir-december.jpg'
 alt: Eye Baubles for your Christmas Tree - Month in Review // December 2015
-categories: Month-in-Review
-tags: Illustration Cats Literature Film/TV Music
+categories: month-in-review
+tags: illustration cats literature film tv music
 ---
 
 <p class="intro">So, this has been a pretty big month for me. Not only in terms of the festive season, but also as I've <a href="/my-work/2015/12/01/welcome-to-a-rose-cast.html" title="A New Start | Welcome to A Rose Cast">relaunched my illustration and design business</a>. I've been relearning how to blog and promote my work, hopefully in a more successful way than before.</p>

@@ -4,8 +4,8 @@ title:  "My Work // Watercolour Illustration of Haruki Murakami's novel 1Q84"
 date: 	2016-01-19 09:00:00 +0000
 image: '/assets/blog/2016-01/thumb-murakami-1q84.jpg'
 alt: Illustration of Haruki Murakami's novel 1Q84 by illustrator / artist Karen Muray of A Rose Cast
-categories: My-Work
-tags: Illustration Watercolor Literature Haruki-Murakami
+categories: my-work
+tags: illustration watercolor literature haruki-murakami
 ---
 
 <p class="intro">Another month, another one of my Haruki Murakami illustrations. This time it is of 1Q84, one of Murakami's many surreal novels.</p>

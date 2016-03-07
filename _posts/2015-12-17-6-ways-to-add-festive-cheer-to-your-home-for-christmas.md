@@ -4,8 +4,8 @@ title:  "Loved Links // 6 Wonderful Ways to Add Festive Cheer to Your Home for C
 date: 	2015-12-17 12:00:00 +0000
 image: '/assets/blog/2015-12/thumb-lovedlinks.jpg'
 alt: How to create your own DIY Illuminated Christmas Village Scene, complete with a free template
-categories: Loved-Links
-tags: Home-Decor Events DIY Christmas Templates
+categories: loved-links
+tags: home-decor events diy holidays templates
 ---
 
 <p class="intro">Sure, any time before the 25th December is not too late to add new little bits of festive decor, no?</p>

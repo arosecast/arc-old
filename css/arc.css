@@ -99,7 +99,7 @@ div.storeLink a {display: block; font-size: 1.5em; background: #c4dbd3; color: #
 div.storeLink a:hover {background: #ffdbd3;}
 
 /* Thumbnails */
-.thumbnail {margin-bottom: 30px; padding: 0; background-color: transparent; border: none; border-radius: 0;}
+.thumbnail {overflow: hidden; height: 245px; margin-bottom: 30px; padding: 0; background-color: transparent; border: none; border-radius: 0;}
 .thumbnail .caption {padding: 0;}
 
 #content article .thumbnail img {margin-bottom: 0;}

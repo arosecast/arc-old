@@ -3,8 +3,8 @@ layout: post
 title:  "Freebie // Cat-Themed Celebration Wallpapers for the New Year / January 2016"
 image: '/assets/blog/2016-01/thumb-freebie-cat-celebration-wallpaper.jpg'
 alt: ALT
-categories: Freebie
-tags: Cats Downloads Wallpaper
+categories: freebie
+tags: cats downloads wallpaper wild-sofa-beasts
 ---
 
 <p class="intro">Today I have the first of many freebies I hope to share with you available for download. Each month I plan to upload a new freebie ~ sometimes wallpapers, other times printables.</p>

@@ -4,8 +4,8 @@ title:  "Loved Links // 6 Downloadable Freebies to Help Cure the January Blues"
 date:   2016-01-07 10:00:00 +0000
 image: '/assets/blog/2016-01/thumb-january-2016-freebies.jpg'
 alt: This is the alt text for the image
-categories: Loved-Links
-tags: Printable Download Cats Cake Holidays
+categories: loved-links
+tags: printable download cats cake holidays
 ---
 
 

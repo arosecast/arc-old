@@ -4,8 +4,8 @@ title:  "Wish List // 6 Presents I Want for Christmas from Independent Artists &
 date:   2015-12-03 12:00:00 +0000
 image: '/assets/blog/2015-12/thumb-wishlist.jpg'
 alt: Be the Leslie Knope of whatever you do - Parks and Rec mug from Charm &amp; Gumption
-categories: Wish-List
-tags: Jewellery Home-Decor Clothing Fashion Fandom Film Art
+categories: wish-list
+tags: jewellery home-decor clothing fashion fandom film art
 ---
 
 <p class="intro">Ah, Christmas. How on earth is it December already?</p>

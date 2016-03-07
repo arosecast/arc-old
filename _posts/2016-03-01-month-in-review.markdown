@@ -4,8 +4,8 @@ title:  "Month in Review // Feburary 2016"
 date:   2016-03-01 14:00:00 +0000
 image: '/assets/blog/2016-03/thumb-wooden-brooch-crazy-cat-lady.jpg'
 alt: Crazy Cat - Lady Wooden Brooch of a Girl and Her Cats by illustrator / artist Karen Muray of A Rose Cast
-categories: Month-in-Review
-tags: Illustration Fanart Jewellery 
+categories: month-in-review
+tags: illustration fan-art jewellery 
 ---
 
 <p class="intro">February was a busy month for me. Not only did I celebrate another birthday, but I was working on both new products and my first launch in a physical store.</p>

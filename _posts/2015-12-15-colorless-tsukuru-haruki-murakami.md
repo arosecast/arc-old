@@ -4,8 +4,8 @@ title:  "My Work // Illustration of Haruki Murakami's novel Colorless Tsukuru Ta
 date: 	2015-12-15 12:00:00 +0000
 image: '/assets/blog/2015-12/thumb-colorlesstsukuru.jpg'
 alt: Illustration of Haruki Murakami's novel Colorless Tsukuru Tazaki and His Years of Pilgrimage by illustrator / artist Karen Muray of A Rose Cast
-categories: My-Work
-tags: Illustration Watercolor Literature Haruki-Murakami
+categories: my-work
+tags: illustration watercolor literature haruki-murakami
 ---
 
 <p class="intro">I've been a Haruki Murakami fan for around 15 years now, after first becoming intrigued by the cover of The Elephant Vanishes while perusing a local bookstore.</p>

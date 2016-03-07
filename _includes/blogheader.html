@@ -11,7 +11,7 @@
     <span>Column</span>
     //
     <a href="/category/{{ page.categories.first }}">
-      {{ page.categories.first | replace: '-', ' ' }}
+      {{ page.categories.first | capitalize | replace: '-', ' ' }}
     </a>
   </p>
 </header>

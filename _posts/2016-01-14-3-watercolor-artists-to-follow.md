@@ -4,8 +4,8 @@ title:  "Creative Spotlight // 3 Watercolor Illustrators You Should Be Following
 image: '/assets/blog/2016-01/thumb-watercolor-lady-gaga.jpg'
 date:   2016-01-14 11:00:00 +0000
 alt: Watercolor illustration of Lady Gaga by illustrator Helen Green
-categories: Creative-Spotlight
-tags: Illustration Watercolor Cats Fanart Music
+categories: creative-spotlight
+tags: illustration watercolor cats fan-art music
 ---
 
 <p class="intro">As <a href="/" title="A Rose Cast Porfolio">my work</a> is primarily created using watercolours, I'm always looking for other artists who work within the same medium to glean new ideas and find inspiration. Here are a few who have captured my attention recently.</p>

@@ -4,8 +4,8 @@ title:  "Happy Holidays!"
 image: '/assets/blog/2015-12/thumb-christmas-tree-bauble.jpg'
 date:   2015-12-22 12:00:00 +0000
 alt: Photo of a Christmas Tree Bauble
-category: Misc
-tags: Christmas
+category: misc
+tags: holidays
 ---
 
 <p class="intro">Just a little quick post to wish you all Happy Holidays / Merry Christmas, and a Happy New Year! I’ll be bedding down at home with my partner and our cats until 4th January, hopefully doing a lot of reading, watching of TV, and just relaxing properly for the first time in a very long time.</p>

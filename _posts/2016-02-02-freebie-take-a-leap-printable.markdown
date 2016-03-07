@@ -4,8 +4,8 @@ title:  "Freebie // February 2016 - Downloadable 'Take a Leap' Printable"
 date:   2016-02-02 10:00:00 +0000
 image: '/assets/blog/2016-02/thumb-freebie-take-a-leap.jpg'
 alt: February Freebie // 'Take a Leap' Downloadable Printable
-categories: Freebies
-tags: Downloads Printable Lettering Illustration
+categories: freebie
+tags: downloads printable lettering illustration
 ---
 
 <p class="intro">Last month I created some <a href="/freebie/2015/12/31/cat-celebration-wallpapers.html" title="January Freebie // Cat and Celebration Themed Digital Wallpapers">cat and celebration themed digital wallpapers</a> for you all. For this month's freebie, I decided to make an illustrated printable.</p>

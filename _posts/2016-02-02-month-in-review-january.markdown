@@ -4,8 +4,8 @@ title:  "Month in Review // January 2016"
 date:   2016-02-04 10:00:00 +0000
 image: '/assets/blog/2016-02/thumb-miyajima-itsukushima.jpg'
 alt: Itsukushima Shrine in Miyajima, just off the coast of Hiroshima
-categories: Month-in-Review
-tags: Illustration
+categories: month-in-review
+tags: illustration tv music travel
 ---
 
 <p class="intro">Finally the dark days of January are over. When I finish work each day, there is actually still a bit of light in the sky, and in a week I celebrate my birthday! Yay for February.</p>

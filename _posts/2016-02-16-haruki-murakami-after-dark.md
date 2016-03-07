@@ -4,8 +4,8 @@ title:  "My Work // Illustration of Haruki Murakami's novel After Dark"
 date: 	2016-02-16 10:00:00 +0000
 image: '/assets/blog/draft/thumb-murakami-after-dark.jpg'
 alt: Illustration of Haruki Murakami's novel After Dark by illustrator / artist Karen Muray of A Rose Cast
-categories: My-Work
-tags: Illustration Watercolor Literature Haruki-Murakami
+categories: my-work
+tags: illustration watercolor literature haruki-murakami
 ---
 
 
