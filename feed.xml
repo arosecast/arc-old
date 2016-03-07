@@ -5,8 +5,8 @@
     <description>A Rose Cast is a one-person studio producing illustration and design work for clients, both big and small, as well as a line of illustrative products ~ from art prints and stationery, to jewellery and homewares ~ sold both online and in physical stores.</description>
     <link>http://www.arosecast.com/</link>
     <atom:link href="http://www.arosecast.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 07 Mar 2016 15:12:52 +0000</pubDate>
-    <lastBuildDate>Mon, 07 Mar 2016 15:12:52 +0000</lastBuildDate>
+    <pubDate>Mon, 07 Mar 2016 15:17:16 +0000</pubDate>
+    <lastBuildDate>Mon, 07 Mar 2016 15:17:16 +0000</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
     
       <item>
@@ -57,14 +57,18 @@
         <link>http://www.arosecast.com/my-work/2016/03/07/90s-grunge-girl-sam.html</link>
         <guid isPermaLink="true">http://www.arosecast.com/my-work/2016/03/07/90s-grunge-girl-sam.html</guid>
         
-        <category>Illustration</category>
+        <category>illustration</category>
         
-        <category>Watercolor</category>
+        <category>watercolor</category>
         
-        <category>Music</category>
+        <category>music</category>
+        
+        <category>portrait</category>
+        
+        <category>jewellery</category>
         
         
-        <category>My-Work</category>
+        <category>my-work</category>
         
       </item>
     
