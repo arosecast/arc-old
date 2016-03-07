@@ -19,3 +19,7 @@ type: Illustration | Watercolor | Lettering | Jewellery
 ![Crazy Cat Lady // A pink-haired girl with kitty ears holding three cats](/assets/folio/wsb/illustration-crazy-cat-lady.jpg "Crazy Cat Lady // A pink-haired girl with kitty ears holding three cats")
 
 ![Crazy Cat Lady // A printed wooden brooch with an illustration of a pink-haired girl with kitty ears holding three cats](/assets/folio/wsb/wooden-brooch-crazy-cat-lady.jpg "Crazy Cat Lady // A printed wooden brooch with an illustration of a pink-haired girl with kitty ears holding three cats")
+
+![Happiness is a Warm Puppy - Watercolour Illustration of a Shiba Inu Dog in a Scarf by Karen Murray of A Rose Cast](/assets/folio/wsb/illustration-happiness-warm-puppy-dog.jpg "Happiness is a Warm Puppy - Watercolour Illustration of a Shiba Inu Dog in a Scarf by Karen Murray of A Rose Cast")
+
+![Happiness is a Warm Puppy - Wooden Brooch of a Shiba Inu Dog in a Scarf](/assets/folio/wsb/happiness-warm-puppy-dog-wooden-brooch.jpg "Happiness is a Warm Puppy - Wooden Brooch of a Shiba Inu Dog in a Scarf")
