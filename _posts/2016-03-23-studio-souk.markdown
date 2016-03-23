@@ -21,27 +21,26 @@ It's long been one of my favourite places to visit in Belfast (I remember browsi
 
 Studio Souk stock almost all of the items currently available on my [Etsy store](https://www.etsy.com/shop/arosecast), but they have a few exclusive products. If you are local to Belfast or Northern Ireland, you can buy the products shown here in-store. If not, don't worry; over the next few months all of these items will be popping up to buy online. So for now, here’s a few sneak peaks.
 
-<div class="row">
-	<div class="col-md-6">
-		<img src="/assets/blog/2016-03/happiness-is-a-warm-puppy-quote-woden-brooch.jpg" alt="" title="">
-	</div>
-	<div class="col-md-6">
-		<img src="/assets/blog/2016-03/wooden-brooch-books-cats-life-is-good06.jpg" alt="" title="Cats. Books. Life is Good - Watercolour Illustration on a Wooden Brooch of a Blue Tabby Reading a Book by Karen Murray of A Rose Cast">
-	</div>
-</div>
+![Happiness is a Warm Puppy - Watercolour Illustration on a Wooden Brooch of a Dog with a Scarf](/assets/blog/2016-03/happiness-is-a-warm-puppy-quote-woden-brooch.jpg "Happiness is a Warm Puppy - Watercolour Illustration on a Wooden Brooch of a Dog with a Scarf")
 
-![sss](/assets/blog/2016-03/rose-gold-wooden-pendant-necklaces.jpg "ss")
+![Cats. Books. Life is Good - Watercolour Illustration on a Wooden Brooch of a Blue Tabby Reading a Book by Karen Murray of A Rose Cast](/assets/blog/2016-03/wooden-brooch-books-cats-life-is-good06.jpg "Cats. Books. Life is Good - Watercolour Illustration on a Wooden Brooch of a Blue Tabby Reading a Book by Karen Murray of A Rose Cast")
+
+![A selection of rose gold and wooden pendant necklaces with watercolour illustrations](/assets/blog/2016-03/rose-gold-wooden-pendant-necklaces.jpg "A selection of rose gold and wooden pendant necklaces with watercolour illustrations")
 
 <div class="row">
 	<div class="col-md-6">
-		<img src="/assets/blog/2016-03/clio-rose-gold-wooden-necklace.jpg" alt="" title="">
+		<img src="/assets/blog/2016-03/minerva-glasses-rose-gold-wooden-necklace.jpg" alt="Rose gold and wooden pendant necklace of a watercolour illustrations of Minerva" title="Rose gold and wooden pendant necklace of a watercolour illustrations of Minerva">
 	</div>
 	<div class="col-md-6">
-		<img src="/assets/blog/2016-03/minerva-glasses-rose-gold-wooden-necklace.jpg" alt="" title="">
+		<img src="/assets/blog/2016-03/clio-rose-gold-wooden-necklace.jpg" alt="Rose gold and wooden pendant necklace of a watercolour illustrations of Clio" title="Rose gold and wooden pendant necklace of a watercolour illustrations of Clio">
 	</div>
 </div>
 
-<!--<div class="row">
+<div class="row">
+![A Rose Cast Jewellery, Art Prints and Greeting Cards / Stationery on Display at Studio Souk in Belfast, Northern Ireland" title="A Rose Cast Rose Gold and Wooden Pendant Necklaces and Wooden Brooches on Display at Studio Souk in Belfast, Northern Ireland](/assets/blog/2016-03/studio-souk-belfast-05.jpg "A Rose Cast Jewellery, Art Prints and Greeting Cards / Stationery on Display at Studio Souk in Belfast, Northern Ireland" title="A Rose Cast Rose Gold and Wooden Pendant Necklaces and Wooden Brooches on Display at Studio Souk in Belfast, Northern Ireland")
+</div>
+
+<div class="row">
 	<div class="col-md-6">
 		<img src="/assets/blog/2016-03/studio-souk-belfast-03.jpg" alt="A Rose Cast A4 and A6 Art Prints and Greeting Cards / Stationery on Display at Studio Souk in Belfast, Northern Ireland" title="A Rose Cast A4 and A6 Art Prints and Greeting Cards / Stationery on Display at Studio Souk in Belfast, Northern Ireland">
 	</div>
@@ -49,5 +48,3 @@ Studio Souk stock almost all of the items currently available on my [Etsy store]
 		<img src="/assets/blog/2016-03/studio-souk-belfast-04.jpg" alt="A Rose Cast Rose Gold and Wooden Pendant Necklaces and Wooden Brooches on Display at Studio Souk in Belfast, Northern Ireland" title="A Rose Cast Rose Gold and Wooden Pendant Necklaces and Wooden Brooches on Display at Studio Souk in Belfast, Northern Ireland">
 	</div>
 </div>
-
-![A Rose Cast Jewellery, Art Prints and Greeting Cards / Stationery on Display at Studio Souk in Belfast, Northern Ireland" title="A Rose Cast Rose Gold and Wooden Pendant Necklaces and Wooden Brooches on Display at Studio Souk in Belfast, Northern Ireland](/assets/blog/2016-03/studio-souk-belfast-05.jpg "A Rose Cast Jewellery, Art Prints and Greeting Cards / Stationery on Display at Studio Souk in Belfast, Northern Ireland" title="A Rose Cast Rose Gold and Wooden Pendant Necklaces and Wooden Brooches on Display at Studio Souk in Belfast, Northern Ireland")-->
