@@ -36,4 +36,22 @@ This piece is based on <a href="https://www.instagram.com/p/8nSfiJmFWm/" title="
 
 You can have a sneak peek at the other two finished <a href="/project/illustration-wild-sofa-beasts.html" title="See the other cat-themed wooden brooches, due to be released over the next few months">cat-themed wooden brooches</a> over on my portfolio, (which include my other two cats <a href="https://www.instagram.com/p/5wHS6TGFTD/" title="Mog and Monty on A Rose Cast's Instagram">Mog and Monty</a>). For now, 'I Feel Pretty' is the only one available to purchase, but I'm hoping to add a new one every month to my online stores.
 
+<div class="row">
+	<div class="col-md-6">
+		<a href="https://society6.com/product/i-feel-pretty--ginger-cat-surrounded-by-flowers_print#1=45" title="Tote Bag of I Feel Pretty | Ginger Cat with Flowers on Society6"><img src="/assets/blog/2016-01/society6-i-feel-pretty-ginger-cat-flowers-bags.jpg" alt="Tote Bag of I Feel Pretty | Ginger Cat with Flowers on Society6"></a>
+	</div>
+	<div class="col-md-6">
+		<a href="https://society6.com/product/i-feel-pretty--ginger-cat-surrounded-by-flowers_print#1=45" title="Mug of I Feel Pretty | Ginger Cat with Flowers on Society6"><img src="/assets/blog/2016-01/society6-i-feel-pretty-ginger-cat-flowers-mugs.jpg" alt="Mug of I Feel Pretty | Ginger Cat with Flowers on Society6"></a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-md-6">
+		<a href="https://society6.com/product/i-feel-pretty--ginger-cat-surrounded-by-flowers_print#1=45" title="Phone Skin of I Feel Pretty | Ginger Cat with Flowers on Society6"><img src="/assets/blog/2016-01/society6-i-feel-pretty-ginger-cat-flowers-cases.jpg" alt="Phone Skin of I Feel Pretty | Ginger Cat with Flowers on Society6"></a>
+	</div>
+	<div class="col-md-6">
+		<a href="https://society6.com/product/i-feel-pretty--ginger-cat-surrounded-by-flowers_print#1=45" title="Pillow of I Feel Pretty | Ginger Cat with Flowers on Society6"><img src="/assets/blog/2016-01/society6-i-feel-pretty-ginger-cat-flowers-pillows.jpg" alt="Pillow of I Feel Pretty | Ginger Cat with Flowers on Society6"></a>
+	</div>
+</div>
+
 UPDATE: I have now added a new <em>Wild Sofa Beasts</em> wooden brooch, [Crazy Cat Lady](/my-work/2016/02/09/crazy-cat-lady.html).

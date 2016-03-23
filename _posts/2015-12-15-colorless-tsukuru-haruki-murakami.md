@@ -35,4 +35,22 @@ Two and a half years went by. I was now working full time as an illustrator and 
 
 So to kick off the project, I have created an illustration for Murakami’s latest novel, Colorless Tsukuru Tazaki and His Years of Pilgrimage, and released it as an A6 and A4 print on my Easy store, as well as a range of products over on Society6.
 
+<div class="row">
+	<div class="col-md-6">
+		<a href="https://society6.com/product/haruki-murakamis-colorless-tsukuru-tazaki-and-his-years-of-pilgrimage-book-cover_print#1=45" title="Tote Bag of Haruki Murakami's Colorless Tsukuru Tazaki and His Years of Pilgrimage on Society6"><img src="/assets/blog/2015-12/society6-haruki-murakami-colorless-tsukuru-tazaki-bags.jpg" alt="Tote Bag of Haruki Murakami's Colorless Tsukuru Tazaki and His Years of Pilgrimage on Society6"></a>
+	</div>
+	<div class="col-md-6">
+		<a href="https://society6.com/product/haruki-murakamis-colorless-tsukuru-tazaki-and-his-years-of-pilgrimage-book-cover_print#1=45" title="Mug of Haruki Murakami's Colorless Tsukuru Tazaki and His Years of Pilgrimage on Society6"><img src="/assets/blog/2015-12/society6-haruki-murakami-colorless-tsukuru-tazaki-mugs.jpg" alt="Mug of Haruki Murakami's Colorless Tsukuru Tazaki and His Years of Pilgrimage on Society6"></a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-md-6">
+		<a href="https://society6.com/product/haruki-murakamis-colorless-tsukuru-tazaki-and-his-years-of-pilgrimage-book-cover_print#1=45" title="Phone Skin of Haruki Murakami's Colorless Tsukuru Tazaki and His Years of Pilgrimage on Society6"><img src="/assets/blog/2015-12/society6-haruki-murakami-colorless-tsukuru-tazaki-cards.jpg" alt="Phone Skin of Haruki Murakami's Colorless Tsukuru Tazaki and His Years of Pilgrimage on Society6"></a>
+	</div>
+	<div class="col-md-6">
+		<a href="https://society6.com/product/haruki-murakamis-colorless-tsukuru-tazaki-and-his-years-of-pilgrimage-book-cover_print#1=45" title="Pillow of Haruki Murakami's Colorless Tsukuru Tazaki and His Years of Pilgrimage on Society6"><img src="/assets/blog/2015-12/society6-haruki-murakami-colorless-tsukuru-tazaki-pillows.jpg" alt="Pillow of Haruki Murakami's Colorless Tsukuru Tazaki and His Years of Pilgrimage on Society6"></a>
+	</div>
+</div>
+
 You can also get a sneak peek at all the rest of my <a href="/project/illustration-murakami.html" title="Haruki Murakami novel watercolor illustrations by illustrator / artist Karen Muray of A Rose Cast">Haruki Murakami novel illustrations</a> over on my portfolio. For now, Colorless Tsukuru is the only one available to purchase, but I'll be adding a new one every month to my online stores.

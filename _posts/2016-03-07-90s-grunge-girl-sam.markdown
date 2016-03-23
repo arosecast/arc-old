@@ -46,6 +46,15 @@ As normal, I have released Sam as an [A6](https://www.etsy.com/listing/267621317
 	</div>
 </div>
 
+<div class="row">
+	<div class="col-md-6">
+		<a href="" title="Buy 90s Grunge Girl Sam as asociety6-90s-grunge-girl-sam-mugs.jpg range of products on my Society6 Store"><img src="/assets/blog/2016-03/society6-90s-grunge-girl-sam-mugs.jpg" alt="90s Grunge Girl Sam | Watercolour &amp; Pencil Portrait Illustration by Karen Murray of A Rose Cast" title="Mug of 90s Grunge Girl Sam | Watercolour &amp; Pencil Portrait Illustration by Karen Murray of A Rose Cast"></a>
+	</div>
+	<div class="col-md-6">
+		<a href="" title="Buy 90s Grunge Girl Sam as a range of products on my Society6 Store"><img src="/assets/blog/2016-03/society6-90s-grunge-girl-sam-bags.jpg" alt="90s Grunge Girl Sam | Watercolour &amp; Pencil Portrait Illustration by Karen Murray of A Rose Cast" title="Tote Bag of 90s Grunge Girl Sam | Watercolour &amp; Pencil Portrait Illustration by Karen Murray of A Rose Cast"></a>
+	</div>
+</div>
+
 I have also used the illustration on a new one of my [rose gold and wooden pendant necklaces](https://www.etsy.com/listing/271265934/rose-gold-walnut-wood-pendant-necklace), again available on my [Etsy store](https://www.etsy.com/listing/271265934/rose-gold-walnut-wood-pendant-necklace). The necklace has been hand-made by me (with the printed pendant created by [Zap! Creatives](http://www.zapcreatives.co.uk)).
 
 ![90s Grunge Girl Sam Rose Gold Wooden Pendant Necklace](/assets/folio/portraits/sam-wooden-pendant-necklace-01.jpg "90s Grunge Girl Sam Rose Gold Wooden Pendant Necklace")

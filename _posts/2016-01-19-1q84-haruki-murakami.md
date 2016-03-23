@@ -37,4 +37,22 @@ Two and a half years went by. I was now working full time as an illustrator and 
 
 So here is my new version of the illustration for Murakami’s novel, 1Q84. As normal, I have released it as an A6 and A4 print on my [Etsy](https://www.etsy.com/shop/ARoseCast?section_id=18192366 "Watercolour Illustration for Haruki Murakami's 1Q84 on Esty") store, as well as a range of products over on [Society6](https://society6.com/product/watercolor-illustration-of-haruki-murakamis-novel-1q84_print#1=45 "Watercolour Illustration for Haruki Murakami's 1Q84 on Esty").
 
+<div class="row">
+	<div class="col-md-6">
+		<a href="https://society6.com/product/watercolor-illustration-of-haruki-murakamis-novel-1q84_print#1=45" title="Tote Bag of Haruki Murakami's 1Q84 on Society6"><img src="/assets/blog/2016-01/society6-haruki-murakami-1q84-bags.jpg" alt="Tote Bag of Haruki Murakami's 1Q84 on Society6"></a>
+	</div>
+	<div class="col-md-6">
+		<a href="https://society6.com/product/watercolor-illustration-of-haruki-murakamis-novel-1q84_print#1=45" title="Mug of Haruki Murakami's 1Q84 on Society6"><img src="/assets/blog/2016-01/society6-haruki-murakami-1q84-mugs.jpg" alt="Mug of Haruki Murakami's 1Q84 on Society6"></a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-md-6">
+		<a href="https://society6.com/product/watercolor-illustration-of-haruki-murakamis-novel-1q84_print#1=45" title="Phone Skin of Haruki Murakami's 1Q84 on Society6"><img src="/assets/blog/2016-01/society6-haruki-murakami-1q84-cases.jpg" alt="Phone Skin of Haruki Murakami's 1Q84 on Society6"></a>
+	</div>
+	<div class="col-md-6">
+		<a href="https://society6.com/product/watercolor-illustration-of-haruki-murakamis-novel-1q84_print#1=45" title="Pillow of Haruki Murakami's 1Q84 on Society6"><img src="/assets/blog/2016-01/society6-haruki-murakami-1q84-pillows.jpg" alt="Pillow of Haruki Murakami's 1Q84 on Society6"></a>
+	</div>
+</div>
+
 You can also get a sneak peek at all the rest of my <a href="/project/illustration-murakami.html" title="Haruki Murakami novel watercolor illustrations by illustrator / artist Karen Muray of A Rose Cast">Haruki Murakami novel illustrations</a> over on my portfolio. For now, Colorless Tsukuru is the only one available to purchase, but I'll be adding a new one every month to my online stores.
