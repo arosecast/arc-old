@@ -1,13 +1,12 @@
 ---
 layout: post
 title:  "My Work // New Stockist - Studio Souk, Belfast"
-image: '/assets/blog/2016-03/thumb-studio-souk-belfast.jpg.jpg'
-alt: 
+date:   2016-03-24 12:00:00 +0000
+image: '/assets/blog/2016-03/thumb-studio-souk-belfast.jpg'
+alt: Studio Souk, Belfast
 categories: my-work
 tags: illustration watercolor
 ---
-
-<!--date:   2016-03-24 12:00:00 +0000-->
 
 <p class="intro">As I’ve mentioned over on my <a href="https://www.instagram.com/arosecast/" title="A Rose Cast on Instagram">Instagram</a>, <a href="https://twitter.com/arosecast" title="A Rose Cast on Twitter">Twitter</a> and <a href="https://www.facebook.com/ARoseCast/" title="A Rose Cast on Facebook">Facebook</a> pages, and on the <a href="/month-in-review/2016/03/01/month-in-review.html">blog earlier this month</a>, I am proud to announce that I have secured my first stockist; <a href="http://www.studiosouk.com" title="Visit the Studio Souk Website">Studio Souk</a>, in Belfast, Northern Ireland.</p>
 
