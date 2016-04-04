@@ -108,7 +108,7 @@ div.storeLink a:hover {background: #ffdbd3;}
 .thumbnail h2 a:hover, #content .thumbnail h2 a:hover, .thumbnail h6 a:hover {color: #f0c0b4;}
 
 /* Folio */
-section#project img {margin-top: 0; margin-bottom: 0;}
+section#project img {margin-top: 0; margin-bottom: 30px;}
 aside.col-md-3 h2 {clear: both;}
 
 .pager {margin: 0 0 20px; float: left;}

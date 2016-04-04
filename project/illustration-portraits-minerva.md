@@ -5,7 +5,7 @@ description: Named after the Roman goddess of wisdom, she is your modern geek gi
 type: Jewellery | Stationery | Illustration | Watercolor | Portraits
 etsylink: https://www.etsy.com/shop/ARoseCast/search?search_query=minerva
 s6link: https://society6.com/product/nerdy-blue-haired-minerva-in-vintage-glasses_print#1=45
-bloglink: /my-work/2016/04/04/minerva-gretting-card-wooden-necklace.html
+bloglink: /my-work/2016/04/04/minerva-greeting-card-wooden-necklace.html
 ---
 
 ![Minerva - Watercolour Illustration of a Nerd in Vintage Glasses by Karen Murray of A Rose Cast](/assets/folio/portraits/minerva-nerd-in-glasses.jpg "Minerva - Watercolour Illustration of a Nerd in Vintage Glasses by Karen Murray of @arosecast")
@@ -29,6 +29,7 @@ bloglink: /my-work/2016/04/04/minerva-gretting-card-wooden-necklace.html
 		<a href="https://society6.com/product/nerdy-blue-haired-minerva-in-vintage-glasses_print#1=45" title="Buy Minerva, a Nerd in Vintage Glasses, as a range of products on my Society6 Store"><img src="/assets/blog/2016-04/society6-minerva-nerd-in-glasses-phone-skins.jpg" alt="Minerva - Watercolour Illustration of a Nerd in Vintage Glasses by Karen Murray of A Rose Cast" title="iPhone Skin of Minerva - Watercolour Illustration of a Nerd in Vintage Glasses by Karen Murray of @arosecast"></a>
 	</div>
 </div>
+
 <div class="row">
 	<div class="col-md-6">
 		<a href="https://society6.com/product/nerdy-blue-haired-minerva-in-vintage-glasses_print#1=45" title="Buy Minerva, a Nerd in Vintage Glasses, as a range of products on my Society6 Store"><img src="/assets/blog/2016-04/society6-minerva-nerd-in-glasses-mugs.jpg" alt="Minerva - Watercolour Illustration of a Nerd in Vintage Glasses by Karen Murray of A Rose Cast" title="Mug of Minerva - Watercolour Illustration of a Nerd in Vintage Glasses by Karen Murray of @arosecast"></a>
