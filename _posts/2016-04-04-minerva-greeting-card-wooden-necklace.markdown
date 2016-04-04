@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My Work // Minerva | Watercolour &amp; Pencil Illustration, Greeting Card &amp; Wooden Necklace"
-<!--date:   2016-04-04 17:00:00 +0000-->
+date:   2016-04-04 15:00:00 +0000
 image: '/assets/folio/thumb-minerva-nerd-in-glasses.jpg'
 alt: Minerva - Watercolour Illustration of a Nerd in Vintage Glasses
 categories: my-work
