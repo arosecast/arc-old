@@ -25,7 +25,7 @@ First my hard disk with all my files started to run into a whole host of corrupt
 New Creations &amp; Stockist
 ---
 + Illustration Project // [90s Grunge Girl Sam - Portrait Illustration &amp; Rose Gold Wooden Pendant Necklace](/my-work/2016/03/07/90s-grunge-girl-sam.html)
-+ New Stockist // [Studio Souk in Belfast, Northern Ireland](/my-work/2016/03/23/studio-souk.html)
++ New Stockist // [Studio Souk in Belfast, Northern Ireland](/my-work/2016/03/24/studio-souk.html)
 
 * * *
 

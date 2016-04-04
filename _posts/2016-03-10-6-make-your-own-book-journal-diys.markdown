@@ -4,7 +4,7 @@ title:  "Loved Links // 6 Fun Literary Inspired DIYs for Book and Journalling Ne
 date:   2016-03-10 12:00:00 +0000
 image: '/assets/blog/2016-03/thumb-diy-3-section-notebook.jpg'
 alt: DIY 3 Section Notebook
-categories: Loved-Links
+categories: loved-links
 tags: diy tutorial fashion
 ---
 
