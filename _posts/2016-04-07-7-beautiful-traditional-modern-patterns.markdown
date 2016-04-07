@@ -1,13 +1,12 @@
 ---
 layout: post
 title:  "Loved Links // 7 Beautiful Examples of Pattern Done Well, from Traditional to Modern"
+date:   2016-04-07 15:50:00 +0000
 image: '/assets/blog/2016-04/thumb-tuscan-moon-pattern.jpg'
 alt: Tuscan Moon Tile Pattern on the Floor of the Library of the Siena Duomo
 categories: loved-links
 tags: pattern design home-decor geometric cats animals
 ---
-
-<!--date:   2016-04-07 17:00:00 +0000-->
 
 <p class="intro">I adore pattern. I’ve long tried to design a few patterns of my own (such as for some of my <a href="/category/freebie/">freebies</a>, but it’s really difficult to create a cohesive look.</p>
 
@@ -35,8 +34,8 @@ Here I’ve collected a few beautiful examples of patterns done well, from moder
 
 <div class="row">
 	<div class="col-md-6">
-		<a href="https://www.instagram.com/p/6M_nBWjoQz/" title="Teal Geometric Tile Pattern Floor at the Aesop Covent Garden Store"><img src="/assets/blog/2016-04/teal-geometric-pattern-floor.jpg" alt="Teal Geometric Tile Pattern Floor at the Aesop Covent Garden Store" title="Teal Geometric Tile Pattern Floor at the Aesop Covent Garden Store"></a>
-		<h2>4. <a href="https://www.instagram.com/p/6M_nBWjoQz/" title="Teal Geometric Tile Pattern Floor at the Aesop Covent Garden Store">Teal Geometric Tile Pattern Floor</a></h2>
+		<a href="https://www.instagram.com/p/6NjIx9DoXF/" title="Teal Geometric Tile Pattern Floor at the Aesop Covent Garden Store"><img src="/assets/blog/2016-04/teal-geometric-pattern-floor.jpg" alt="Teal Geometric Tile Pattern Floor at the Aesop Covent Garden Store" title="Teal Geometric Tile Pattern Floor at the Aesop Covent Garden Store"></a>
+		<h2>4. <a href="https://www.instagram.com/p/6NjIx9DoXF/" title="Teal Geometric Tile Pattern Floor at the Aesop Covent Garden Store">Teal Geometric Tile Pattern Floor</a></h2>
 	</div>
 	<div class="col-md-6">
 		<a href="https://www.instagram.com/p/6M_nBWjoQz/" title="Tuscan Moon Tile Pattern on the Floor of the Library of the Siena Duomo"><img src="/assets/blog/2016-04/tuscan-moon-pattern-floor.jpg" alt="Tuscan Moon Tile Pattern on the Floor of the Library of the Siena Duomo" title="Tuscan Moon Tile Pattern on the Floor of the Library of the Siena Duomo"></a>
