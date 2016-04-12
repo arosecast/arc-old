@@ -196,7 +196,7 @@ article footer .label-default:hover {background: #ffdbd3; color: #fff;}
 /* Pagination */
 .pagination>li span {position: relative; float: left; padding: 9px 13px 8px; line-height: 1.42857143; text-decoration: none; margin-left: -1px;}
 .pagination>li>a, .pagination>li>span, .pagination>li>span:hover, .pagination>li>span:focus {color: #ffdbd3; background-color: transparent; border-color: #ffdbd3;}
-.pagination>li>a:hover, .pagination>li>a:focus {background-color: #c4dbd3; border-color: #ffdbd3; color: #fff;} 
+.pagination>li>a:hover, .pagination>li>a:focus {background-color: #c4dbd3; border-color: #ffdbd3; color: #fff;}
 .pagination>.active>a, .pagination>.active>span, .pagination>.active>a:hover, .pagination>.active>span:hover, .pagination>.active>a:focus, .pagination>.active>span:focus {
 	background-color: #ffdbd3; border-color: #ffdbd3;}
 
