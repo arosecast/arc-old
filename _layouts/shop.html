@@ -26,17 +26,16 @@
         <section id="project">
           <div class="col-md-7">
             {{content}}
+              {% for bloglink in page.bloglink %}
+                <p class="right"><a href="{{ bloglink }}">Find out more on the blog &raquo;</a></p>
+              {% endfor %}
           </div>
         </section>
 
         <section id="rightAside">
           <aside class="col-md-3">
             <h3>{{page.title}}</h3>
-            <p class="project">{{page.description}}
-              {% for bloglink in page.bloglink %}
-                <br><a href="{{ bloglink }}">Find out more on the blog &raquo;</a>
-              {% endfor %}
-            </p>
+            <p>{{page.description}}</p>
 
             {% if page.etsylink %}
             <div class="highlight etsy">
@@ -44,21 +43,23 @@
             </div>
             {% endif %}
 
-            <p>You can also buy this design on apparel, homewares, cushions, mugs and more on the following sites</p>
+            <h4>You can also buy this design on apparel, homewares, cushions, mugs and more on the following sites</h4>
 
             <div class="row">
               <div class="col-md-4">
-                <a href="{{page.s6link}}" title="Buy this design on Society6"><img src="../assets/graphics/society6.png" alt="Society6" title="Buy this design on Society6"></a>
+                <a href="{{page.s6link}}" title="Buy {{page.title}} on Society6"><img src="../assets/graphics/society6.png" alt="Society6" title="Buy {{page.title}} on Society6"></a>
               </div>
               <div class="col-md-4">
-                <a href="{{page.rblink}}" title="Buy this design on RedBubble"><img src="../assets/graphics/redbubble.png" alt="RedBubble" title="Buy this design on RedBubble"></a>
+                <a href="{{page.rblink}}" title="Buy {{page.title}} on RedBubble"><img src="../assets/graphics/redbubble.png" alt="RedBubble" title="Buy {{page.title}} on RedBubble"></a>
               </div>
               <div class="col-md-4">
-                <a href="{{page.arlink}}" title="Buy this design on Art Rookie"><img src="../assets/graphics/art-rookie.png" alt="Art Rookie" title="Buy this design on Art Rookie"></a>
+                <a href="{{page.arlink}}" title="Buy {{page.title}} on Art Rookie"><img src="../assets/graphics/art-rookie.png" alt="Art Rookie" title="Buy {{page.title}} on Art Rookie"></a>
               </div>
             </div><!-- row -->
 
-            <p>Know someone who might like this? Please share!</p>
+            <hr>
+
+            <h4>Know someone who might like this? Please share!</h4>
             <span class='st_twitter_large' displayText='Tweet'></span>
             <span class='st_facebook_large' displayText='Facebook'></span>
             <span class='st_pinterest_large' displayText='Pinterest'></span>

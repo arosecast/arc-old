@@ -163,9 +163,14 @@ div.highlight a {background: #fff; margin: 0 5px; padding: 5px 10px; color: #c4d
 #content div.highlight p.social a {font-size: 0.8em; padding: 0px 10px;}
 div.highlight a:hover {background: #ffdbd3; color: #fff;}
 
+<<<<<<< HEAD
 div.highlight.etsy {background: #f56400; margin: 10px 0 20px; padding: 0; font-size: 1.8em;}
 div.highlight.etsy a {color: #fff; padding: 10px 20px; display: block; background: none; border: none;}
 #content article div.highlight.etsy img {margin-bottom: 0;}
+=======
+#rightAside div.highlight.etsy {background: #f56400; margin: 10px 0 20px; padding: 0; font-size: 1.8em;}
+#rightAside div.highlight.etsy a {color: #fff; padding: 10px 20px; display: block; background: none; border: none;}
+>>>>>>> 732989e... New shop pages and updates
 
 
 #content article img {margin-bottom: 20px;}
