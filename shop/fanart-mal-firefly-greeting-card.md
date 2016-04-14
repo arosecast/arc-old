@@ -17,4 +17,4 @@ bloglink:
 <h2>About the Illustration</h2>
 
 
-This illustration is also available as an [A4]() and an [A6]() art print.
+This illustration is also available as an [A4](/shop/fanart-mal-firefly-a4-art-print.html) and an [A6]() art print.

@@ -17,4 +17,4 @@ bloglink: /my-work/2016/03/07/90s-grunge-girl-sam.html
 <h2>About the Illustration</h2>
 <p>Sam is a messy haired, grunge loving girl from the early 1990s. She loves few things more than her trusty plaid flannel shirt, her Smashing Pumpkins 'Zero' t-shirt, and a pair of DMs. You can often find her sitting on a Brooklyn brownstone listening to some of her favourite Seattle-based bands.</p>
 
-This illustration is also available as an [A4]() and an [A6]() art print.
+This illustration is also available as an [A4](/shop/sam-grunge-girl-a4-art-print.html) and an [A6]() art print.

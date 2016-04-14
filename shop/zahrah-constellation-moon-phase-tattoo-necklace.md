@@ -12,10 +12,10 @@ bloglink: /my-work/2015/12/08/zahrah-portrait-illustration.html
 ---
 
 <div class="carosel">
-    <img src="/assets/shop/zahrah-tattoo-rose-gold-wooden-necklace.jpg" alt="Rose Gold and Wooden Pendant Necklace with a printed illustration of Minerva, a Nerd in Vintage Glasses, hand-made by A Rose Cast" title="Rose Gold and Wooden Pendant Necklace with a printed illustration of Minerva, a Nerd in Vintage Glasses, hand-made by @arosecast">
+    <img src="/assets/shop/zahrah-tattoo-rose-gold-wooden-necklace.jpg" alt="Rose Gold and Wooden Pendant Necklace with a printed illustration of Pink-Haired Zahrah with Constellation and Moon Phase Tattoos, hand-made by A Rose Cast" title="Rose Gold and Wooden Pendant Necklace with a printed illustration of Pink-Haired Zahrah with Constellation and Moon Phase Tattoos, hand-made by @arosecast">
 </div>
 
 <h2>About the Illustration</h2>
 With a name meaning 'star', pink haired Zahrah has such a love for astronomy that she has had constellations and the phases of the moon tattooed onto her skin.
 
-Also available as an [A5]() and [A6]() art print. 
+Also available as an [A4](/shop/pink-zahrah-a4-art-print.html) and [A6]() art print. 
