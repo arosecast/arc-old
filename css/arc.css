@@ -92,6 +92,15 @@ a.navbar-brand {margin-top: -11px;}
 #sideNav ul.socialNav li.pinterest a {background-position: left bottom; margin-right: 0;}
 #sideNav ul.socialNav li.pinterest a:hover {background-position: right bottom; margin-right: 0;}
 
+/* Shop Nav */
+nav.shop-navigation {text-align: right; text-transform: uppercase;}
+nav.shop-navigation ul li {display: inline-block; margin-left: 20px;}
+nav.shop-navigation ul li.shop {margin-right: -10px; font-weight: bold;}
+nav.shop-navigation ul li a {color: #777;}
+nav.shop-navigation ul li a:hover {color: #a4cbbe;}
+
+/* Shop */
+.carosel {margin-top: 20px;}
 
 /* MAIN CONTENT */
 /* Pages */
@@ -137,6 +146,9 @@ div.highlight a {background: #fff; margin: 0 5px; padding: 5px 10px; color: #c4d
 #content div.highlight p.social a {font-size: 0.8em; padding: 0px 10px;}
 div.highlight a:hover {background: #ffdbd3; color: #fff;}
 
+#rightAside div.highlight.etsy {background: #f56400; margin: 5px 0 20px; padding: 0;}
+#rightAside div.highlight.etsy a {font-size: 1.6em; background: none; color: #fff; border: none; margin: 0; padding: 10px 0; display: block;}
+
 #content article img {margin-bottom: 10px;}
 #content article ul, #content article ul {list-style: none; padding-left: 20px;}
 #content article ul li, #content article ul li {margin: 5px 0; padding: 0 0 0 25px; background: url("/assets/graphics/ul.png") no-repeat left 7px;}
@@ -168,7 +180,6 @@ article footer .label-default:hover {background: #ffdbd3; color: #fff;}
 .pagination>li>a:hover, .pagination>li>a:focus {background-color: #c4dbd3; border-color: #ffdbd3; color: #fff;} 
 .pagination>.active>a, .pagination>.active>span, .pagination>.active>a:hover, .pagination>.active>span:hover, .pagination>.active>a:focus, .pagination>.active>span:focus {
 	background-color: #ffdbd3; border-color: #ffdbd3;}
-
 
 /* RIGHT COLUMN */
 #rightAside h3 {border: none; background: #ffdbd3; margin: 20px 0 0; padding: 8px 10px; text-align: center; color: #fff;}
