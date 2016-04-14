@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Creative Spotlight // 6 Remarkable Artists Who Turn Paper Crafts into Art"
-<!--date:   2016-??-?? 12:00:00 +0000-->
+date:   2016-04-14 15:00:00 +0000
 image: '/assets/blog/2016-04/thumb-paper-crafts-helen-musselwhite.jpg'
 alt: Artwork by Papercut Artist Helen Musselwhite
 categories: creative-spotlight
