@@ -1,11 +1,11 @@
 ---
-layout: shop
+layout: shop-product
 title: I Feel Pretty Floral Ginger Cat Brooch
 description: <p>Cherry wood brooch printed with a watercolour illustration with protective gloss seal. Hand assembled with a metal backing.</p>
 type: brooches
 etsylink: https://www.etsy.com/listing/257820045/walnut-wood-brooch-or-rose-gold-necklace
 s6link: https://society6.com/product/i-feel-pretty--ginger-cat-surrounded-by-flowers_print#1=45
-rblink: 
+rblink: http://www.redbubble.com/people/arosecast/works/21558251-i-feel-pretty-watercolour-illustration-of-a-ginger-cat-surrounded-by-flowers
 arlink: 
 bloglink: http://127.0.0.1:4000/my-work/2016/01/12/i-feel-pretty-ginger-cat.html
 ---

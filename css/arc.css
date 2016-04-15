@@ -163,14 +163,9 @@ div.highlight a {background: #fff; margin: 0 5px; padding: 5px 10px; color: #c4d
 #content div.highlight p.social a {font-size: 0.8em; padding: 0px 10px;}
 div.highlight a:hover {background: #ffdbd3; color: #fff;}
 
-<<<<<<< HEAD
 div.highlight.etsy {background: #f56400; margin: 10px 0 20px; padding: 0; font-size: 1.8em;}
 div.highlight.etsy a {color: #fff; padding: 10px 20px; display: block; background: none; border: none;}
 #content article div.highlight.etsy img {margin-bottom: 0;}
-=======
-#rightAside div.highlight.etsy {background: #f56400; margin: 10px 0 20px; padding: 0; font-size: 1.8em;}
-#rightAside div.highlight.etsy a {color: #fff; padding: 10px 20px; display: block; background: none; border: none;}
->>>>>>> 732989e... New shop pages and updates
 
 
 #content article img {margin-bottom: 20px;}
@@ -255,7 +250,7 @@ footer p.copy {text-align: left;}
 #sideNav ul {margin-top: 20px;}
 #sideNav li {margin-top: 0; margin-bottom: -1px;}
 #sideNav .nav-stacked li a {text-indent: -9999px; background-position: top; background-repeat: no-repeat; width: 132px; background-size: 100%;}
-#sideNav li.shop a {background-image: url("/assets/graphics/nav-shop.png"); height: 108px;}
+#sideNav li.shop a {background-image: url("/assets/graphics/nav-shop.png"); height: 88px;}
 #sideNav li.mywork a {background-image: url("/assets/graphics/nav-work.png"); height: 48px;}
 #sideNav li.about a {background-image: url("/assets/graphics/nav-about.png"); height: 50px;}
 #sideNav li.contact a {background-image: url("/assets/graphics/nav-contact.png"); height: 46px;}

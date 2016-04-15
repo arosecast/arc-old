@@ -1,5 +1,5 @@
 ---
-layout: shop
+layout: shop-product
 title: Pink-Haired Zahrah with Constellation and Moon Phase Tattoos Necklace
 description: Rose gold jewellery chain and fastenings, cherry wood pendant printed with a watercolour illustration with protective gloss seal. Hand assembled with a green decorative bead.
 type: jewellery

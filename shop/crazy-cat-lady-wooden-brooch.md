@@ -1,11 +1,11 @@
 ---
-layout: shop
+layout: shop-product
 title: Crazy Cat Lady Brooch
 description: <p>Cherry wood brooch printed with a watercolour illustration with protective gloss seal. Hand assembled with a metal backing.</p>
 type: brooches
 etsylink: https://www.etsy.com/listing/257819325/walnut-wood-brooch-with-an-illustration
 s6link: https://society6.com/product/pink-haired-crazy-cat-lady-with-her-3-cats_print#1=45
-rblink: 
+rblink: http://www.redbubble.com/people/arosecast/works/21558342-crazy-cat-lady-a-pink-haired-girl-with-her-three-cats
 arlink: 
 bloglink: /my-work/2016/02/09/crazy-cat-lady.html
 ---

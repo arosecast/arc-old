@@ -1,5 +1,5 @@
 ---
-layout: shop
+layout: shop-product
 title: 1990s Grunge Girl Sam Necklace
 description: <p>Rose gold jewellery chain and fastenings, cherry wood pendant printed with a watercolour illustration with protective gloss seal. Hand assembled with a blue decorative bead.</p>
 type: necklaces

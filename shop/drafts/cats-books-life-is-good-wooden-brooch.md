@@ -1,11 +1,11 @@
 ---
-layout: shop
+layout: shop-product
 title: Cats. Books. Life is Good Wooden Brooch
 description: <p>Cherry wood brooch printed with a watercolour illustration with protective gloss seal. Hand assembled with a metal backing.</p>
 type: brooches
 etsylink: 
 s6link: 
-rblink: 
+rblink: http://www.redbubble.com/people/arosecast/works/21557896-books-cats-life-is-good
 arlink: 
 bloglink: 
 ---

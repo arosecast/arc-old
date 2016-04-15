@@ -1,5 +1,5 @@
 ---
-layout: shop
+layout: shop-product
 title: Nerdy Minerva in Vintage Glasses Necklace
 description: Rose gold jewellery chain and fastenings, cherry wood pendant printed with a watercolour illustration with protective gloss seal. Hand assembled with a blue decorative bead.
 type: jewellery

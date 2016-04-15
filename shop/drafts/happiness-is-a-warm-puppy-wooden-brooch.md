@@ -1,5 +1,5 @@
 ---
-layout: shop
+layout: shop-product
 title: Happiness is a Warm Puppy Wooden Brooch
 description: <p>Cherry wood brooch printed with a watercolour illustration with protective gloss seal. Hand assembled with a metal backing.</p>
 type: brooches

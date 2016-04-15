@@ -1,11 +1,11 @@
 ---
-layout: shop
+layout: shop-product
 title: Sailor Moon Greeting Card
 description: High quality digital print on thick <small><em>(300gsm)</em></small> silk card. Blank inside, with logo on back. Comes with a kraft envelope, in a protective cello bag.<br><br>A6 in size <small><em>(14.8 x 10.5cm or 4.1 x 5.8in)</em></small>
 type: stationery
 etsylink: https://www.etsy.com/listing/213514369/fan-art-greeting-cards-select-who-you
 s6link: https://society6.com/product/in-the-name-of-the-moon--sailor-moon_print#1=45
-rblink: 
+rblink: http://www.redbubble.com/people/arosecast/works/21558807-watercolour-fanart-illustration-of-sailor-moon
 arlink: 
 bloglink: 
 ---

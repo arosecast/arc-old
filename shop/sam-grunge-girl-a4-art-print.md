@@ -1,5 +1,5 @@
 ---
-layout: shop
+layout: shop-product
 title: 1990s Grunge Girl Sam A4 Art Print
 description: High quality digital print on thick <small><em>(250gsm)</em></small> silk card. Blank on back. Sent in a protective cello bag.<br><br>A4 in size <small><em>(21 x 29.7cm or 8.3 x 11.7in)</em></small>
 type: art-print
