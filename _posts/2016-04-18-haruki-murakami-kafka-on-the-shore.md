@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My Work // Illustration of Haruki Murakami's novel Kafka On The Shore"
-date: 	2016-03-18 15:00:00 +0000
+date: 	2016-04-18 15:00:00 +0000
 image: '/assets/blog/2016-03/thumb-murakami-kafkaontheshore.jpg'
 alt: Illustration of Haruki Murakami's novel Kafka On The Shore by illustrator / artist Karen Muray of A Rose Cast
 categories: My-Work
