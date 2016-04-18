@@ -1,5 +1,0 @@
----
-layout: shop
-title: Shop
----
-
