@@ -1,13 +1,14 @@
 ---
 layout: shop-product
 title: 1990s Grunge Girl Sam A4 Art Print
-description: High quality digital print on thick <small><em>(250gsm)</em></small> silk card. Blank on back. Sent in a protective cello bag.<br><br>A4 in size <small><em>(21 x 29.7cm or 8.3 x 11.7in)</em></small>
+description: High quality digital print on thick <small><em>(250gsm)</em></small> silk card. Blank on back. Sent in a protective cello bag. A4 in size <small><em>(21 x 29.7cm or 8.3 x 11.7in)</em></small>
 type: art-print
 etsylink: https://www.etsy.com/listing/271265430/sam-a4-print-of-a-pencil-watercolour
 s6link: https://society6.com/product/sam-a-90s-grunge-music-fan-in-a-flannel-shirt-band-t-shirt-dm-boots_print#1=45
 rblink: http://www.redbubble.com/people/arosecast/works/21455156-sam-a-90s-grunge-music-fan-in-a-flannel-shirt-band-t-shirt-dm-boots
 arlink: http://artrookie.co.uk/profile_items.php?designer=ARoseCast&design=8861
 bloglink: /my-work/2016/03/07/90s-grunge-girl-sam.html
+price: 2 / 6
 ---
 
 <div class="carosel">

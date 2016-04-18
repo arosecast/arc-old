@@ -6,8 +6,9 @@ type: art-print
 etsylink: https://www.etsy.com/listing/258057151/haruki-murakamis-1q84-a4-illustration-of
 s6link: https://society6.com/product/watercolor-illustration-of-haruki-murakamis-novel-1q84_print#1=45
 rblink: http://www.redbubble.com/people/arosecast/works/21558031-haruki-murakamis-1q84-novel-illustration-of-two-moons-in-a-night-sky-in-pencil-and-watercolour
-arlink: 
+arlink: http://www.artrookie.co.uk/profile_items.php?designer=ARoseCast&design=9070
 bloglink: /my-work/2016/01/19/1q84-haruki-murakami.html
+price: 2 / 6
 ---
 
 <div class="carosel">

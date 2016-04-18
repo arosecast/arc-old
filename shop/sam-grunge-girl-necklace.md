@@ -8,6 +8,7 @@ s6link: https://society6.com/product/sam-a-90s-grunge-music-fan-in-a-flannel-shi
 rblink: http://www.redbubble.com/people/arosecast/works/21455156-sam-a-90s-grunge-music-fan-in-a-flannel-shirt-band-t-shirt-dm-boots
 arlink: http://artrookie.co.uk/profile_items.php?designer=ARoseCast&design=8861
 bloglink: /my-work/2016/03/07/90s-grunge-girl-sam.html
+price: 10
 ---
 
 <div class="carosel">

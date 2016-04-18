@@ -8,6 +8,7 @@ s6link: https://society6.com/product/nerdy-blue-haired-minerva-in-vintage-glasse
 rblink: http://www.redbubble.com/people/arosecast/works/21455072-nerdy-blue-haired-minerva-in-vintage-glasses
 arlink: http://artrookie.co.uk/profile_items.php?designer=ARoseCast&design=8929
 bloglink: /my-work/2016/04/04/minerva-greeting-card-wooden-necklace.html
+price: 10
 
 ---
 

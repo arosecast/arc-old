@@ -1,13 +1,15 @@
 ---
 layout: shop-product
 title: Willow Rosenberg from Buffy the Vampire Slayer Greeting Card
-description: High quality digital print on thick <small><em>(300gsm)</em></small> silk card. Blank inside, with logo on back. Comes with a kraft envelope, in a protective cello bag.<br><br>A6 in size <small><em>(14.8 x 10.5cm or 4.1 x 5.8in)</em></small>
+description: High quality digital print on thick <small><em>(300gsm)</em></small> silk card. Blank inside, with logo on back. Comes with a kraft envelope, in a protective cello bag. A6 in size <small><em>(14.8 x 10.5cm or 4.1 x 5.8in)</em></small>
 type: stationery
 etsylink: https://www.etsy.com/listing/213514369/fan-art-greeting-cards-select-who-you
 s6link: https://society6.com/product/willow-rosenberg-of-buffy_print#1=45
 rblink: http://www.redbubble.com/people/arosecast/works/21558925-watercolour-fanart-illustration-of-willow-rosenberg-from-joss-whedons-buffy-the-vampire-slayer
 arlink: http://artrookie.co.uk/profile_items.php?designer=ARoseCast&design=8195
 bloglink: 
+price: 2
+
 ---
 
 <div class="carosel">
@@ -15,6 +17,6 @@ bloglink:
 </div>
 
 <h2>About the Illustration</h2>
-
+Tell your geeky friends you'll always be there for them with this watercolour and pencil fan art illustration greeting card of Willow Rosenberg, from Joss Whedon's epic series, Buffy the Vampire Slayer, with the text &quot;I'll always be your sidekick&quot; below.
 
 This illustration is also available as an [A4](/shop/fanart-willow-buffy-a4-art-print.html) and an [A6]() art print.

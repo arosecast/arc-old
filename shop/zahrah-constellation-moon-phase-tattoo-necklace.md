@@ -8,7 +8,7 @@ s6link: https://society6.com/product/astronomy-fan-zahrah-moon-and-star_print#1=
 rblink: http://www.redbubble.com/people/arosecast/works/21455601-pink-haired-astronomy-fan-zahrah-with-moon-and-star-tattoos
 arlink: http://artrookie.co.uk/profile_items.php?designer=ARoseCast&design=7832
 bloglink: /my-work/2015/12/08/zahrah-portrait-illustration.html
-
+price: 10
 ---
 
 <div class="carosel">
@@ -18,4 +18,4 @@ bloglink: /my-work/2015/12/08/zahrah-portrait-illustration.html
 <h2>About the Illustration</h2>
 With a name meaning 'star', pink haired Zahrah has such a love for astronomy that she has had constellations and the phases of the moon tattooed onto her skin.
 
-Also available as an [A4](/shop/pink-zahrah-a4-art-print.html) and [A6]() art print. 
+Also available as an [A4](/shop/zahrah-constellation-moon-phase-tattoo-a4-art-print.html) and [A6]() art print. 

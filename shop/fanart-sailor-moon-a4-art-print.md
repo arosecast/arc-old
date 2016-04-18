@@ -6,8 +6,9 @@ type: art-print
 etsylink: https://www.etsy.com/listing/208694619/fan-art-tsukino-usagi-sailor-moon-a4
 s6link: https://society6.com/product/in-the-name-of-the-moon--sailor-moon_print#1=45
 rblink: http://www.redbubble.com/people/arosecast/works/21558807-watercolour-fanart-illustration-of-sailor-moon
-arlink: 
+arlink: http://www.artrookie.co.uk/profile_items.php?designer=ARoseCast&design=9074
 bloglink: 
+price: 2 / 6
 ---
 
 <div class="carosel">
@@ -15,6 +16,6 @@ bloglink:
 </div>
 
 <h2>About the Illustration</h2>
-ABOUT
+A watercolour and pencil fan art illustration of Sailor Moon / Usagi Tsukino of the manga and anime series Sailor Moon. &quot;In the name of the moon, I will punish you!&quot;
 
 This illustration is also available as an [A6 art print]() and a [greeting card](/shop/fanart-sailor-moon-greeting-card.html).
