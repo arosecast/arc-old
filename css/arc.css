@@ -250,7 +250,7 @@ footer p.copy {text-align: left;}
 #sideNav ul {margin-top: 20px;}
 #sideNav li {margin-top: 0; margin-bottom: -1px;}
 #sideNav .nav-stacked li a {text-indent: -9999px; background-position: top; background-repeat: no-repeat; width: 132px; background-size: 100%;}
-#sideNav li.shop a {background-image: url("/assets/graphics/nav-shop.png"); height: 88px;}
+#sideNav li.shop a {background-image: url("/assets/graphics/nav-shop.png"); height: 108px;}
 #sideNav li.mywork a {background-image: url("/assets/graphics/nav-work.png"); height: 48px;}
 #sideNav li.about a {background-image: url("/assets/graphics/nav-about.png"); height: 50px;}
 #sideNav li.contact a {background-image: url("/assets/graphics/nav-contact.png"); height: 46px;}
