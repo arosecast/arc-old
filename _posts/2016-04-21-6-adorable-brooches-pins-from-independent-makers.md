@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Wish List // 6 Adorable Brooches and Pins from Independent Makers"
-<!--date:   2016-04-21 11:00:00 +0000-->
+date:   2016-04-21 15:00:00 +0000
 image: '/assets/blog/2016-04/thumb-leslie-knope-parksandrecs-brooch.jpg'
 alt: This is the alt text for the image
 categories: Wish-List
@@ -34,7 +34,7 @@ tags: jewellery fashion small-business tv lapel-pin brooch books cat animals
 	<div class="col-md-6">
 		<a href="http://shoptuesday.com/collections/pins/products/girls-pennant-pin" title="Rose Gold and White Enamel Girls Pennant Pin by Tuesday Bassen"><img src="/assets/blog/2016-04/rose-gold-girls-pin.jpg" alt="Rose Gold and White Enamel Girls Pennant Pin" title="Rose Gold and White Enamel Girls Pennant Pin by Tuesday Bassen"></a>
 		<h2>4. <a href="http://shoptuesday.com/collections/pins/products/girls-pennant-pin">Girls Pennant Pin</a></h2>
-		<p>I love rose gold (evident in my choice of metal for <a href="/tag/necklace/" title="Rose Gold Necklaces by A Rose Cast">my necklaces</a>), and it makes this little pin just perfect. Even more perfect is the fact that 25&#37; of the profit of each pin goes to benefits young girls through art exploration.</p>
+		<p>I love rose gold (evident in my choice of metal for <a href="/tag/jewellery/" title="Rose Gold Necklaces by A Rose Cast">my necklaces</a>), and it makes this little pin just perfect. Even more perfect is the fact that 25&#37; of the profit of each pin goes to benefits young girls through art exploration.</p>
 	</div>
 </div>
 
