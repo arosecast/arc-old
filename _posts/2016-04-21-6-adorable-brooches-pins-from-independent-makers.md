@@ -4,7 +4,7 @@ title:  "Wish List // 6 Adorable Brooches and Pins from Independent Makers"
 date:   2016-04-21 15:00:00 +0000
 image: '/assets/blog/2016-04/thumb-leslie-knope-parksandrecs-brooch.jpg'
 alt: This is the alt text for the image
-categories: Wish-List
+categories: wish-list
 tags: jewellery fashion small-business tv lapel-pin brooch books cat animals
 ---
 
