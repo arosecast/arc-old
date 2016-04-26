@@ -1,13 +1,14 @@
 ---
 layout: post
 title:  "Freebie // "
-image: '/assets/blog/2016_0?/IMG.jpg'
+<!--date:   2016-??-0? 15:00:00 +0000-->
+image: '/assets/blog/2016-0?/IMG.jpg'
 alt: This is the alt text for the image
 categories: freebie
 tags: downloads printable
 ---
 
-date:   2016-??-0? 12:0:00 +0000
+![ALT](/assets/blog/2016-0?/IMG.jpg "TITLE")
 
 Blurb
 
