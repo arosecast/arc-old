@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Month in Review // April 2016"
-<!--date:   2016-04-28 15:00:00 +0000-->
+date:   2016-04-28 15:00:00 +0000
 image: '/assets/blog/2016-04/thumb-kamakura-cat-graffiti.jpg'
 alt: Graffiti of a cat in Kamakura, Japan
 categories: month-in-review
 tags: illustration art lapel-pin brooch tv
 ---
 
-<p class="intro">Another little round up of what I've been creating this month, and what I've been loving and lusting over.</p>
+<p class="intro">Another little round up of what I've been creating this month, what's new in my stores, and what I've been loving and lusting over.</p>
 
 <div class="row">
 	<div class="col-md-6">
@@ -19,10 +19,20 @@ tags: illustration art lapel-pin brooch tv
 	</div>
 </div>
 
+<div class="row">
+	<div class="col-md-6">
+		<a href="/freebie/2016/04/25/may-calligraphy-quote-wallpaper-downloads.html" title="Freebie // May 2016 - &quot;To Be, Rather than to Seem&quot; Pink Watercolour Calligraphy Quote Wallpaper by illustrator and designer Karen Murray of A Rose Cast"><img src="/assets/blog/2016-04/may-freebie-quote-wallpaper-02.jpg" alt="Freebie // May 2016 - &quot;To Be, Rather than to Seem&quot; Pink Watercolour Calligraphy Quote Wallpaper by illustrator and designer Karen Murray of A Rose Cast" title="Freebie // May 2016 - &quot;To Be, Rather than to Seem&quot; Pink Watercolour Calligraphy Quote Wallpaper by @arosecast"></a>
+	</div>
+	<div class="col-md-6">
+		<a href="/freebie/2016/04/25/may-calligraphy-quote-wallpaper-downloads.html" title="Freebie // May 2016 - &quot;To Be, Rather than to Seem&quot; Pink Watercolour Calligraphy Quote Wallpaper by illustrator and designer Karen Murray of A Rose Cast"><img src="/assets/blog/2016-04/may-freebie-quote-wallpaper-03.jpg" alt="Freebie // May 2016 - &quot;To Be, Rather than to Seem&quot; Blue Watercolour Calligraphy Quote Wallpaper by illustrator and designer Karen Murray of A Rose Cast" title="Freebie // May 2016 - &quot;To Be, Rather than to Seem&quot; Blue Watercolour Calligraphy Quote Wallpaper by @arosecast"></a>
+	</div>
+</div>
+
 New Creations
 ---
 + Stationery &amp; Jewellery Project // [Watercolor illustration of Nerdy Minerva in Vintage Glasses](/my-work/2016/04/04/minerva-greeting-card-wooden-necklace.html). I'm so delighted with this new portrait illustration in particular.
 + Illustration Project // [Watercolor illustration of Haruki Murakami's novel Kafka On The Shore](/my-work/2016/04/18/haruki-murakami-kafka-on-the-shore.html). Another Murakami illustration, and this time of my favourite of his books.
++ Freebie // [&quot;To Be, Rather than to Seem&quot; Digital Wallpaper](/freebie/2016/04/25/may-calligraphy-quote-wallpaper-downloads.html). A little watercolour calligraphy digital wallpaper for everyone to download, inspired by the Erin Morgenstern novel, The Night Circus. Comes in two colour options, pink and blue, and sized to fit phones, tablets and laptops / desktops.
 
 * * *
 
@@ -84,4 +94,4 @@ Other Happenings This Month
 + <strong>Playing</strong> // Still Bioshock, but I'm almost finished!
 + <strong>Eating</strong> // Homemade satay chicken. Healthy and yummy!
 + <strong>Learning</strong> // Brushing up on my sewing skills so I can make a few nice things for our flat
-+ <strong>Doing</strong> // Painting pavements for a client. Ouch, it is not pleasent.
++ <strong>Doing</strong> // Painting pavements for a client. Ouch, it is not pleasant.
