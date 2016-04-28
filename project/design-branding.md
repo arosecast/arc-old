@@ -7,6 +7,8 @@ type: Branding | Graphic Design | Watercolor | Lettering | Calligraphy
 
 ![Calligraphy logo for Aether in Rhapsody, created in watercolor](/assets/folio/branding/branding-logo-air.jpg "Calligraphy logo for Aether in Rhapsody, created in watercolor")
 
+![Logo for The Mena Men, a group taking part in the Mongolian Rally in 2016, created in ink](/assets/folio/branding/branding-logo-mena-men.jpg "Logo for The Mena Men, a group taking part in the Mongolian Rally in 2016, created in ink")
+
 ![Calligraphy logo for An Ember Case, created in watercolor](/assets/folio/branding/branding-logo-aec.jpg "Calligraphy logo for An Ember Case, created in watercolor")
 
 ![Calligraphy logo for A Rose Cast, created in watercolor](/assets/folio/branding/branding-logo-arc.jpg "Calligraphy logo for A Rose Cast, created in watercolor")
