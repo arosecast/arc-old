@@ -53,3 +53,10 @@ Intro
 		<p></p>
 	</div>
 </div>
+
+
+
+
+<div style="display: none;">
+	<img src="/assets/blog/2016-0?/IMG.jpg" alt="TITLE" title="TITLE by @arosecast">
+</div>

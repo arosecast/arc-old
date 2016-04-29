@@ -54,3 +54,7 @@ But I've seen so many fun and creative DIYs and freebies floating around lately 
 		<p>These cute homemade concrete and copper heart candles from <a href="http://ispydiy.com/" title="Visit I Spy DIY Studio">I Spy DIY</a> would be a great way to decorate the home for the holiday, and inject a little romance as well. I really am loving just about everything copper at the moment (like probably everyone else).</p>
 	</div>
 </div>
+
+<div style="display: none;">
+	<img src="/assets/blog/2016-02/fun-quirky-valentines-day-free-printables-diys.jpg" alt="Loved Links // 6 Fun and Quirky Valentine's Day Free Printables and DIYs" title="Loved Links // 6 Fun and Quirky Valentine's Day Free Printables and DIYs by @arosecast | Freebies | Paper Crafts">
+</div>

@@ -38,3 +38,7 @@ It's a kind of illustration I don't do anymore (my style is much more <a href="/
 ![Printable Tattoo-Inspired Christmas Garland Downloads, including Santa Claus, Reindeers, Robins, Stars and Fairy Lights](/assets/blog/2015-12/christmas-decoration-garland-robin.jpg "Printable Tattoo-Inspired Christmas Garland Downloads, including Santa Claus, Reindeers, Robins, Stars and Fairy Lights")
 
 ![Printable Tattoo-Inspired Christmas Garland Downloads, including Santa Claus, Reindeers, Robins, Stars and Fairy Lights](/assets/blog/2015-12/christmas-decoration-garland.jpg "Printable Tattoo-Inspired Christmas Garland Downloads, including Santa Claus, Reindeers, Robins, Stars and Fairy Lights")
+
+<div style="display: none;">
+	<img src="/assets/blog/2015-12/printable-tattoo-inspired-christmas-garland.jpg" alt="Freebie // Printable Tattoo-Inspired Christmas Garland Downloads" title="Freebie // Printable Tattoo-Inspired Christmas Garland Downloads by @arosecast">
+</div>

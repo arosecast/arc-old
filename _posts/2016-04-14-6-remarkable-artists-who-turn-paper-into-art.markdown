@@ -54,3 +54,7 @@ Here are a few paper cut artists who have captured my eye lately.
 		<p>Beautiful wildlife inspired hand-cut artwork by papercut artist Emily Brown. She is best known for her layered cut paper shadow boxes series' and animal cuts.</p>
 	</div>
 </div>
+
+<div style="display: none;">
+	<img src="/assets/blog/2016-04/remarkable-artists-who-turn-paper-into-art.jpg" alt="Creative Spotlight // 6 Remarkable Artists Who Turn Paper Crafts into Art" title="Creative Spotlight // 6 Remarkable Artists Who Turn Paper Crafts into Art by @arosecast">
+</div>

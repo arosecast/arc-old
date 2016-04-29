@@ -55,3 +55,8 @@ Here I’ve collected a few beautiful examples of patterns done well, from moder
 		<h2>6. <a href="https://society6.com/product/cat-pattern-33h_print#1=45" title="Black and Pink Cat Pattern by Signaturecase on Society6">Black and Pink Cat Pattern</a></h2>
 	</div>
 </div>
+
+
+<div style="display: none;">
+	<img src="/assets/blog/2016-04/beautiful-traditional-modern-patterns.jpg" alt="Loved Links // 7 Beautiful Examples of Pattern Done Well, from Traditional to Modern" title="Loved Links // 7 Beautiful Examples of Pattern Done Well, from Traditional to Modern by @arosecast">
+</div>

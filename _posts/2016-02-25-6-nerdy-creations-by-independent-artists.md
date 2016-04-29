@@ -54,3 +54,7 @@ I also love to buy those produced by other artists and illustrators like myself.
 		<p>I'm not even a fan of Jurassic Park or dinosaurs, but I love this brooch. It would be hard to mention all the series and movies Kate Gabrielle has created pieces for. From The Office and 30 Rock, to Beetlejuice and The X Files, I would be surprised if anyone couldn't find something from one of their favourites here.</p>
 	</div>
 </div>
+
+<div style="display: none;">
+	<img src="/assets/blog/2016-02/nerdy-creations-by-independent-artists.jpg" alt="Wish List // 6 Nerdy Creations by Independent Artists" title="Wish List // 6 Nerdy Creations by Independent Artists by @arosecast">
+</div>

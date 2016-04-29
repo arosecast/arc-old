@@ -57,3 +57,7 @@ And if you like these DIYs, you'll maybe like the <a href="/freebie/2015/12/10/p
 		<p>In this day and age, your physical space isn’t the only place that could do with a little festive decoration. These simple (and free) patterned phone and desktop wallpapers from <a href="http://www.piperwinston.com" title="Piper Winston Website">Piper Winston</a> are a great way to bring something season to your digital devices. You have four to choose from; acorns, red snow, fir tree branches with red berries, or stars. Or, like me, you can set your computer to rotate your wallpapers in order to use all four.</p>
 	</div>
 </div>
+
+<div style="display: none;">
+	<img src="/assets/blog/2015-12/ways-to-add-festive-cheer-to-your-home-for-christmas.jpg" alt="Loved Links // 6 Wonderful Ways to Add Festive Cheer to Your Home for Christmas" title="Loved Links // 6 Wonderful Ways to Add Festive Cheer to Your Home for Christmas by @arosecast">
+</div>

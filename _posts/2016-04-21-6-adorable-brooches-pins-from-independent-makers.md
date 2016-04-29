@@ -52,3 +52,7 @@ tags: jewellery fashion small-business tv lapel-pin brooch books cat animals
 		<p>If I could have everything released by  Stay Home Club, I’d be a very happy person. I have the t-shirt version of this illustration. Maybe I should get a pin as well.</p>
 	</div>
 </div>
+
+<div style="display: none;">
+	<img src="/assets/blog/2016-04/wishlist-brooches-pins-independent-makers.jpg" alt="Wish List // 6 Adorable Brooches and Pins from Independent Makers" title="Wish List // 6 Adorable Brooches and Pins from Independent Makers by @arosecast">
+</div>

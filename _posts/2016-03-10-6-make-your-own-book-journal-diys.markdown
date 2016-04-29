@@ -57,3 +57,7 @@ So to that end, I’ve rounded up a few fun book and journal inspired DIYs for a
 		<p>Book binding can be a true art. This wonderful video will help demystify the process and teach you how to create your own gorgeous books using paper, card and thread.</p>
 	</div>
 </div>
+
+<div style="display: none;">
+	<img src="/assets/blog/2016-03/make-your-own-book-journal-diys.jpg" alt="Loved Links // 6 Fun Literary Inspired DIYs for Book and Journalling Nerds" title="Loved Links // 6 Fun Literary Inspired DIYs for Book and Journalling Nerds by @arosecast | Paper Crafts">
+</div>

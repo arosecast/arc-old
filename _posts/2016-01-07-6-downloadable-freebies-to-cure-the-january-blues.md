@@ -57,3 +57,7 @@ I think we all need a little pick me up to get over the January blues. So I’m 
 		<p>And if cats are your thing, you can download my freebie for January. Illustrated in watercolour, and based around my own three cats, these pattern digital wallpapers are fun and cute, with their celebration-themed elements of honeycomb paper decorations, party poppers and buckets of popcorn. They also hint at two of January's 'Holidays', Hat Day and Popcorn Day!</p>
 	</div>
 </div>
+
+<div style="display: none;">
+	<img src="/assets/blog/2016-01/downloadable-freebies-to-cure-the-january-blues.jpg" alt="Loved Links // 6 Downloadable Freebies to Help Cure the January Blues" title="Loved Links // 6 Downloadable Freebies to Help Cure the January Blues by @arosecast">
+</div>

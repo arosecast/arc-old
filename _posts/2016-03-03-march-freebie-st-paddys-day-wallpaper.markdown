@@ -26,3 +26,8 @@ So please enjoy this little giveaway, and use it to dress all your tech, whether
 ![Freebie March 2016 - Cat-Themed St. Paddy's Day Watercolour Illustration - Downloadable Wallpaper by A Rose Cast](/assets/blog/2016-03/freebie-march-2016-cat-st-paddys-day-wallpaper-03.jpg "Freebie March 2016 - Cat-Themed St. Paddy's Day Watercolour Illustration - Downloadable Wallpaper by @arosecast")
 
 ![Freebie March 2016 - Cat-Themed St. Paddy's Day Watercolour Illustration - Downloadable Wallpaper by A Rose Cast](/assets/blog/2016-03/freebie-march-2016-cat-st-paddys-day-wallpaper-04.jpg "Freebie March 2016 - Cat-Themed St. Paddy's Day Watercolour Illustration - Downloadable Wallpaper by @arosecast")
+
+
+<div style="display: none;">
+	<img src="/assets/blog/2016-03/freebie-st-paddys-day-wallpaper.jpg" alt="Freebie // March 2016 | Cat-Themed St. Paddy's Day Downloadable Wallpaper" title="Freebie // March 2016 | Cat-Themed St. Paddy's Day Downloadable Wallpaper by @arosecast">
+</div>

@@ -56,3 +56,7 @@ tags: embroidery homewares art
 		<p>Often applying geometric patterns and floral elements to hand-drawn illustrations, Izziyana Suhaimi creates spectacular pieces of embroidery artwork, exploring the evidence of the hand and of time.</p>
 	</div>
 </div>
+
+<div style="display: none;">
+	<img src="/assets/blog/2016-02/awe-inspiring-embroidery-artists.jpg" alt="Creative Spotlight // 6 Awe-Inspiring Embroidery Artists" title="Creative Spotlight // 6 Awe-Inspiring Embroidery Artists by @arosecast">
+</div>

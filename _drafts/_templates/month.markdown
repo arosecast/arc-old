@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Month in Review // "
-<!--date:   2016-0?-?? 15:00:00 +0000-->
+<!--date:   2016-??-0? 15:00:00 +0000-->
 image: '/assets/blog/2016-0?/IMG.jpg'
 alt: 
 categories: month-in-review

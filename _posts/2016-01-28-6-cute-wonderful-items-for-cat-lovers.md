@@ -55,3 +55,7 @@ I love pretty much all animals, but these little feline rascals manage to push a
 		<p>And last, but hopefully not least, one of my newest products. This is an illustrated wooden brooch produced for my new Wild Sofa Beasts line, products inspired by my own cats. You can see a few other <a href="/project/illustration-wild-sofa-beasts.html" title="Wild Sofa Beasts Illustration and Product Line">future pieces on my folio</a>, which will be avaiable soon!</p>
 	</div>
 </div>
+
+<div style="display: none;">
+	<img src="/assets/blog/2016-01/cute-wonderful-items-for-cat-lovers.jpg" alt="Wish List // 6 Cute and Wonderful Items for Cat Lovers" title="Wish List // 6 Cute and Wonderful Items for Cat Lovers by @arosecast, with brooches, embroidery, pins and jewellery">
+</div>

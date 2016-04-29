@@ -33,3 +33,7 @@ Cats and watercolour: always a pleasing combination in my mind. A lifelong cat l
 ---
 
 Marion Bolognesi creates expressive, abstract portraiture where the eyes truely are the window to the soul. I love how free she is with her painting; not only are the facial features so lifelike, but they are melded with gorgeous spots and splashes of intense colour.
+
+<div style="display: none;">
+	<img src="/assets/blog/2016-01/watercolor-artists-to-follow.jpg" alt="Creative Spotlight // 3 Watercolor Illustrators You Should Be Following" title="Creative Spotlight // 3 Watercolor Illustrators You Should Be Following by @arosecast">
+</div>

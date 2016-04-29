@@ -54,3 +54,7 @@ Year after year I try to remind myself to write my Christmas wish list early so 
 		<p>Because sometimes home is the most fun place to be. I’m undoubtedly an introvert; I’m quite social and loud when the mood takes me, but most of the time I prefer quiet time with a few good friends or a good book. This Introvert lapel pin by artist <a href="https://www.etsy.com/shop/kwanalee" title="Kwanalee's Etsy Store">Kwanalee</a> is the perfect little brooch for people who like the more peaceful side of life. I also adore Kwanalee’s <a href="http://cultureflockclothing.com/products/girls-like-comics-too-tee" title="Girls Like Comics Too T-shirt">'Girls Like Comics Too' t-shirt</a>.</p>
 	</div>
 </div>
+
+<div style="display: none;">
+	<img src="/assets/blog/2015-12/christmas-presents-from-independent-artists-makers.jpg" alt="Wish List // 6 Presents I Want for Christmas from Independent Artists &amp; Makers" title="Wish List // 6 Presents I Want for Christmas from Independent Artists &amp; Makers by @arosecast, from mugs and t-shirts, to cat pins and recipe boxes">
+</div>

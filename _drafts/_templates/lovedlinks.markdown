@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Loved Links // TITLE"
+<!--date:   2016-??-0? 15:00:00 +0000-->
 image: '/assets/blog/2016-0?/IMG.jpg'
 alt: 
 categories: loved-links
 tags: diy tutorial
 ---
 
-date:   2016-01-28 12:00:00 +0000
 
 Intro
 
@@ -52,4 +52,11 @@ Intro
 		<h2>6. <a href="" title="">ITEM</a></h2>
 		<p></p>
 	</div>
+</div>
+
+
+
+
+<div style="display: none;">
+	<img src="/assets/blog/2016-0?/IMG.jpg" alt="POST TITILE" title="POST TITILE by @arosecast">
 </div>
