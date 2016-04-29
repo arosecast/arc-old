@@ -1,13 +1,12 @@
 ---
 layout: post
 title:  "My Work // Illustration of Haruki Murakami's novel Hear the Wind Sing"
+<!--date: 	2016-0?-?? 15:00:00 +0000-->
 image: '/assets/blog/draft/thumb-murakami-hear-the-wind-sing.jpg'
 alt: Illustration of Haruki Murakami's novel Hear the Wind Sing by illustrator / artist Karen Muray of A Rose Cast
-categories: My-Work
-tags: Illustration Watercolor Literature Haruki-Murakami
+categories: my-work
+tags: illustration watercolor literature haruki-murakami
 ---
-
-date: 	2016-01-?? 12:00:00 +0000
 
 <p class="intro">Another month, another one of my Haruki Murakami illustrations. This time it is of Hear the Wind Sing, TEXT.</p>
 

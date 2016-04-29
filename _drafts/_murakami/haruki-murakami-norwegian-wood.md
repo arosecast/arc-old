@@ -1,13 +1,12 @@
 ---
 layout: post
 title:  "My Work // Illustration of Haruki Murakami's novel Norwegian Wood"
+<!--date: 	2016-0?-?? 15:00:00 +0000-->
 image: '/assets/blog/draft/thumb-murakami-norwegian-wood.jpg'
 alt: Illustration of Haruki Murakami's novel Norwegian Wood by illustrator / artist Karen Muray of A Rose Cast
-categories: My-Work
-tags: Illustration Watercolor Literature Haruki-Murakami
+categories: my-work
+tags: illustration watercolor literature haruki-murakami
 ---
-
-date: 	2016-01-?? 12:00:00 +0000
 
 <p class="intro">Another month, another one of my Haruki Murakami illustrations. This time it is of Norwegian Wood, the novel that made the novelist so famous he felt the need to flee from Japan.</p>
 

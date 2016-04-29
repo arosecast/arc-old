@@ -1,13 +1,12 @@
 ---
 layout: post
 title:  "My Work // Illustration of Haruki Murakami's novel A Wild Sheep Chase"
+<!--date: 	2016-0?-?? 15:00:00 +0000-->
 image: '/assets/blog/draft/thumb-murakami-a-wild-sheep-chase.jpg'
 alt: Illustration of Haruki Murakami's novel A Wild Sheep Chase by illustrator / artist Karen Muray of A Rose Cast
-categories: My-Work
-tags: Illustration Watercolor Literature Haruki-Murakami
+categories: my-work
+tags: illustration watercolor literature haruki-murakami
 ---
-
-date: 	2016-01-?? 12:00:00 +0000
 
 <p class="intro">And here we have another one of my Haruki Murakami illustrations, this time of A Wild Sheep Chase, a mock-detective novel and the third book of the Trilogy of the Rat.</p>
 

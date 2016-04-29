@@ -5,7 +5,7 @@ date: 	2016-04-18 15:00:00 +0000
 image: '/assets/blog/2016-03/thumb-murakami-kafkaontheshore.jpg'
 alt: Illustration of Haruki Murakami's novel Kafka On The Shore by illustrator / artist Karen Muray of A Rose Cast
 categories: my-work
-tags: Illustration Watercolor Literature Haruki-Murakami
+tags: illustration watercolor literature haruki-murakami
 ---
 
 <p class="intro">Another month, another one of my Haruki Murakami illustrations. This time it is of Kafka On The Shore, a novel about a teenage runaway and talking cats.</p>

@@ -1,13 +1,12 @@
 ---
 layout: post
 title:  "My Work // Illustration of Haruki Murakami's novel South of the Border, West of the Sun"
+<!--date: 	2016-0?-?? 15:00:00 +0000-->
 image: '/assets/blog/draft/thumb-murakami-south-of-the-border.jpg'
 alt: Illustration of Haruki Murakami's novel South of the Border, West of the Sun by illustrator / artist Karen Muray of A Rose Cast
-categories: My-Work
-tags: Illustration Watercolor Literature Haruki-Murakami
+categories: my-work
+tags: illustration watercolor literature haruki-murakami
 ---
-
-date: 	2016-01-?? 12:00:00 +0000
 
 <p class="intro">Here we have my new illustration for Haruki Murakami's South of the Border, West of the Sun, a novel about an outwardily lucky man who feels there is still something missing in his seemingly perfect life.</p>
 

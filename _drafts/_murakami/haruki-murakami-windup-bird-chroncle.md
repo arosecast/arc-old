@@ -1,13 +1,12 @@
 ---
 layout: post
 title:  "My Work // Illustration of Haruki Murakami's novel The Wind-Up Bird Chronicle"
+<!--date: 	2016-0?-?? 15:00:00 +0000-->
 image: '/assets/blog/draft/thumb-murakami-wind-up-bird-chronicle.jpg'
 alt: Illustration of Haruki Murakami's novel The Wind-Up Bird Chronicle by illustrator / artist Karen Muray of A Rose Cast
-categories: My-Work
-tags: Illustration Watercolor Literature Haruki-Murakami
+categories: my-work
+tags: illustration watercolor literature haruki-murakami
 ---
-
-date: 	2016-01-?? 12:00:00 +0000
 
 <p class="intro">Here is my refined illustration for Haruki Murakami's The Wind-Up Bird Chronicle. I was first introduced to this tale through the first Murakami book I ever picked up, The Elephant Vanishes, a short story collection.</p>
 
