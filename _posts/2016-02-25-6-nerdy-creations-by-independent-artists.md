@@ -5,7 +5,7 @@ date:   2016-02-25 12:00:00 +0000
 image: '/assets/blog/2016-02/thumb-steve-zissou-bill-murray-life-aquatic.jpg'
 alt: Steve Zissou / Bill Murray pin, from Wes Anderson's The Life Aquatic
 categories: wish-list
-tags: illustration nerd fashion fan-art pin jewellery fandom film tv
+tags: illustration nerd fashion fan-art lapel-pin jewellery fandom film tv
 ---
 
 <p class="intro">I love to create my own <a href="/project/illustration-fanart.html" title="Buy fanart illustrations from Firefly, Buffy, Star Trek and Sailor Moon created by A Rose Cast">geeky fanart pieces</a>. In fact, this week I released a new piece, this time of <a href="/my-work/2016/02/23/princess-bubblegum-adventure-time-fanart.html" title="Buy a Princess Bubblegum, of Adventure Time, fanart illustration created by A Rose Cast">Princess Bubblegum</a> from the brilliant cartoon Adventure Time.</p>

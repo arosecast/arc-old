@@ -38,7 +38,7 @@ TEXT
 	</div>
 </div>
 
-TEXT
+You can also buy the illustration on a number different products over on my [Society6](https://society6.com/akai_hane), [Redbubble](http://www.redbubble.com/people/arosecast) and [Art Rookie stores](http://artrookie.co.uk/ARoseCast), from cushions and cards to mugs and rugs.
 
 <div class="row">
 	<div class="col-md-6">

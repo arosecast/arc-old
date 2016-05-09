@@ -5,7 +5,7 @@ date:   2016-02-12 08:00:00 +0000
 image: '/assets/blog/2016-02/thumb-heart-eye-emoji-patterned-cake-roll.jpg'
 alt: How to Create a Heart Eye Emoji Patterned Cake Roll from Aww, Sam
 categories: loved-links
-tags: diy holidays downloads printables home-decor music
+tags: diy holidays downloads printable home-decor music
 ---
 
 <p class="intro">My partner and I have never really celebrated Valentine's much. His birthday is just over two weeks before it, my birthday is THREE days before, and our anniversary takes place a month after.</p>
