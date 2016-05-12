@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My Work // Happiness is a Warm Puppy | Wooden Brooch of a Shiba Inu Dog in a Scarf"
-<!--date:   2016-05-09 15:00:00 +0000-->
+date:   2016-05-09 15:00:00 +0000
 image: '/assets/blog/2016-05/thumb-happiness-warm-puppy-dog.jpg'
 alt: Happiness is a Warm Puppy | Wooden Brooch of a Shiba Inu Dog in a Scarf
 categories: my-work
@@ -27,7 +27,7 @@ A few of my brooches in the past have had a related calligraphy quote, so I sear
 As with my other [wooden jewellery](https://www.etsy.com/shop/ARoseCast?ref=hdr_shop_menu&section_id=18187909), the artwork was created in watercolour, and the charms printed and laser cut by [Zap! Creatives](http://www.zapcreatives.co.uk). Each has a clasp attached to the back.
 
 <div class="highlight">
-	Buy <span class="the">this</span> Piece <span class="the">on</span> <a href="https://society6.com/product/shiba-inu-dog-in-a-scarf-with-quote-happiness-is-a-warm-puppy_print#1=45" title="Buy on Society6">Society6</a>, <span class="the"></span> <a href="http://artrookie.co.uk/ARoseCast" title="Buy on Art Rookie">Art Rookie</a>,<br></span> <a href="http://www.redbubble.com/people/arosecast/works/21789679-shiba-inu-puppy-in-a-scarf" title="Buy on Redbubble">Redbubble</a> <span class="the">or</span> <a href="https://www.etsy.com/listing/279563830/walnut-wood-brooch-with-an-illustration" title="Art Rookie Etsy">Etsy</a>
+	Buy <span class="the">this</span> Piece <span class="the">on</span> <a href="https://society6.com/product/shiba-inu-dog-in-a-scarf-with-quote-happiness-is-a-warm-puppy_print#1=45" title="Buy on Society6">Society6</a>, <span class="the"></span> <a href="http://www.artrookie.co.uk/profile_items.php?designer=ARoseCast&design=9374" title="Buy on Art Rookie">Art Rookie</a>,<br></span> <a href="http://www.redbubble.com/people/arosecast/works/21789679-shiba-inu-puppy-in-a-scarf" title="Buy on Redbubble">Redbubble</a> <span class="the">or</span> <a href="https://www.etsy.com/listing/279563830/walnut-wood-brooch-with-an-illustration" title="Etsy">Etsy</a>
 </div>
 
 I really loved creating this guy, and am looking forward to adding a few new dog breeds to the list of brooches, as well as maybe a few other products (doggie greeting cards would prove popular, I have no doubt). I think my next one may be a husky or a samoyed; I have very fond memories of a family of huskies who lived near me as a child and if I had to have a dog, I think I would waver towards wolf-like breeds.
@@ -40,7 +40,7 @@ I do wonder how my cats would get on with one of them. [Toby](https://www.instag
 	</div>
 </div>
 
-You can also buy the illustration on a number different products over on my [Society6](https://society6.com/product/shiba-inu-dog-in-a-scarf-with-quote-happiness-is-a-warm-puppy_print#1=45), [Redbubble](http://www.redbubble.com/people/arosecast/works/21789679-shiba-inu-puppy-in-a-scarf) and [Art Rookie stores](http://artrookie.co.uk/ARoseCast), from cushions and cards to mugs and rugs.
+You can also buy the illustration on a number different products over on my [Society6](https://society6.com/product/shiba-inu-dog-in-a-scarf-with-quote-happiness-is-a-warm-puppy_print#1=45), [Redbubble](http://www.redbubble.com/people/arosecast/works/21789679-shiba-inu-puppy-in-a-scarf) and [Art Rookie stores](http://www.artrookie.co.uk/profile_items.php?designer=ARoseCast&design=9374), from cushions and cards to mugs and rugs.
 
 <div class="row">
 	<div class="col-md-6">
