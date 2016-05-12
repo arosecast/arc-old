@@ -14,16 +14,20 @@ Darker Blue // #a4cbbe
 body {font: 16px 'Open Sans', sans-serif; color: #444;}
 h1, #content article h1 a, h3, #content article .thumbnail h2 a, #content article .thumbnail h6 a, #content article div.storeLink a, .share, div.highlight, #content div.highlight a, article footer strong {font-family: 'Archivo Narrow', sans-serif; text-transform: uppercase; font-style: normal;}
 #content header a, #content div.highlight a {font-size: 1em;}
+#content header.shop {margin-bottom: 10px}
 .col-md-2 h1 {margin-top: 0;}
-h2, h4, h5, h6, .date, .form-control, .the, .copy, #content article a, #rightAside .project a {font-family: 'Alegreya', serif; font-style: italic;}
+h2, h4, h5, h6, .date, .form-control, .the, .copy, #content article a, #rightAside .project a, section#project a, p.price {font-family: 'Alegreya', serif; font-style: italic;}
 h2, h2 a {color: #a4cbbe;}
 h3 {color: #f0c0b4;}
+h4 {line-height: 1.4em;}
 
 #content footer a {font-family: 'Open Sans', sans-serif; font-style: normal; font-size: 1em;}
 .the {text-transform: lowercase; font-size: 0.8em;}
-#content a, #rightAside .project a {font-size: 1.2em;}
+#content a, #rightAside .project a, section#project a {font-size: 1.2em;}
 .clear {clear: both;}
+.upper {text-transform: uppercase;}
 p {line-height: 150%;}
+p.right {text-align: right;}
 a {color: #f0c0b4;}
 a:hover {color: #a4cbbe; text-decoration: none;}
 
@@ -92,29 +96,40 @@ a.navbar-brand {margin-top: -11px;}
 #sideNav ul.socialNav li.pinterest a {background-position: left bottom; margin-right: 0;}
 #sideNav ul.socialNav li.pinterest a:hover {background-position: right bottom; margin-right: 0;}
 
-/* Shop Nav */
-nav.shop-navigation {text-align: right; text-transform: uppercase;}
-nav.shop-navigation ul li {display: inline-block; margin-left: 20px;}
-nav.shop-navigation ul li.shop {margin-right: -10px; font-weight: bold;}
-nav.shop-navigation ul li a {color: #777;}
-nav.shop-navigation ul li a:hover {color: #a4cbbe;}
-
 /* Shop */
+nav.shop-navigation {text-align: right;}
+nav.shop-navigation li {display: inline; text-transform: uppercase; margin-left: 20px;}
+nav.shop-navigation li.shop {margin-right: -10px;}
+nav.shop-navigation li a {color: #ccc;}
+nav.shop-navigation li a:hover {color: #a4cbbe;}
+
+p.price {text-align: center; font-size: 2em; color: #f0c0b4;}
+#rightAside p.price {font-size: 3em; color: #a4cbbe;}
+#rightAside p.price small {font-size: 0.5em;}
+
 .carosel {margin-top: 20px;}
 
 /* MAIN CONTENT */
+
 /* Pages */
 div.storeLink a {display: block; font-size: 1.5em; background: #c4dbd3; color: #fff; text-align: center; margin: 20px 0 10px; padding: 10px;}
 div.storeLink a:hover {background: #ffdbd3;}
 
 /* Thumbnails */
-.thumbnail {overflow: hidden; height: 245px; margin-bottom: 30px; padding: 0; background-color: transparent; border: none; border-radius: 0;}
+.thumbnail {overflow: hidden; height: 245px; margin-bottom: 20px; padding: 0; background-color: transparent; border: none; border-radius: 0;}
+.shop .thumbnail {height: 260px;}
 .thumbnail .caption {padding: 0;}
+#content .homepod .thumbnail {height: 236px;}
 
 #content article .thumbnail img {margin-bottom: 0;}
 #content article .thumbnail h2, #content article .thumbnail h6 {margin-top: 5px; text-align: center; font-size: 1em;}
 .thumbnail h2 a, #content .thumbnail h2 a, .thumbnail h6 a {font-style: normal; color: #a4cbbe;}
 .thumbnail h2 a:hover, #content .thumbnail h2 a:hover, .thumbnail h6 a:hover {color: #f0c0b4;}
+
+/* Home */
+#content .homepod {margin-top: 20px;}
+#content .homepod .thumbnail h2 a {position: absolute; top: 169px; right: 15px; background: #c4dbd3; color: #fff; font-size: 1.8em; padding: 8px 12px;}
+#content .homepod .thumbnail h2 a:hover {background: #f0c0b4;}
 
 /* Folio */
 section#project img {margin-top: 0; margin-bottom: 30px;}
@@ -146,8 +161,8 @@ div.highlight a {background: #fff; margin: 0 5px; padding: 5px 10px; color: #c4d
 #content div.highlight p.social a {font-size: 0.8em; padding: 0px 10px;}
 div.highlight a:hover {background: #ffdbd3; color: #fff;}
 
-#rightAside div.highlight.etsy {background: #f56400; margin: 5px 0 20px; padding: 0;}
-#rightAside div.highlight.etsy a {font-size: 1.6em; background: none; color: #fff; border: none; margin: 0; padding: 10px 0; display: block;}
+#rightAside div.highlight.etsy {background: #f56400; margin: 10px 0 20px; padding: 0; font-size: 1.8em;}
+#rightAside div.highlight.etsy a {color: #fff; padding: 10px 20px; display: block; background: none; border: none;}
 
 #content article img {margin-bottom: 10px;}
 #content article ul, #content article ul {list-style: none; padding-left: 20px;}
@@ -180,6 +195,7 @@ article footer .label-default:hover {background: #ffdbd3; color: #fff;}
 .pagination>li>a:hover, .pagination>li>a:focus {background-color: #c4dbd3; border-color: #ffdbd3; color: #fff;} 
 .pagination>.active>a, .pagination>.active>span, .pagination>.active>a:hover, .pagination>.active>span:hover, .pagination>.active>a:focus, .pagination>.active>span:focus {
 	background-color: #ffdbd3; border-color: #ffdbd3;}
+
 
 /* RIGHT COLUMN */
 #rightAside h3 {border: none; background: #ffdbd3; margin: 20px 0 0; padding: 8px 10px; text-align: center; color: #fff;}
@@ -230,6 +246,7 @@ footer p.copy {text-align: left;}
 #sideNav ul {margin-top: 20px;}
 #sideNav li {margin-top: 0; margin-bottom: -1px;}
 #sideNav .nav-stacked li a {text-indent: -9999px; background-position: top; background-repeat: no-repeat; width: 132px; background-size: 100%;}
+#sideNav li.shop a {background-image: url("/assets/graphics/nav-shop.png"); height: 108px;}
 #sideNav li.mywork a {background-image: url("/assets/graphics/nav-work.png"); height: 48px;}
 #sideNav li.about a {background-image: url("/assets/graphics/nav-about.png"); height: 50px;}
 #sideNav li.contact a {background-image: url("/assets/graphics/nav-contact.png"); height: 46px;}
@@ -257,7 +274,7 @@ footer p.copy {text-align: left;}
 #sideNav li.mywork a {background-image: url("/assets/graphics/nav-work.png"); height: 60px;}
 #sideNav li.about a {background-image: url("/assets/graphics/nav-about.png"); height: 63px;}
 #sideNav li.contact a {background-image: url("/assets/graphics/nav-contact.png"); height: 57px;}
-#sideNav li.blog a {background-image: url("/assets/graphics/nav-blog.png"); height: 108px;}
+#sideNav li.blog a {background-image: url("/assets/graphics/nav-blog.png"); height: 123px;}
 #sideNav li.etsy a {background-image: url("/assets/graphics/nav-etsy.png"); height: 66px;}
 #sideNav li.society6 a {background-image: url("/assets/graphics/nav-society6.png"); height: 43px;}
 #rightAside .nav>li {width: 262px; height: 150px;}

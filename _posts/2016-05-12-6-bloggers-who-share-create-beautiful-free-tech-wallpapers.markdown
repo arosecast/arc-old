@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Loved Links // 6 Bloggers Who Share and / or Create Beautiful Free Tech Wallpapers"
-<!--date:   2016-05-12 15:00:00 +0000-->
+date:   2016-05-12 15:00:00 +0000
 image: '/assets/blog/2016-05/thumb-bloggers-free-tech-wallpapers.jpg'
 alt: Photographic cactus wallpaper
 categories: loved-links
