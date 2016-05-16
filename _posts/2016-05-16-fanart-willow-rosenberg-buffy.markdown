@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My Work // Willow Rosenberg of Buffy The Vampire Slayer | Watercolour &amp; Pencil Portrait Illustration"
-<!--date:   2016-05-16 15:00:00 +0000-->
+date:   2016-05-16 15:00:00 +0000
 image: '/assets/blog/2016-05/thumb-fanart-willow-buffy.jpg'
 alt: Watercolour Fan Art Illustration of Willow Rosenberg, from Joss Whedon's supernatural TV series Buffy The Vampire Slayer
 categories: my-work
