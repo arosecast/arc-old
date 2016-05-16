@@ -12,7 +12,7 @@ tags: illustration watercolor fan-art tv
 
 Before I release a few new pieces, I wanted to do a flashback to one of my favourite pieces from my back-catalogue, and one of my all-time bestsellers.
 
-It shouldn’t come as a surprise to anyone, from [some of](http://127.0.0.1:4000/wish-list/2016/04/21/6-adorable-brooches-pins-from-independent-makers.html "Wish List // 6 Adorable Brooches and Pins from Independent Makers") my [wish list posts](/wish-list/2016/02/25/6-nerdy-creations-by-independent-artists.html "Wish List // 6 Nerdy Creations by Independent Artists"), that I’m more than a little bit of a nerd.
+It shouldn’t come as a surprise to anyone, from [some of](/wish-list/2016/04/21/6-adorable-brooches-pins-from-independent-makers.html "Wish List // 6 Adorable Brooches and Pins from Independent Makers") my [wish list posts](/wish-list/2016/02/25/6-nerdy-creations-by-independent-artists.html "Wish List // 6 Nerdy Creations by Independent Artists"), that I’m more than a little bit of a nerd.
 
 <div class="row">
 	<div class="col-md-6">
