@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Creative Spotlight // 6 Photographer-Artists Who Create Fantasical Landscapes Through Photo Manipulation"
-date:   2016-05-19 15:00:00 +0000
+date:   2016-05-19 14:30:00 +0000
 image: '/assets/blog/2016-05/thumb-photo-manip-zsolt-linka.jpg'
 alt: 6 Photographer-Artists Who Create Fantasical Landscapes Through Photo Manipulation
 categories: creative-spotlight
-tags: illustration
+tags: photography fantasy manipulation
 ---
 
 <p class="intro">As I’ve been going through my backlog of DSLR photos (I've shared a number over on <a href="https://www.instagram.com/arosecast/" title="A Rose Cast on Instagram">Instagram</a>), cleaning them up and processing them in Lightroom, I’ve been thinking about seeing if there is someway to add a little more mystery or fantasy to them. Should I add an illustrative element; one of my girls peaking around a corner, or a kitty sitting on a pavement?</p>
