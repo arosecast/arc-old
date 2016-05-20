@@ -28,10 +28,19 @@ Soon <em>Wild Sofa Beasts</em> will not solely be comprised of wooden brooches. 
 
 <div class="row">
 	<div class="col-md-6">
-		<a href="https://www.etsy.com/listing/257819325/walnut-wood-brooch-with-an-illustration" title="Buy the Crazy Cat Lady | Wooden Brooch of a Girl and Her Cats on the A Rose Cast on Etsy"><img src="/assets/blog/2016-02/crazy-cat-lady-wooden-brooch.jpg" alt="Crazy Cat Lady | Wooden Brooch of a Girl and Her Cats"></a>
+		<a href="https://www.etsy.com/listing/257819325/walnut-wood-brooch-with-an-illustration" title="Buy the Crazy Cat Lady | Wooden Brooch of a Girl and Her Cats on the A Rose Cast on Etsy"><img src="/assets/blog/2016-02/crazy-cat-lady-wooden-brooch-01.jpg" alt="Crazy Cat Lady | Wooden Brooch of a Girl and Her Cats"></a>
 	</div>
 	<div class="col-md-6">
 		<a href="https://www.etsy.com/listing/257819325/walnut-wood-brooch-with-an-illustration" title="Buy the Crazy Cat Lady | Wooden Brooch of a Girl and Her Cats on the A Rose Cast on Etsy"><img src="/assets/folio/wsb/wooden-brooch-crazy-cat-lady.jpg" alt="Crazy Cat Lady | Wooden Brooch of a Girl and Her Cats"></a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-md-6">
+		<a href="https://www.etsy.com/listing/257819325/walnut-wood-brooch-with-an-illustration" title="Buy the Crazy Cat Lady | Wooden Brooch of a Girl and Her Cats on the A Rose Cast on Etsy"><img src="/assets/blog/2016-02/crazy-cat-lady-wooden-brooch-02.jpg" alt="Crazy Cat Lady | Wooden Brooch of a Girl and Her Cats"></a>
+	</div>
+	<div class="col-md-6">
+		<a href="https://www.etsy.com/listing/257819325/walnut-wood-brooch-with-an-illustration" title="Buy the Crazy Cat Lady | Wooden Brooch of a Girl and Her Cats on the A Rose Cast on Etsy"><img src="/assets/blog/2016-02/crazy-cat-lady-wooden-brooch-03.jpg" alt="Crazy Cat Lady | Wooden Brooch of a Girl and Her Cats"></a>
 	</div>
 </div>
 
