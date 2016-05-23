@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My Work // Illustration of Haruki Murakami's novel Sputnik Sweetheart"
-date: 	2016-05-23 15:01:00 +0000
+date: 	2016-05-23 12:00:00 +0000
 image: '/assets/blog/2016-05/thumb-murakami-sputnik-sweetheart.jpg'
 alt: Illustration of Haruki Murakami's novel Sputnik Sweetheart by illustrator / artist Karen Muray of A Rose Cast
 categories: my-work
