@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Wish List // 6 Creations by Independent Makers Who Celebrate Feminism and Gender Equality"
-<!--date:   2016-05-26 15:00:00 +0000-->
+<!--date: 2016-05-25 15:00:00 +0000-->
 image: '/assets/blog/2016-05/thumb-feminism-is-cool-embroidered-patch.jpg'
 alt: Feminism is Cool Iron-on Embroidered Patch
 categories: wish-list
