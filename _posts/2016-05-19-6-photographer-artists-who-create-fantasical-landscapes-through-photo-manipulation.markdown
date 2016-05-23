@@ -8,7 +8,7 @@ categories: creative-spotlight
 tags: photography fantasy manipulation
 ---
 
-<p class="intro">As I’ve been going through my backlog of DSLR photos (I've shared a number over on <a href="https://www.instagram.com/arosecast/" title="A Rose Cast on Instagram">Instagram</a>), cleaning them up and processing them in Lightroom, I’ve been thinking about seeing if there is someway to add a little more mystery or fantasy to them. Should I add an illustrative element; one of my girls peaking around a corner, or a kitty sitting on a pavement?</p>
+<p class="intro">As I’ve been going through my backlog of DSLR photos (I've shared a number over on <a href="https://www.instagram.com/arosecast/" title="A Rose Cast on Instagram">Instagram</a>), cleaning them up and processing them in Lightroom, I’ve been thinking about seeing if there is someway to add a little more mystery or fantasy to them. Should I add an illustrative element; one of my girls peaking around a corner, or a kitty cat sitting on a pavement?</p>
 
 While thinking about that, I decided to have a little look at some artists who focus on photo manipulation. Here are a few creative photographers I found enchanting.
 
