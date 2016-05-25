@@ -59,3 +59,9 @@ You can also get a sneak peek at all the rest of my <a href="/project/illustrati
 		<a href="http://www.redbubble.com/people/arosecast/works/21937761-haruki-murakamis-sputnik-sweetheart-illustration-of-the-sputnik-satellite-in-space-in-pencil-and-watercolour?c=512595-haruki-murakami-novel-illustrations" title="Buy Watercolour Illustration for Haruki Murakami's Sputnik Sweetheart as a range of products on my Redbubble Store"><img src="/assets/blog/2016-05/redbubble-sputnik-sweetheart-bags.jpg" alt="Haruki Murakami's Sputnik Sweetheart | Watercolour &amp; Pencil Portrait Illustration by Karen Murray of A Rose Cast" title="Tote Bag of Haruki Murakami's Sputnik Sweetheart | Watercolour &amp; Pencil Portrait Illustration by @arosecast"></a>
 	</div>
 </div>
+
+
+
+<div style="display: none;">
+	<img src="/assets/blog/2016-05/haruki-murakami-art-prints.jpg" alt="Haruki Murakami novel watercolor illustrations by illustrator / artist Karen Muray of A Rose Cast" title="Haruki Murakami novel watercolor illustrations by illustrator / artist Karen Muray of A Rose Cast @arosecast">
+</div>
