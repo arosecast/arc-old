@@ -1,17 +1,14 @@
 ---
 layout: post
 title:  "Month in Review // May 2016"
-<!--date:   2016-??-0? 15:00:00 +0000-->
-image: '/assets/blog/2016-05/thumb-may-2016.jpg'
-alt: 
+date:   2016-06-02 15:00:00 +0000
+image: '/assets/blog/2016-06/thumb-hachiko-shibuya.jpg'
+alt: Me with the Hachiko Statue at Shibuya Station, Tokyo
 categories: month-in-review
-tags: illustration downloads
+tags: illustration downloads japan printable
 ---
 
-
-
-
-Blurb
+<p class="intro">Another month, another recap of what I've been creating and enjoying.</p>
 
 <div class="row">
 	<div class="col-md-6">
@@ -63,36 +60,37 @@ What I’ve been Loving and Lusting Over
 
 <div class="row">
 	<div class="col-md-6">
-		<a href="LINK" title="TITLE on Instagram"><img src="/assets/blog/2016-0?/IMG.jpg" alt="ALT on Instagram" title="TITLE on Instagram"></a>
+		<a href="https://www.instagram.com/p/BFJ0WjLGFTB/" title="Me with the Hachiko Statue at Shibuya Station, Tokyo on Instagram"><img src="/assets/blog/2016-06/instagram-hachiko-shibuya.jpg" alt="Me with the Hachiko Statue at Shibuya Station, Tokyo on Instagram" title="Me with the Hachiko Statue at Shibuya Station, Tokyo on Instagram"></a>
 	</div>
 	<div class="col-md-6">
-		<a href="LINK" title="TITLE on Instagram"><img src="/assets/blog/2016-0?/IMG.jpg" alt="ALT on Instagram" title="TITLE on Instagram"></a>
+		<a href="https://www.instagram.com/p/BFg6tYjGFdQ/" title="Kamakura Beach, Japan, at Sunset on Instagram"><img src="/assets/blog/2016-06/instagram-sunset-kamakura-beach.jpg" alt="Kamakura Beach, Japan, at Sunset on Instagram" title="Kamakura Beach, Japan, at Sunset on Instagram"></a>
 	</div>
 </div>
 <div class="row">
 	<div class="col-md-6">
-		<a href="LINK" title="TITLE on Instagram"><img src="/assets/blog/2016-0?/IMG.jpg" alt="ALT on Instagram" title="TITLE on Instagram"></a>
+		<a href="https://www.instagram.com/p/BE_H7jzGFRS/" title="Sketching cute houses on Instagram"><img src="/assets/blog/2016-06/instagram-house-sketches.jpg" alt="Sketching cute houses on Instagram" title="Sketching cute houses on Instagram"></a>
 	</div>
 	<div class="col-md-6">
-		<a href="LINK" title="TITLE on Instagram"><img src="/assets/blog/2016-0?/IMG.jpg" alt="ALT on Instagram" title="TITLE on Instagram"></a>
+		<a href="https://www.instagram.com/p/BF0sGGlGFUP/" title="Toby cat 'helping' me work on Instagram"><img src="/assets/blog/2016-06/instagram-toby-cat.jpg" alt="Toby cat 'helping' me work on Instagram" title="Toby cat 'helping' me work on Instagram"></a>
 	</div>
 </div>
 
-<img src="/assets/cs-paper-01.jpg" style="display: none;">
-
 Snapshots
 ---
-+ BLURB
++ Me with the Hachiko Statue at Shibuya Station, Tokyo back in October! Life goal achieved!
++ Kamakura Beach at sunset. This was the perfect way to end an amazing day. My first time seeing and touching the Pacific Ocean. Is it obvious I'm dying to go back to Japan?
++ Sketching cute houses. I'm thinking of offering custom home/shop illustrations as a service. What do you think?
++ Toby cat 'helping' me work. He was napping with his chest and arms on top of all of my planners and sketch books.
 + Keep up to date by following me on [Instagram](http://instagram.com/arosecast)
 
 * * *
 
 Other Happenings This Month
 ---
-+ <strong>Reading</strong> // BOOK ([Follow me on Goodreads](https://www.goodreads.com/user/show/1680658-karen-murray))
-+ <strong>Watching</strong> // TV/MOVIE
-+ <strong>Listening</strong> // MUSIC
-+ <strong>Playing</strong> // GAME
-+ <strong>Eating</strong> // FOOD
-+ <strong>Learning</strong> // LEARN
-+ <strong>Doing</strong> // DO
++ <strong>Reading</strong> // Trying to get through Radiance by Catherynne M. Valente. Love her books, and enjoying this one, but for some reason isn't an easy read. It's a very unusual format. Took time off to quickly devour Landline by Rainbow Rowell. Sometimes you need an easy but satifying read when you have a difficult book to get through. ([Follow me on Goodreads](https://www.goodreads.com/user/show/1680658-karen-murray))
++ <strong>Watching</strong> // Finished season 2 of Better Call Saul. Very awesome.
++ <strong>Listening</strong> // Remembering how much I loved [The Presidents of the United States of America](https://youtu.be/wvAnQqVJ3XQ) as a pre-teen/teenager in the 90s
++ <strong>Playing</strong> // Finally finished Bioshock. Uncharted 2 next?
++ <strong>Eating</strong> // [Chia Seed Pancakes](http://www.runningonrealfood.com/vegan-chia-seed-pancakes/). I've been trying to find recipes for treat food that reduce the amount of saturated and trans fats, and these were amazing! Though may cut out the salt completely next time as that's a lot of salt! (Okay, maybe that is as we ate them between two people, not four &hellip;)
++ <strong>Learning</strong> // How to create nice looking [patterns in Photoshop](/freebie/2016/05/30/vintage-glasses-weekly-planner-june-freebie.html)
++ <strong>Doing</strong> // Looks of planning for new products, especially custom illustration work, and items for [Studio Souk in Belfast](http://www.studiosouk.com) and a convention I have a stall at in October
