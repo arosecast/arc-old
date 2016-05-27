@@ -258,8 +258,9 @@ footer p.copy {text-align: left;}
 /* Right Column */
 #rightAside .nav>li {display: block; width: 213px; height: 122px; background: #eee; position: relative; margin-bottom: -8px;}
 #rightAside .nav>li.myWork {background: url(/assets/graphics/mywork.jpg);}
-#rightAside .nav>li.creativeSpotlight {background: url(/assets/graphics/creativespotlight.jpg);}
 #rightAside .nav>li.freebies {background: url(/assets/graphics/freebies.jpg);}
+#rightAside .nav>li.fridayFaves {background: url(/assets/graphics/fridayfaves.jpg);}
+#rightAside .nav>li.creativeSpotlight {background: url(/assets/graphics/creativespotlight.jpg);}
 #rightAside .nav>li.lovedLinks {background: url(/assets/graphics/lovedlinks.jpg);}
 #rightAside .nav>li.wishList {background: url(/assets/graphics/wishlist.jpg);}
 #rightAside .nav>li.monthReview {background: url(/assets/graphics/monthreview.jpg);}
