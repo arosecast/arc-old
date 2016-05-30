@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "June Freebie // Vintage Glasses Pattern Weekly Planner &amp; Wallpapers"
-date:   2016-05-30 15:00:00 +0000
+date:   2016-05-30 13:45:00 +0000
 image: '/assets/blog/2016-05/thumb-freebie-vintage-glasses-pattern-weekly-planner-wallpaper.jpg'
-alt: This is the alt text for the image
+alt: June Freebie - Glasses Pattern Weekly Planner &amp; Wallpapers
 categories: freebie
-tags: downloads printable planner glasses geek nerd watercolour illustration vintage
+tags: downloads printable planner glasses geek nerd watercolour illustration vintage wallpaper
 ---
 
 <p class="intro">Hi all! I have another fun little freebie for you. Planners really seem to be a thing at the moment, especially within my orbit of bloggers and creatives.</p>
