@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Month in Review // May 2016"
-date:   2016-06-02 15:00:00 +0000
+date:   2016-06-01 16:30:00 +0000
 image: '/assets/blog/2016-06/thumb-hachiko-shibuya.jpg'
 alt: Me with the Hachiko Statue at Shibuya Station, Tokyo
 categories: month-in-review
