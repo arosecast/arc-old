@@ -8,7 +8,7 @@ categories: friday-favourites
 tags: fashion lapel-pin instagram travel japan diy crafts printable stationery
 ---
 
-<p class="intro">A few little things I've come across this week that I'm loving.</p>
+<p class="intro">A few little things I've come across this week that I'm loving. </p>
 
 <div class="row">
 	<div class="col-md-6">
