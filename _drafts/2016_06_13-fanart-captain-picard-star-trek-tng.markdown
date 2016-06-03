@@ -10,9 +10,9 @@ tags: illustration watercolor fan-art tv
 
 ![Watercolour Fan Art Illustration of Captain Jean-Luc Picard, from sci-fi epic Star Trek: The Next Generation](/assets/folio/fanart/illustration-fanart-picard.jpg "Watercolour Fan Art Illustration of Captain Jean-Luc Picard, from sci-fi epic Star Trek: The Next Generation, by @arosecast")
 
-I've started doing a few flashbacks posts talking about some of my favourite pieces from my back-catalogue; first up was my fan art illustration of [Willow Rosenberg](LINK) from Joss Whedon's Buffy The Vampire Slayer. Today, it's all about another fan art piece, this time of Captain Jean-Luc Picard, from sci-fi epic Star Trek: The Next Generation.
+I've started doing a few flashbacks posts talking about some of my favourite pieces from my back-catalogue; first up was my fan art illustration of [Willow Rosenberg](/my-work/2016/05/16/fanart-willow-rosenberg-buffy.html) from Joss Whedon's Buffy The Vampire Slayer. Today, it's all about another fan art piece, this time of Captain Jean-Luc Picard, from sci-fi epic Star Trek: The Next Generation.
 
-I'm a big nerd; you can see that from [a number of](http://127.0.0.1:4000/wish-list/2016/04/21/6-adorable-brooches-pins-from-independent-makers.html "Wish List // 6 Adorable Brooches and Pins from Independent Makers") my [wish list posts](/wish-list/2016/02/25/6-nerdy-creations-by-independent-artists.html "Wish List // 6 Nerdy Creations by Independent Artists"). And my all-time favourite show as a child was Star Trek: The Next Generation.
+I'm a big nerd; you can see that from [a number of](/wish-list/2016/04/21/6-adorable-brooches-pins-from-independent-makers.html "Wish List // 6 Adorable Brooches and Pins from Independent Makers") my [wish list posts](/wish-list/2016/02/25/6-nerdy-creations-by-independent-artists.html "Wish List // 6 Nerdy Creations by Independent Artists"). And my all-time favourite show as a child was Star Trek: The Next Generation.
 
 <div class="row">
 	<div class="col-md-6">
@@ -23,7 +23,7 @@ I'm a big nerd; you can see that from [a number of](http://127.0.0.1:4000/wish-l
 	</div>
 </div>
 
-Captain Jean-Luc Picard was an idol to me as a child (well, still is), and I think a lot of my moral basis comes directly from him. (As well as Hawkeye from M&lowast;A&lowast;S&lowast;H, another childhood fave of mine. Yeah ... I had weird choices for a kid.) So I wanted to create a little ode to him while I was trying my hand at drawing from real-life references. And just like [Willow](LINK), I was really ecstatic with how he turned out.
+Captain Jean-Luc Picard was an idol to me as a child (well, still is), and I think a lot of my moral basis comes directly from him. (As well as Hawkeye from M&lowast;A&lowast;S&lowast;H, another childhood fave of mine. Yeah ... I had weird choices for a kid.) So I wanted to create a little ode to him while I was trying my hand at drawing from real-life references. And just like [Willow](/my-work/2016/05/16/fanart-willow-rosenberg-buffy.html), I was really ecstatic with how he turned out.
 
 <div class="highlight">
 	Buy <span class="the">this</span> Piece <span class="the">on</span> <a href="https://society6.com/product/captain-jean-luc-picard-of-the-starship-enterprise_print#1=45">Society6</a>, <span class="the"></span> <a href="http://artrookie.co.uk/profile_items.php?designer=ARoseCast&design=9073" title="Buy on Art Rookie">Art Rookie</a>,<br></span> <a href="http://www.redbubble.com/people/arosecast/works/21558629-watercolour-fanart-illustration-of-captain-jean-luc-picard-from-star-trek-the-next-generation?c=516778-fan-art" title="Buy on Redbubble">Redbubble</a> <span class="the">or</span> <a href="https://www.etsy.com/uk/shop/ARoseCast?ref=hdr_shop_menu&search_query=picard" title="Etsy">Etsy</a>
