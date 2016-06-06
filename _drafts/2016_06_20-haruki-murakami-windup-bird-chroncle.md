@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "My Work // Illustration of Haruki Murakami's novel The Wind-Up Bird Chronicle"
-<!--date: 	2016-0?-?? 15:00:00 +0000-->
-image: '/assets/blog/draft/thumb-murakami-wind-up-bird-chronicle.jpg'
+<!--date: 	2016-06-20 15:00:00 +0000-->
+image: '/assets/blog/2016-06/thumb-murakami-wind-up-bird-chronicle.jpg'
 alt: Illustration of Haruki Murakami's novel The Wind-Up Bird Chronicle by illustrator / artist Karen Muray of A Rose Cast
 categories: my-work
 tags: illustration watercolor literature haruki-murakami
@@ -28,10 +28,10 @@ Two and a half years went by. I was now working full time as an illustrator and 
 
 <div class="row">
 	<div class="col-md-6">
-		<a href="https://www.etsy.com/shop/ARoseCast?section_id=18192366" title="A4 watercolor illustration Art Print of Haruki Murakami's novel The Wind-Up Bird Chronicle on Etsy"><img src="/assets/blog/draft/a4-illustration-murakami-windup-bird-chroncle.jpg" alt="A4 watercolor illustration Art Print of Haruki Murakami's novel The Wind-Up Bird Chronicle on Etsy"></a>
+		<a href="https://www.etsy.com/shop/ARoseCast?section_id=18192366" title="A4 watercolor illustration Art Print of Haruki Murakami's novel The Wind-Up Bird Chronicle on Etsy"><img src="/assets/blog/2016-06/a4-illustration-murakami-windup-bird-chroncle.jpg" alt="A4 watercolor illustration Art Print of Haruki Murakami's novel The Wind-Up Bird Chronicle on Etsy"></a>
 	</div>
 	<div class="col-md-6">
-		<a href="https://www.etsy.com/shop/ARoseCast?section_id=18192366" title="A6 watercolor illustration Art Print of Haruki Murakami's novel The Wind-Up Bird Chronicle on Etsy"><img src="/assets/blog/draft/a6-illustration-murakami-windup-bird-chroncle.jpg" alt="A6 watercolor illustration Art Print of Haruki Murakami's novel The Wind-Up Bird Chronicle on Etsy"></a>
+		<a href="https://www.etsy.com/shop/ARoseCast?section_id=18192366" title="A6 watercolor illustration Art Print of Haruki Murakami's novel The Wind-Up Bird Chronicle on Etsy"><img src="/assets/blog/2016-06/a6-illustration-murakami-windup-bird-chroncle.jpg" alt="A6 watercolor illustration Art Print of Haruki Murakami's novel The Wind-Up Bird Chronicle on Etsy"></a>
 	</div>
 </div>
 

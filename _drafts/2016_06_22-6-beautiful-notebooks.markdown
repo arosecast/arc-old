@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Wish List // TITLE"
-<!--date:   2016-0?-?? 15:00:00 +0000-->
+<!--date:   2016-06-22 15:00:00 +0000-->
 image: '/assets/blog/2016-0?/IMG'
 alt: 
 categories: wish-list

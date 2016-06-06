@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "My Work // Captain Jean-Luc Picard of Star Trek: The Next Generation | Watercolour &amp; Pencil Portrait Illustration"
-<!--date:   draft-16 15:00:00 +0000-->
-image: '/assets/blog/draft/thumb-fanart-picard-star-trek-tng.jpg'
+<!--date:   2016-06-13 15:00:00 +0000-->
+image: '/assets/blog/2016-06/thumb-fanart-picard-star-trek-tng.jpg'
 alt: Watercolour Fan Art Illustration of Captain Jean-Luc Picard, from sci-fi epic Star Trek The Next Generation
 categories: my-work
 tags: illustration watercolor fan-art tv
@@ -16,10 +16,10 @@ I'm a big nerd; you can see that from [a number of](/wish-list/2016/04/21/6-ador
 
 <div class="row">
 	<div class="col-md-6">
-		<a href="https://www.etsy.com/listing/211433813/fan-art-captain-jean-luc-picard-of-the" title="A4 Print of Watercolour Fan Art Illustration of Captain Jean-Luc Picard, from sci-fi epic Star Trek: The Next Generation, by Karen Murray of A Rose Cast"><img src="/assets/blog/draft/fanart-picard-star-trek-tng-a4-art-print.jpg" alt="A4 Print of Watercolour Fan Art Illustration of Captain Jean-Luc Picard, from sci-fi epic Star Trek: The Next Generation, by Karen Murray of A Rose Cast" title="A4 Print of Watercolour Fan Art Illustration of Captain Jean-Luc Picard, from sci-fi epic Star Trek: The Next Generation, by @arosecast"></a>
+		<a href="https://www.etsy.com/listing/211433813/fan-art-captain-jean-luc-picard-of-the" title="A4 Print of Watercolour Fan Art Illustration of Captain Jean-Luc Picard, from sci-fi epic Star Trek: The Next Generation, by Karen Murray of A Rose Cast"><img src="/assets/blog/2016-06/fanart-picard-star-trek-tng-a4-art-print.jpg" alt="A4 Print of Watercolour Fan Art Illustration of Captain Jean-Luc Picard, from sci-fi epic Star Trek: The Next Generation, by Karen Murray of A Rose Cast" title="A4 Print of Watercolour Fan Art Illustration of Captain Jean-Luc Picard, from sci-fi epic Star Trek: The Next Generation, by @arosecast"></a>
 	</div>
 	<div class="col-md-6">
-		<a href="https://www.etsy.com/listing/267723374/fan-art-postcards-choose-from-picard" title="A6 Print of Watercolour Fan Art Illustration of Captain Jean-Luc Picard, from sci-fi epic Star Trek: The Next Generation, by Karen Murray of A Rose Cast"><img src="/assets/blog/draft/fanart-picard-star-trek-tng-a6-art-print.jpg" alt="A6 Print of Watercolour Fan Art Illustration of Captain Jean-Luc Picard, from sci-fi epic Star Trek: The Next Generation, by Karen Murray of A Rose Cast" title="A6 Print of Watercolour Fan Art Illustration of Captain Jean-Luc Picard, from sci-fi epic Star Trek: The Next Generation, by @arosecast"></a>
+		<a href="https://www.etsy.com/listing/267723374/fan-art-postcards-choose-from-picard" title="A6 Print of Watercolour Fan Art Illustration of Captain Jean-Luc Picard, from sci-fi epic Star Trek: The Next Generation, by Karen Murray of A Rose Cast"><img src="/assets/blog/2016-06/fanart-picard-star-trek-tng-a6-art-print.jpg" alt="A6 Print of Watercolour Fan Art Illustration of Captain Jean-Luc Picard, from sci-fi epic Star Trek: The Next Generation, by Karen Murray of A Rose Cast" title="A6 Print of Watercolour Fan Art Illustration of Captain Jean-Luc Picard, from sci-fi epic Star Trek: The Next Generation, by @arosecast"></a>
 	</div>
 </div>
 
@@ -33,7 +33,7 @@ So I decided to pop [A4](https://www.etsy.com/listing/211433813/fan-art-captain-
 
 <div class="row">
 	<div class="col-md-12">
-		<a href="https://www.etsy.com/listing/213514369/fan-art-greeting-cards-select-who-you" title="Greeting Card of Watercolour Fan Art Illustration of Captain Jean-Luc Picard, from sci-fi epic Star Trek: The Next Generation, with text &quot;I'll always be your sidekick&quot;, by Karen Murray of A Rose Cast"><img src="/assets/blog/draft/fanart-picard-star-trek-tng-greeting-card.jpg" alt="Greeting Card of Watercolour Fan Art Illustration of Captain Jean-Luc Picard, from sci-fi epic Star Trek: The Next Generation, with text &quot;I'll always be your sidekick&quot;, by Karen Murray of A Rose Cast" title="Greeting Card of Watercolour Fan Art Illustration of Captain Jean-Luc Picard, from sci-fi epic Star Trek: The Next Generation, with text &quot;I'll always be your sidekick&quot;, by @arosecast"></a>
+		<a href="https://www.etsy.com/listing/213514369/fan-art-greeting-cards-select-who-you" title="Greeting Card of Watercolour Fan Art Illustration of Captain Jean-Luc Picard, from sci-fi epic Star Trek: The Next Generation, with text &quot;I'll always be your sidekick&quot;, by Karen Murray of A Rose Cast"><img src="/assets/blog/2016-06/fanart-picard-star-trek-tng-greeting-card.jpg" alt="Greeting Card of Watercolour Fan Art Illustration of Captain Jean-Luc Picard, from sci-fi epic Star Trek: The Next Generation, with text &quot;I'll always be your sidekick&quot;, by Karen Murray of A Rose Cast" title="Greeting Card of Watercolour Fan Art Illustration of Captain Jean-Luc Picard, from sci-fi epic Star Trek: The Next Generation, with text &quot;I'll always be your sidekick&quot;, by @arosecast"></a>
 	</div>
 </div>
 
@@ -49,19 +49,19 @@ And like most of my products, you can also buy the Captain Jean-Luc Picard illus
 
 <div class="row">
 	<div class="col-md-6">
-		<a href="https://society6.com/product/captain-jean-luc-picard-of-the-starship-enterprise_print#1=45" title="Buy Watercolour Fan Art Illustration of Captain Jean-Luc Picard, from sci-fi epic Star Trek: The Next Generation as a range of products on my Society6 Store"><img src="/assets/blog/draft/society6-picard-star-trek-tng-mug.jpg" alt="Captain Jean-Luc Picard, from sci-fi epic Star Trek: The Next Generation | Watercolour &amp; Pencil Portrait Illustration by Karen Murray of A Rose Cast" title="Mug of Captain Jean-Luc Picard, from sci-fi epic Star Trek: The Next Generation | Watercolour &amp; Pencil Portrait Illustration by @arosecast"></a>
+		<a href="https://society6.com/product/captain-jean-luc-picard-of-the-starship-enterprise_print#1=45" title="Buy Watercolour Fan Art Illustration of Captain Jean-Luc Picard, from sci-fi epic Star Trek: The Next Generation as a range of products on my Society6 Store"><img src="/assets/blog/2016-06/society6-picard-star-trek-tng-mug.jpg" alt="Captain Jean-Luc Picard, from sci-fi epic Star Trek: The Next Generation | Watercolour &amp; Pencil Portrait Illustration by Karen Murray of A Rose Cast" title="Mug of Captain Jean-Luc Picard, from sci-fi epic Star Trek: The Next Generation | Watercolour &amp; Pencil Portrait Illustration by @arosecast"></a>
 	</div>
 	<div class="col-md-6">
-		<a href="https://society6.com/product/captain-jean-luc-picard-of-the-starship-enterprise_print#1=45" title="Buy Watercolour Fan Art Illustration of Captain Jean-Luc Picard, from sci-fi epic Star Trek: The Next Generation as a range of products on my Society6 Store"><img src="/assets/blog/draft/society6-picard-star-trek-tng-phone-skins.jpg" alt="Captain Jean-Luc Picard, from sci-fi epic Star Trek: The Next Generation | Watercolour &amp; Pencil Portrait Illustration by Karen Murray of A Rose Cast" title="iPhone Skin of Captain Jean-Luc Picard, from sci-fi epic Star Trek: The Next Generation | Watercolour &amp; Pencil Portrait Illustration by @arosecast"></a>
+		<a href="https://society6.com/product/captain-jean-luc-picard-of-the-starship-enterprise_print#1=45" title="Buy Watercolour Fan Art Illustration of Captain Jean-Luc Picard, from sci-fi epic Star Trek: The Next Generation as a range of products on my Society6 Store"><img src="/assets/blog/2016-06/society6-picard-star-trek-tng-phone-skins.jpg" alt="Captain Jean-Luc Picard, from sci-fi epic Star Trek: The Next Generation | Watercolour &amp; Pencil Portrait Illustration by Karen Murray of A Rose Cast" title="iPhone Skin of Captain Jean-Luc Picard, from sci-fi epic Star Trek: The Next Generation | Watercolour &amp; Pencil Portrait Illustration by @arosecast"></a>
 	</div>
 </div>
 
 <div class="row">
 	<div class="col-md-6">
-		<a href="http://www.redbubble.com/people/arosecast/works/21558629-watercolour-fanart-illustration-of-captain-jean-luc-picard-from-star-trek-the-next-generation" title="Buy Watercolour Fan Art Illustration of Captain Jean-Luc Picard, from sci-fi epic Star Trek: The Next Generation as a range of products on my Redbubble Store"><img src="/assets/blog/draft/redbubble-picard-star-trek-tng-journal.jpg" alt="Captain Jean-Luc Picard, from sci-fi epic Star Trek: The Next Generation | Watercolour &amp; Pencil Portrait Illustration by Karen Murray of A Rose Cast" title="Hardback Journal of Captain Jean-Luc Picard, from sci-fi epic Star Trek: The Next Generation | Watercolour &amp; Pencil Portrait Illustration by @arosecast"></a>
+		<a href="http://www.redbubble.com/people/arosecast/works/21558629-watercolour-fanart-illustration-of-captain-jean-luc-picard-from-star-trek-the-next-generation" title="Buy Watercolour Fan Art Illustration of Captain Jean-Luc Picard, from sci-fi epic Star Trek: The Next Generation as a range of products on my Redbubble Store"><img src="/assets/blog/2016-06/redbubble-picard-star-trek-tng-journal.jpg" alt="Captain Jean-Luc Picard, from sci-fi epic Star Trek: The Next Generation | Watercolour &amp; Pencil Portrait Illustration by Karen Murray of A Rose Cast" title="Hardback Journal of Captain Jean-Luc Picard, from sci-fi epic Star Trek: The Next Generation | Watercolour &amp; Pencil Portrait Illustration by @arosecast"></a>
 	</div>
 	<div class="col-md-6">
-		<a href="http://www.redbubble.com/people/arosecast/works/21558629-watercolour-fanart-illustration-of-captain-jean-luc-picard-from-star-trek-the-next-generation" title="Buy Watercolour Fan Art Illustration of Captain Jean-Luc Picard, from sci-fi epic Star Trek: The Next Generation as a range of products on my Redbubble Store"><img src="/assets/blog/draft/redbubble-picard-star-trek-tng-pillow.jpg" alt="Captain Jean-Luc Picard, from sci-fi epic Star Trek: The Next Generation | Watercolour &amp; Pencil Portrait Illustration by Karen Murray of A Rose Cast" title="Pillow Bag of Captain Jean-Luc Picard, from sci-fi epic Star Trek: The Next Generation | Watercolour &amp; Pencil Portrait Illustration by @arosecast"></a>
+		<a href="http://www.redbubble.com/people/arosecast/works/21558629-watercolour-fanart-illustration-of-captain-jean-luc-picard-from-star-trek-the-next-generation" title="Buy Watercolour Fan Art Illustration of Captain Jean-Luc Picard, from sci-fi epic Star Trek: The Next Generation as a range of products on my Redbubble Store"><img src="/assets/blog/2016-06/redbubble-picard-star-trek-tng-pillow.jpg" alt="Captain Jean-Luc Picard, from sci-fi epic Star Trek: The Next Generation | Watercolour &amp; Pencil Portrait Illustration by Karen Murray of A Rose Cast" title="Pillow Bag of Captain Jean-Luc Picard, from sci-fi epic Star Trek: The Next Generation | Watercolour &amp; Pencil Portrait Illustration by @arosecast"></a>
 	</div>
 </div>
 
