@@ -1,13 +1,12 @@
 ---
 layout: post
 title:  "Loved Links // 6 Colour-Filled &amp; Playful Printables for Summer Parties &amp; Get Togethers"
-<!--date:   2016-06-08 15:00:00 +0000-->
+date:   2016-06-08 15:00:00 +0000
 image: '/assets/blog/2016-06/thumb-diy-popsicle-favor-boxes.jpg'
 alt: DIY Popsicle Favor Boxes with Free Printable Templates
 categories: loved-links
 tags: diy printable download parties food
 ---
-
 
 <p class="intro">Summer officially begins in a week or so. Here in Northern Ireland, this year once again we seem to have begun our summer in May, and surprisingly it still continues. But knowing our unique weather, by the time summer proper begins, we'll be gearing up for a completely different season.</p>
 
