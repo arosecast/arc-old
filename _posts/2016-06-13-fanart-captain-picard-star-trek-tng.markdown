@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My Work // Captain Jean-Luc Picard of Star Trek: The Next Generation | Watercolour &amp; Pencil Portrait Illustration"
-<!--date:   2016-06-13 15:00:00 +0000-->
+date:   2016-06-13 15:00:00 +0000
 image: '/assets/blog/2016-06/thumb-fanart-picard-star-trek-tng.jpg'
 alt: Watercolour Fan Art Illustration of Captain Jean-Luc Picard, from sci-fi epic Star Trek The Next Generation
 categories: my-work

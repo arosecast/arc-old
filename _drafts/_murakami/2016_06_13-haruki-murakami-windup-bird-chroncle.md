@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My Work // Illustration of Haruki Murakami's novel The Wind-Up Bird Chronicle"
-<!--date: 	2016-06-20 15:00:00 +0000-->
+<!--date: 	2016-06-13 15:00:00 +0000-->
 image: '/assets/blog/2016-06/thumb-murakami-wind-up-bird-chronicle.jpg'
 alt: Illustration of Haruki Murakami's novel The Wind-Up Bird Chronicle by illustrator / artist Karen Muray of A Rose Cast
 categories: my-work
