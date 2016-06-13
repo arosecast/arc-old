@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Creative Spotlight // 6 Wonderful illustrators to Follow on Instagram"
-<!--date:   2016-06-15 15:00:00 +0000-->
+date:   2016-06-15 15:00:00 +0000
 image: '/assets/blog/2016-06/thumb-instagram-illustrator-frannerd.jpg'
 alt: Artwork by Illustrator Fran Meneses
 categories: creative-spotlight
@@ -54,5 +54,5 @@ tags: illustration watercolour instagram
 </div>
 
 <div style="display: none;">
-	<img src="/assets/blog/2016-06/cs-instagram-illustrator" alt="POST TITILE" title="POST TITILE by @arosecast">
+	<img src="/assets/blog/2016-06/cs-6-wonderful-illustrators-to-follow-on-instagram.jpg" alt="Creative Spotlight // 6 Wonderful illustrators to Follow on Instagram" title="Creative Spotlight // 6 Wonderful illustrators to Follow on Instagram by @arosecast | Watercolour | Watercolor | Artist | Cat | Comic | Portrait | Illustration">
 </div>

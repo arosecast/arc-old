@@ -1,25 +1,26 @@
 ---
 layout: post
-title:  "Wish List // TITLE"
+title:  "Wish List // 6 Places to Buy Lovely Notebooks &amp; Notepads"
 <!--date:   2016-06-22 15:00:00 +0000-->
-image: '/assets/blog/2016-0?/IMG'
+image: '/assets/blog/2016-06/IMG'
 alt: 
 categories: wish-list
-tags: fashion jewellery homewares
+tags: stationery small-business
 ---
 
+<p class="intro">Who else is a stationery addict? I have so many notebooks, but still lust after buying even more. I should actually just sit down and use the ones I have (I have a problem messing them up) so I can occasionally get a new replacement.</p>
 
-Intro
+Here are a few of my favourites notebooks out there at the moment. These wonderful designers and illustrators are inspiring me to design a <a href="/category/mywork/" title="Illustration and Design Products from A Rose Cast">few notebooks for my own products</a>.
 
 <div class="row">
 	<div class="col-md-6">
-		<a href="LINK" title="TITLE"><img src="/assets/blog/2016-0?/IMG.jpg" alt="ALT" title="TITLE"></a>
-		<h2>1. <a href="LINK" title="TITLE">ITEM</a></h2>
-		<p></p>
+		<a href="https://www.papiopress.co.uk/collections/notebooks-notepads" title="Notebooks by illustration and stationery company Papio Press, with foxes, bull dogs, unicorns, tigers and more"><img src="/assets/blog/2016-06/wl-papiopress-notebooks.jpg" alt="Notebooks by illustration and stationery company Papio Press, with foxes, bull dogs, unicorns, tigers and more" title="Notebooks by illustration and stationery company Papio Press, with foxes, bull dogs, unicorns, tigers and more"></a>
+		<h2>1. <a href="https://www.papiopress.co.uk/collections/notebooks-notepads" title="Notebooks by illustration and stationery company Papio Press, with foxes, bull dogs, unicorns, tigers and more">Notebooks by Papio Press</a></h2>
+		<p>From foxes and bull dogs to unicorns and tigers, Papio Press have a massive range of absolutely gorgeous notebooks. I've bought from them before, and the creators behind the company are just incredibly lovely as well.</p>
 	</div>
 	<div class="col-md-6">
-		<a href="LINK" title="TITLE"><img src="/assets/blog/2016-0?/IMG.jpg" alt="ALT" title="TITLE"></a>
-		<h2>2. <a href="LINK" title="TITLE">ITEM</a></h2>
+		<a href="http://store.ohnorachio.com/products?search=notebook" title="Kraft Notebooks with White Ink illustrations and Lettering by OH NO RACHIO!"><img src="/assets/blog/2016-06/wl-ohnorachio-notebooks.jpg" alt="Kraft Notebooks with White Ink illustrations and Lettering by OH NO RACHIO!" title="Kraft Notebooks with White Ink illustrations and Lettering by OH NO RACHIO!"></a>
+		<h2>2. <a href="http://store.ohnorachio.com/products?search=notebook" title="Kraft Notebooks with White Ink illustrations and Lettering by OH NO RACHIO!">Notebooks by OH NO RACHIO!</a></h2>
 		<p></p>
 	</div>
 </div>
@@ -28,13 +29,13 @@ Intro
 
 <div class="row">
 	<div class="col-md-6">
-		<a href="LINK" title="TITLE"><img src="/assets/blog/2016-0?/IMG.jpg" alt="ALT" title="TITLE"></a>
-		<h2>3. <a href="LINK" title="TITLE">ITEM</a></h2>
-		<p></p>
+		<a href="https://www.etsy.com/shop/ilikecatsshop?search_query=notebook" title="Cat Inspired Notebooks from ilikecats"><img src="/assets/blog/2016-06/wl-ilikecats-notebooks.jpg" alt="Cat Inspired Notebooks from ilikecats" title="Cat Inspired Notebooks from ilikecats"></a>
+		<h2>3. <a href="https://www.etsy.com/shop/ilikecatsshop?search_query=notebook" title="Cat Inspired Notebooks from ilikecats">Cat Inspired Notebooks from ilikecats</a></h2>
+		<p>I have a hard time not including <a href="/tag/cats/" title="Other Blog Posts Featuring Cats">cats somewhere in my posts</a></p>
 	</div>
 	<div class="col-md-6">
-		<a href="LINK" title="TITLE"><img src="/assets/blog/2016-0?/IMG.jpg" alt="ALT" title="TITLE"></a>
-		<h2>4. <a href="LINK" title="TITLE">ITEM</a></h2>
+		<a href="http://scoutmob.com/p/Grand-Budapest-Hotel-Notebook-family?ref=cat_search_notebook" title="Grand Budapest Hotel Notebook by FamilyTree"><img src="/assets/blog/2016-06/wl-grand-budapest-notebook.jpg" alt="Grand Budapest Hotel Notebook by FamilyTree" title="Grand Budapest Hotel Notebook by FamilyTree"></a>
+		<h2>4. <a href="http://scoutmob.com/p/Grand-Budapest-Hotel-Notebook-family?ref=cat_search_notebook" title="Grand Budapest Hotel Notebook by FamilyTree">Grand Budapest Hotel Notebook by FamilyTree</a></h2>
 		<p></p>
 	</div>
 </div>
@@ -43,13 +44,13 @@ Intro
 
 <div class="row">
 	<div class="col-md-6">
-		<a href="LINK" title="TITLE"><img src="/assets/blog/2016-0?/IMG.jpg" alt="ALT" title="TITLE"></a>
-		<h2>5. <a href="LINK" title="TITLE">ITEM</a></h2>
+		<a href="https://www.etsy.com/shop/QuillandFox?ref=section_id&section_id=12093372" title="Notepads on Etsy by Quill and Fox"><img src="/assets/blog/2016-06/wl-quillandfox-notepads.jpg" alt="Notepads on Etsy by Quill and Fox" title="Notepads on Etsy by Quill and Fox"></a>
+		<h2>5. <a href="https://www.etsy.com/shop/QuillandFox?ref=section_id&section_id=12093372" title="Notepads on Etsy by Quill and Fox">Notepads on Etsy by Quill and Fox</a></h2>
 		<p></p>
 	</div>
 	<div class="col-md-6">
-		<a href="LINK" title="TITLE"><img src="/assets/blog/2016-0?/IMG.jpg" alt="ALT" title="TITLE"></a>
-		<h2>6. <a href="LINK" title="TITLE">ITEM</a></h2>
+		<a href="http://scoutmob.com/p/Library-ToDo-Desk-Notepad-idlewild" title="Library To Do Desk Notepad by Idlewild"><img src="/assets/blog/2016-06/wl-idlewild-notepad.jpg" alt="Library To Do Desk Notepad by Idlewild" title="Library To Do Desk Notepad by Idlewild"></a>
+		<h2>6. <a href="http://scoutmob.com/p/Library-ToDo-Desk-Notepad-idlewild" title="Library To Do Desk Notepad by Idlewild">Library To Do Desk Notepad by Idlewild</a></h2>
 		<p></p>
 	</div>
 </div>
@@ -58,5 +59,5 @@ Intro
 
 
 <div style="display: none;">
-	<img src="/assets/blog/2016-0?/IMG.jpg" alt="TITLE" title="TITLE by @arosecast">
+	<img src="/assets/blog/2016-06/IMG.jpg" alt="TITLE" title="TITLE by @arosecast">
 </div>
