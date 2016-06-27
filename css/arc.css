@@ -30,6 +30,7 @@ p {line-height: 150%;}
 p.right {text-align: right;}
 a {color: #f0c0b4;}
 a:hover {color: #a4cbbe; text-decoration: none;}
+small {text-align: center; font-style: italic; font-size: 0.8em;}
 
 /* Misc Elements */
 div.container {margin-top: 20px;}
@@ -164,7 +165,7 @@ div.highlight a:hover {background: #ffdbd3; color: #fff;}
 #rightAside div.highlight.etsy {background: #f56400; margin: 10px 0 20px; padding: 0; font-size: 1.8em;}
 #rightAside div.highlight.etsy a {color: #fff; padding: 10px 20px; display: block; background: none; border: none;}
 
-#content article img {margin-bottom: 10px;}
+#content article img {margin-bottom: 0;}
 #content article ul, #content article ul {list-style: none; padding-left: 20px;}
 #content article ul li, #content article ul li {margin: 5px 0; padding: 0 0 0 25px; background: url("/assets/graphics/ul.png") no-repeat left 7px;}
 
