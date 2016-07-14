@@ -5,7 +5,7 @@ date:   2016-02-09 10:00:00 +0000
 image: '/assets/blog/2016-02/thumb-crazy-cat-lady.jpg'
 alt: Crazy Cat Lady | Wooden Brooch of a Girl and Her Cats by illustrator / artist Karen Muray of A Rose Cast
 categories: my-work
-tags: illustration watercolor cats jewellery wild-sofa-beasts
+tags: illustration watercolor cats jewellery wild-sofa-beasts brooch
 ---
 
 <p class="intro">I've now released a few little pieces of  <a href="https://www.etsy.com/shop/ARoseCast?section_id=18187909" title="Illustrated jewellery on A Rose Cast's Etsy store">illustrated jewellery</a>. I have two <a href="https://www.etsy.com/listing/257926790/rose-gold-walnut-wood-pendant-necklace" title="Illustrated jewellery on A Rose Cast's Etsy store">rose gold</a> and <a href="https://www.etsy.com/listing/257821751/rose-gold-walnut-wood-pendant-necklace" title="Illustrated jewellery on A Rose Cast's Etsy store">walnut wood</a> portrait pendant necklaces, and a <a href="https://www.etsy.com/listing/257820045/walnut-wood-brooch-with-illustration-of" title="Illustrated jewellery on A Rose Cast's Etsy store">cat and flower themed brooch</a>.</p>

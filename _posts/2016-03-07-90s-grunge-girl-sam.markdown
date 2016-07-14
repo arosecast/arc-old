@@ -5,7 +5,7 @@ date:   2016-03-07 12:00:00 +0000
 image: '/assets/blog/2016-03/thumb-90s-grunge-girl-sam.jpg'
 alt: 90s Grunge Girl Sam | Watercolour &amp; Pencil Portrait Illustration
 categories: my-work
-tags: illustration watercolor music portrait jewellery
+tags: illustration watercolor music portrait jewellery necklace
 ---
 
 ![90s Grunge Girl Sam, Watercolour &amp; Pencil Portrait Illustration](/assets/folio/portraits/portrait-illustration-sam.jpg "90s Grunge Girl Sam, Watercolour &amp; Pencil Portrait Illustration")

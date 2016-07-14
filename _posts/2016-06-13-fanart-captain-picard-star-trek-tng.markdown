@@ -5,7 +5,7 @@ date:   2016-06-13 15:00:00 +0000
 image: '/assets/blog/2016-06/thumb-fanart-picard-star-trek-tng.jpg'
 alt: Watercolour Fan Art Illustration of Captain Jean-Luc Picard, from sci-fi epic Star Trek The Next Generation
 categories: my-work
-tags: illustration watercolor fan-art tv
+tags: illustration watercolor fan-art tv portrait
 ---
 
 ![Watercolour Fan Art Illustration of Captain Jean-Luc Picard, from sci-fi epic Star Trek: The Next Generation](/assets/folio/fanart/illustration-fanart-picard.jpg "Watercolour Fan Art Illustration of Captain Jean-Luc Picard, from sci-fi epic Star Trek: The Next Generation, by @arosecast")

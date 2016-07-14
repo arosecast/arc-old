@@ -5,7 +5,7 @@ date: 	2016-02-23 12:00:00 +0000
 image: '/assets/blog/2016-02/thumb-princess-bubblegum.jpg'
 alt: Watercolour Illustration of Princess Bubblegum from Adventure Time by illustrator / artist Karen Muray of A Rose Cast
 categories: my-work
-tags: illustration watercolor fan-art
+tags: illustration watercolor fan-art portrait
 ---
 
 <p class="intro">I adore Adventure Time. I've always been a fan of animated shows, and this one has captured my heart lately. It's both mind-boggling and funny, while having a bittersweet and thoughtful side to it.</p>

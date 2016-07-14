@@ -5,7 +5,7 @@ date:   2016-06-04 15:00:00 +0000
 image: '/assets/folio/thumb-clio-happy-birthday.jpg'
 alt: Clio - Watercolour Illustration of a Pink and Blue Haired Girl with Stars
 categories: my-work
-tags: illustration watercolor stationery jewellery portrait
+tags: illustration watercolor stationery jewellery portrait necklace
 ---
 
 

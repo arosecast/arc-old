@@ -5,7 +5,7 @@ date:   2015-12-08 12:00:00 +0000
 image: '/assets/blog/2015-12/thumb-zahrah-illustration.jpg'
 alt: Pink-Haired Astronomy Lover Zahrah by illustrator / artist Karen Murray of A Rose Cast
 categories: my-work
-tags: illustration portrait watercolor jewellery fashion
+tags: illustration portrait watercolor jewellery fashion necklace
 ---
 
 ![Pink-Haired Astronomy Lover Zahrah by illustrator / artist Karen Murray of A Rose Cast](/assets/folio/portraits/portrait-illustration-zahrah.jpg "Pink-Haired Astronomy Lover Zahrah by illustrator / artist Karen Murray of A Rose Cast")

@@ -5,7 +5,7 @@ date:   2016-07-04 14:45:00 +0000
 image: '/assets/blog/2016-07/thumb-illustration-books-cats-life-is-good.jpg'
 alt: Cats. Books. Life is Good | Wooden Brooch of a Blue Tabby Reading a Book
 categories: my-work
-tags: illustration watercolor wild-sofa-beasts books literature jewellery calligraphy cat
+tags: illustration watercolor wild-sofa-beasts books literature jewellery calligraphy cat brooch
 ---
 
 ![ALT](/assets/folio/wsb/illustration-books-cats-life-is-good.jpg "Cats. Books. Life is Good - Watercolour Illustration on a Wooden Brooch of a Blue Tabby Reading a Book by Karen Murray of A Rose Cast")

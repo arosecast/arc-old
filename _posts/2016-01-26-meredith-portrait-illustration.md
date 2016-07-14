@@ -5,7 +5,7 @@ date: 	2016-01-26 10:00:00 +0000
 image: '/assets/blog/2016-01/thumb-meredith-illustration.jpg'
 alt: Blue-Haired Nautical Meredith | Watercolour &amp; Pencil Portrait Illustration by illustrator / artist Karen Muray of A Rose Cast
 categories: my-work
-tags: illustration jewellery fashion cake watercolor
+tags: illustration jewellery fashion cake watercolor portrait necklace
 ---
 
 ![Blue-Haired Nautical Meredith by illustrator / artist Karen Murray of A Rose Cast](/assets/folio/portraits/portrait-illustration-meredith.jpg "Blue-Haired Nautical Meredith with a cupcake by illustrator / artist Karen Murray of A Rose Cast")
