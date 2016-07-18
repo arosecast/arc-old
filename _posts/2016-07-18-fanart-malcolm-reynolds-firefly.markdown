@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "My Work // Malcolm 'Mal' Reynolds of Joss Whedon's Firefly | Watercolour &amp; Pencil Portrait Illustration"
-<!--date:   2016-07-11 15:00:00 +0000-->
+date:   2016-07-18 09:00:00 +0000-->
 image: '/assets/blog/draft/thumb-fanart-malcolm-reynolds-firefly.jpg'
 alt: Watercolour Fan Art Illustration of Malcolm 'Mal' Reynolds of Joss Whedon's classic sci-fi/western Firefly
 categories: my-work
-tags: illustration watercolor fan-art tv
+tags: illustration watercolor fan-art tv portrait
 ---
 
 ![Watercolour Fan Art Illustration of Malcolm 'Mal' Reynolds of Joss Whedon's classic sci-fi/western Firefly](/assets/folio/fanart/illustration-fanart-mal-firefly.jpg "Watercolour Fan Art Illustration of Malcolm 'Mal' Reynolds of Joss Whedon's classic sci-fi/western Firefly, by @arosecast")
