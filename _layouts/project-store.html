@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    <a href="javascript:" id="return-to-top"><i class="glyphicon glyphicon-chevron-up"></i></a>
+
+    <div class="container">
+      <div class="row">
+
+        {% include sidenav.html %}
+
+        <section id="project">
+          <div class="col-md-7">
+            {{content}}
+          </div>
+        </section>
+
+        <section id="rightAside">
+          <aside class="col-md-3">
+            <h3>{{page.title}}</h3>
+            <p class="project">{{page.description}}
+              {% for bloglink in page.bloglink %}
+                <br><a href="{{ bloglink }}">Find out more on the blog &raquo;</a>
+              {% endfor %}
+            </p>
+
+            <hr>
+            {% if page.etsylink %}
+            <div class="highlight etsy">
+              <a href="{{page.etsylink}}">Buy <span class="the">on</span> <img src="../assets/graphics/etsy.png" alt="Etsy" title="Etsy"></a>
+            </div>
+            {% endif %}
+
+            <p>You can also buy this on apparel, homewares, cushions, mugs and more on the following sites</p>
+
+            <div class="row">
+              <div class="col-md-4">
+                <a href="{{page.s6link}}" title="Buy this design on Society6"><img src="../assets/graphics/society6.png" alt="Society6" title="Buy this design on Society6"></a>
+              </div>
+              <div class="col-md-4">
+                <a href="{{page.rblink}}" title="Buy this design on RedBubble"><img src="../assets/graphics/redbubble.png" alt="RedBubble" title="Buy this design on RedBubble"></a>
+              </div>
+              <div class="col-md-4">
+                <a href="{{page.arlink}}" title="Buy this design on Art Rookie"><img src="../assets/graphics/art-rookie.png" alt="Art Rookie" title="Buy this design on Art Rookie"></a>
+              </div>
+            </div><!-- row -->
+
+            <div id="tag-cloud">
+              <h3>Project Type</h3>
+              <div id="tags">
+                {{ page.type }}
+              </div>
+            </div><!-- /#tag-cloud -->
+
+          </aside>
+
+        <hr class="clear">
+        </section>
+
+      </div><!-- row -->
+
+      <div class="row">
+
+        <section div="sideNav">
+          <aside class="col-md-2">
+          </aside>
+        </section>
+        {% include folio.html %}
+      </div><!-- row -->
+
+      <hr>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>

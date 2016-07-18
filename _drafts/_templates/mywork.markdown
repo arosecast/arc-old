@@ -24,7 +24,7 @@ TEXT
 TEXT
 
 <div class="highlight">
-	Buy <span class="the">this</span> Piece <span class="the">on</span> <a href="" title="Buy on Society6">Society6</a>, <span class="the"></span> <a href="" title="Buy on Art Rookie">Art Rookie</a>,<br></span> <a href="" title="Buy on Redbubble">Redbubble</a> <span class="the">or</span> <a href="" title="Art Rookie Etsy">Etsy</a>
+	Buy <span class="the">this</span> Piece <span class="the">on</span> <a href="" title="Buy on Society6">Society6</a>, <span class="the"></span> <a href="" title="Buy on Art Rookie">Art Rookie</a>,<br></span> <a href="" title="Buy on Redbubble">Redbubble</a> <span class="the">or</span> <a href="" title="Etsy">Etsy</a>
 </div>
 
 TEXT
