@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Wish List // 6 Places to Buy Lovely Notebooks &amp; Notepads"
-<!--date:   2016-07-20 15:00:00 +0000-->
+date:   2016-07-20 09:00:00 +0000
 image: '/assets/blog/2016-07/thumb-idlewild-notepad.jpg'
 alt: Library To Do Desk Notepad by Idlewild
 categories: wish-list
