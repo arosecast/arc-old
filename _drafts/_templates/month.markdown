@@ -59,6 +59,36 @@ What I’ve been Loving and Lusting Over
 * * *
 
 <div class="row">
+	<div class="col-md-4">
+		<a href="LINK" title="Friday Favourites // DATE"><img src="IMG" alt="ALT" title="TITLE"></a>
+	</div>
+	<div class="col-md-4">
+		<a href="LINK" title="Friday Favourites // DATE"><img src="IMG" alt="ALT" title="TITLE"></a>
+	</div>
+	<div class="col-md-4">
+		<a href="LINK" title="Friday Favourites // DATE"><img src="IMG" alt="ALT" title="TITLE"></a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-md-4">
+		<a href="LINK" title="Friday Favourites // DATE"><img src="IMG" alt="ALT" title="TITLE"></a>
+	</div>
+	<div class="col-md-4">
+		<a href="LINK" title="Friday Favourites // DATE"><img src="IMG" alt="ALT" title="TITLE"></a>
+	</div>
+	<div class="col-md-4">
+		<a href="LINK" title="Friday Favourites // DATE"><img src="IMG" alt="ALT" title="TITLE"></a>
+	</div>
+</div>
+
+Friday Favourites // More Great Links from the Web
+---
++ [Friday DATE]()
+
+* * *
+
+<div class="row">
 	<div class="col-md-6">
 		<a href="LINK" title="TITLE on Instagram"><img src="/assets/blog/2016-0?/IMG.jpg" alt="ALT on Instagram" title="TITLE on Instagram"></a>
 	</div>
