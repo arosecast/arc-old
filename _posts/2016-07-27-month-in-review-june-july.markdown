@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Month in Review // June &amp; July 2016"
-<!--date:   2016-07-25 09:00:00 +0000-->
+date:   2016-07-27 09:00:00 +0000
 image: '/assets/blog/2016-07/thumb-pretty-cat-rose-gold-wood-necklace.jpg'
 alt: I Feel Pretty - Rose Gold and Wood Necklace of a Ginger Cat with Flowers
 categories: month-in-review
@@ -40,7 +40,7 @@ New Creations
 
 [![Watercolour Illustration of a Girl with Purple-Blue Ombre Hair, for the Day in the Life of Karen Murray of A Rose Cast blog post, on Made by Mrs M's Blog](/assets/blog/2016-07/day-in-the-life.jpg)](http://www.madebymrsm.co.uk/blog/2016/7/22/day-in-the-life-karen-murray-a-rose-cast "Day in the Life of Karen Murray of A Rose Cast, on Made by Mrs M's Blog")
 
-[Day in the Life](http://www.madebymrsm.co.uk/blog/2016/7/22/day-in-the-life-karen-murray-a-rose-cast)
+[Day in the Life](/my-work/2016/07/25/day-in-the-life.html)
 ---
 The lovely [Made by Mrs M](http://www.madebymrsm.co.uk) featured me in her Day in the Life column. If you want to see what I do on a typical day and my process for creating new illustration work, go have a [little read](http://www.madebymrsm.co.uk/blog/2016/7/22/day-in-the-life-karen-murray-a-rose-cast). Thank you so much, [Kate](http://www.madebymrsm.co.uk) for featuring me!
 

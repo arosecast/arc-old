@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My Work // Day in the Life"
-<!--date:   2016-07-23 09:00:00 +0000-->
+date:   2016-07-25 09:00:00 +0000
 image: '/assets/blog/2016-07/thumb-girl-with-purple-blue-ombre-hair.jpg'
 alt: Watercolour Illustration of a Girl with Purple-Blue Ombre Hair
 categories: my-work
