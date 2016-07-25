@@ -35,7 +35,7 @@ Minerva is the fourth of five necklaces I have now designed (the fifth will be a
 
 But Minerva isn’t just available as a necklace. I’ve added some lettering printed onto notebook sheets - spelling out “Congrats, Poindexter" - to the illustration to turn her into the [perfect congratulations card](https://www.etsy.com/listing/288123381/congrats-poindexter-greeting-card) for those who have just passed an exam or gained a qualification. You can get this version of my nerdy blue-haired girl over on my [Etsy store](https://www.etsy.com/listing/288123381/congrats-poindexter-greeting-card).
 
-[![Congrats, Poindexter - Minerva, a Nerd in Vintage Glasses, as a greeting card / stationery for passing exams / tests by Karen Murray of A Rose Cast](/assets/folio/portraits/minerva-congrats-poindexter-greeting-card.jpg)](https://www.etsy.com/listing/288123381/portrait-greeting-cards-for-celebrations "Congrats, Poindexter - Minerva, a Nerd in Vintage Glasses, as a greeting card / stationery for passing exams / tests by Karen Murray of @arosecast")
+[![Congrats, Poindexter - Minerva, a Nerd in Vintage Glasses, as a greeting card / stationery for passing exams / tests by Karen Murray of A Rose Cast](/assets/shop/stationery/minerva-congrats-poindexter-greeting-card-01.jpg)](https://www.etsy.com/listing/288123381/portrait-greeting-cards-for-celebrations "Congrats, Poindexter - Minerva, a Nerd in Vintage Glasses, as a greeting card / stationery for passing exams / tests by Karen Murray of @arosecast")
 
 Both the necklace and greeting card are in stock in my stockist, [Studio Souk](/my-work/2016/03/24/studio-souk.html) in Belfast, Northern Ireland.
 

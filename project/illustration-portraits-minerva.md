@@ -23,6 +23,6 @@ arlink: http://artrookie.co.uk/profile_items.php?designer=ARoseCast&design=8929
     </div>
 </div>
 
-[![Congrats, Poindexter - Minerva, a Nerd in Vintage Glasses, as a greeting card](/assets/folio/portraits/minerva-congrats-poindexter-greeting-card.jpg)](https://www.etsy.com/listing/288123381/portrait-greeting-cards-for-celebrations "Congrats, Poindexter - Minerva, a Nerd in Vintage Glasses, as a greeting card / stationery for passing exams / tests by Karen Murray of @arosecast")
+[![Congrats, Poindexter - Minerva, a Nerd in Vintage Glasses, as a greeting card / stationery for passing exams / tests by Karen Murray of A Rose Cast](/assets/shop/stationery/minerva-congrats-poindexter-greeting-card-01.jpg)](https://www.etsy.com/listing/288123381/portrait-greeting-cards-for-celebrations "Congrats, Poindexter - Minerva, a Nerd in Vintage Glasses, as a greeting card / stationery for passing exams / tests by Karen Murray of @arosecast")
 
 [![Three greeting cards with watercolour illustrations of girls by illustrator and designer Karen Murray of A Rose Cast](/assets/shop/stationery/portrait-greeting-cards04.jpg)](https://www.etsy.com/listing/288123381/portrait-greeting-cards-for-celebrations "Three greeting cards with watercolour illustrations of girls by illustrator and designer Karen Murray of @arosecast")

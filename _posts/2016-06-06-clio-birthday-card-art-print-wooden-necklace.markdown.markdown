@@ -12,7 +12,7 @@ tags: illustration watercolor stationery jewellery portrait necklace
 
 It's been a little while since I've released a new one of my portrait girls or a piece of jewellery. So let's sort that out right now with my pink and blue-haired lady, Clio.
 
-[![Rose gold and wooden pendant necklace of Clio - Watercolour Illustration of a Pink and Blue Haired Girl with Stars by illustrator and designer Karen Murray of A Rose Cast](/assets/folio/portraits/clio-pink-blue-hair-rose-gold-necklace.jpg)](https://www.etsy.com/listing/399016083/rose-gold-walnut-wood-pendant-necklace "Rose gold and wooden pendant necklace of Clio - Watercolour Illustration of a Pink and Blue Haired Girl with Stars by illustrator and designer Karen Murray of @arosecast")
+[![Rose gold and wooden pendant necklace of Clio - Watercolour Illustration of a Pink and Blue Haired Girl with Stars by illustrator and designer Karen Murray of A Rose Cast](/assets/shop/necklace/necklace-clio-001.jpg)](https://www.etsy.com/listing/399016083/rose-gold-walnut-wood-pendant-necklace "Rose gold and wooden pendant necklace of Clio - Watercolour Illustration of a Pink and Blue Haired Girl with Stars by illustrator and designer Karen Murray of @arosecast")
 
 <div class="row">
     <div class="col-md-6">
@@ -34,8 +34,6 @@ Clio is the final of line of five necklaces (there will be more in the future, I
 [![Rose gold and wooden pendant necklaces with Watercolour Illustration by illustrator and designer Karen Murray of A Rose Cast](/assets/blog/2016-03/rose-gold-wooden-pendant-necklaces.jpg)](https://www.etsy.com/shop/ARoseCast/search?section_id=18187909 "Rose gold and wooden pendant necklaces with Watercolour Illustration by illustrator and designer Karen Murray of @arosecast")
 
 Clio isn’t just [available as a necklace](https://www.etsy.com/listing/399016083/rose-gold-walnut-wood-pendant-necklace). I’ve added a little calligraphy &quot;Happy Birthday&quot; to the illustration to turn her into the [perfect birthday card](https://www.etsy.com/listing/288123381/portrait-greeting-cards-for-celebrations). You can get this version of my pink- and blue-haired girl over on my [Etsy store](https://www.etsy.com/listing/288123381/portrait-greeting-cards-for-celebrations), along with two other celebratory portraits (one of which includes cake!).
-
-[![Happy Birthday - Clio, a Pink and Blue Haired Girl with Stars, as a greeting card by illustrator and designer Karen Murray of A Rose Cast](/assets/folio/portraits/clio-happy-birthday-greeting-card.jpg)](https://www.etsy.com/listing/288123381/portrait-greeting-cards-for-celebrations "Happy Birthday - Clio, a Pink and Blue Haired Girl with Stars, as a greeting card by illustrator and designer Karen Murray of @arosecast")
 
 [![Happy Birthday - Clio, a Pink and Blue Haired Girl with Stars, as a greeting card by illustrator and designer Karen Murray of A Rose Cast](/assets//blog/2016-06/clio-happy-birthday-greeting-card.jpg)](https://www.etsy.com/listing/288123381/portrait-greeting-cards-for-celebrations "Happy Birthday - Clio, a Pink and Blue Haired Girl with Stars, as a greeting card by illustrator and designer Karen Murray of @arosecast")
 
