@@ -14,11 +14,7 @@ After releasing a number of cat-related products, I knew it was about time to gi
 
 Cats may be my favourite animal, but I’m also a dog fan, especially of the larger dog breeds. (What I wouldn't give for a cuddle with a dog close to my own size?) One type of dog I’ve always been drawn to is the Shiba Inu, not just because they are so darn cute, but as for a long time I’ve known the famous story of Hachiko. I even took a photo with [his statue while visiting Shibuya in Tokyo, Japan last year](https://www.instagram.com/p/BFJ0WjLGFTB/).
 
-<div class="row">
-	<div class="col-md-12">
-		<a href="https://www.etsy.com/listing/279563830/walnut-wood-brooch-with-an-illustration" title="Happiness is a Warm Puppy | Wooden Brooch of a Shiba Inu Dog in a Scarf"><img src="/assets/blog/2016-05/brooch-happiness-puppy-dog-01.jpg" alt="Happiness is a Warm Puppy | Wooden Brooch of a Shiba Inu Dog in a Scarf" title="Happiness is a Warm Puppy | Wooden Brooch of a Shiba Inu Dog in a Scarf by @arosecast"></a>
-	</div>
-</div>
+[![Happiness is a Warm Puppy - Wooden Brooch of a Shiba Inu Dog in a Scarf by illustrator and designer Karen Murray of A Rose Cast on Etsy](/assets/shop/brooch/brooch-puppy-001.jpg)](https://www.etsy.com/listing/279563830/walnut-wood-brooch-with-an-illustration "Happiness is a Warm Puppy - Wooden Brooch of a Shiba Inu Dog in a Scarf by illustrator and designer Karen Murray of @arosecast on Etsy")
 
 So as a little ode to all of puppy-kind out there, the newest addition to my [wooden brooch line](https://www.etsy.com/shop/ARoseCast?ref=hdr_shop_menu&section_id=18187909) is this watercolour illustration of a Shiba Inu dog.
 
@@ -35,9 +31,12 @@ I really loved creating this guy, and am looking forward to adding a few new dog
 I do wonder how my cats would get on with one of them. [Toby](https://www.instagram.com/p/BE0lTYimFRT/) was brought up with dogs as a kitten so I think he would really love to have some canine friends once again. If you have a favourite dog that you would like immortalised, give me a shout over on my [Twitter](https://twitter.com/arosecast), [Instagram](https://www.instagram.com/arosecast/) or [Facebook](https://www.facebook.com/ARoseCast/).
 
 <div class="row">
-	<div class="col-md-12">
-		<a href="https://www.etsy.com/listing/279563830/walnut-wood-brooch-with-an-illustration" title="Happiness is a Warm Puppy | Wooden Brooch of a Shiba Inu Dog in a Scarf"><img src="/assets/blog/2016-05/brooch-happiness-puppy-dog-02.jpg" alt="Happiness is a Warm Puppy | Wooden Brooch of a Shiba Inu Dog in a Scarf" title="Happiness is a Warm Puppy | Wooden Brooch of a Shiba Inu Dog in a Scarf by @arosecast"></a>
-	</div>
+    <div class="col-md-6">
+        <a href="https://www.etsy.com/listing/279563830/walnut-wood-brooch-with-an-illustration" title="Happiness is a Warm Puppy | Wooden Brooch of a Shiba Inu Dog in a Scarf by illustrator and designer Karen Murray of A Rose Cast on Etsy"><img src="/assets/shop/brooch/brooch-puppy-002.jpg" alt="Happiness is a Warm Puppy | Wooden Brooch of a Shiba Inu Dog in a Scarf by illustrator and designer Karen Murray of A Rose Cast on Etsy" title="Happiness is a Warm Puppy | Wooden Brooch of a Shiba Inu Dog in a Scarf by illustrator and designer Karen Murray of @arosecast on Etsy"></a>
+    </div>
+    <div class="col-md-6">
+        <a href="https://www.etsy.com/listing/279563830/walnut-wood-brooch-with-an-illustration" title="Happiness is a Warm Puppy | Wooden Brooch of a Shiba Inu Dog in a Scarf by illustrator and designer Karen Murray of A Rose Cast on Etsy"><img src="/assets/shop/brooch/brooch-puppy-005.jpg" alt="Happiness is a Warm Puppy | Wooden Brooch of a Shiba Inu Dog in a Scarf by illustrator and designer Karen Murray of A Rose Cast on Etsy" title="Happiness is a Warm Puppy | Wooden Brooch of a Shiba Inu Dog in a Scarf by illustrator and designer Karen Murray of @arosecast on Etsy"></a>
+    </div>
 </div>
 
 You can also buy the illustration on a number different products over on my [Society6](https://society6.com/product/shiba-inu-dog-in-a-scarf-with-quote-happiness-is-a-warm-puppy_print#1=45), [Redbubble](http://www.redbubble.com/people/arosecast/works/21789679-shiba-inu-puppy-in-a-scarf) and [Art Rookie stores](http://www.artrookie.co.uk/profile_items.php?designer=ARoseCast&design=9374), from cushions and cards to mugs and rugs.

@@ -16,6 +16,8 @@ This is probably my favourite Murakami novel. As I’ve mentioned before, althou
 
 I reread it last year, maybe eight or nine years after my first reading, and I really do think Murakami is correct in saying it needs multiple readings to fully understand it. I also read it for the first time before reading most of his other metaphysical novels, such as Hard-Boiled Wonderland and the End of the World, and think reading a few of those before Kafka is a good idea.
 
+[![A4 watercolor illustration Art Print of Haruki Murakami's novel Kafka On The Shore by illustrator and designer Karen Murray of A Rose Cast on Etsy](/assets/shop/artprint/murakami-kafka-on-the-shore-a4-art-print.jpg)](https://www.etsy.com/listing/276872486/haruki-murakamis-kafka-on-the-shore-a4 "A4 watercolor illustration Art Print of Haruki Murakami's novel Kafka On The Shore by illustrator and designer Karen Murray of @arosecast on Etsy")
+
 As I've mentioned before when sharing my other [Haruki Murakami illustrations](/tag/Haruki-Murakami/ "Watercolour Illustration for Haruki Murakami's Novels"), a few years ago I decided to do an [illustration for each of Haruki Murakami's novels](http://www.akaihane.co.uk/post/54588755092/haruki-murakami "The original Haruki Murakami novel illustrations") in order to practice. Each was hand drawn in pencil and coloured digitally in Photoshop. I was surprised by how popular they became, and had many people asking if any of them were for sale as prints. But I wasn’t quite happy enough with them to have them printed; I was at a point where I was still deep into training and hadn’t yet developed a style I was settled on.
 
 <div class="highlight">
@@ -29,6 +31,8 @@ As I've mentioned before when sharing my other [Haruki Murakami illustrations](/
 </div>
 
 Two and a half years went by. I was now working full time as an illustrator and designer, my skills had developed fourfold, and I had a look and feel I was delighted with. So I felt that maybe it was time to recreate the whole project and finally allow fellow Murakami fans to purchase them as prints and other products.
+
+[![A6 watercolor illustration Art Prints of Haruki Murakami's novels including Colorless Tsukuru Tazaki and His Years of Pilgrimage, 1Q84, After Dark, Kafka on the Shore, Sputnik Sweetheart, South of the Border, West of the Sun and The Wind-Up Bird Chronicle by illustrator and designer Karen Murray of A Rose Cast on Etsy](/assets/shop/artprint/murakami-a6-art-prints.jpg)](https://www.etsy.com/listing/267617721/haruki-murakami-watercolor-novel "A6 watercolor illustration Art Prints of Haruki Murakami's novels including Colorless Tsukuru Tazaki and His Years of Pilgrimage, 1Q84, After Dark, Kafka on the Shore, Sputnik Sweetheart, South of the Border, West of the Sun and The Wind-Up Bird Chronicle by illustrator and designer Karen Murray of @arosecast on Etsy")
 
 So here is my new version of the illustration for Murakami’s novel, Kafka On The Shore. I love drawing cats, so knew this illustration had to have a cat as a central figure. I love Mimi, an intelligent Siamese cat from the book, so decided to use her. The fish within her mouth is another reference to an event in the book. (These two creatures are the most popular elements used on the covers of the published versions of the novel.) I’ve definitely become better at drawing cats over the past few years; Mimi certainly looks cuter than my last attempt. I also think the bright red background helps her pop out of the illustration.
 

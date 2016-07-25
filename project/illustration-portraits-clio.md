@@ -14,25 +14,15 @@ arlink: http://www.artrookie.co.uk/profile_items.php?designer=ARoseCast&design=9
 
 ![Clio - Watercolour Illustration of a Pink and Blue Haired Girl with Stars by Karen Murray of A Rose Cast](/assets/folio/portraits/clio-pink-blue-hair-birthday.jpg "Clio - Watercolour Illustration of a Pink and Blue Haired Girl with Stars by Karen Murray of @arosecast")
 
-[![Rose gold and wooden pendant necklace of Clio - Watercolour Illustration of a Pink and Blue Haired Girl with Stars by Karen Murray of A Rose Cast](/assets/folio/portraits/clio-pink-blue-hair-rose-gold-necklace.jpg)](https://www.etsy.com/listing/399016083/rose-gold-walnut-wood-pendant-necklace "Rose gold and wooden pendant necklace of Clio - Watercolour Illustration of a Pink and Blue Haired Girl with Stars by Karen Murray of @arosecast")
-
-[![Happy Birthday - Clio, a Pink and Blue Haired Girl with Stars, as a greeting card](/assets/folio/portraits/clio-happy-birthday-greeting-card.jpg)](https://www.etsy.com/listing/288123381/portrait-greeting-cards-for-celebrations "Happy Birthday - Clio, a Pink and Blue Haired Girl with Stars, as a greeting card by Karen Murray of @arosecast")
-
-[![Happy Birthday - Clio, a Pink and Blue Haired Girl with Stars, as a greeting card](/assets//blog/2016-06/clio-happy-birthday-greeting-card.jpg)](https://www.etsy.com/listing/288123381/portrait-greeting-cards-for-celebrations "Happy Birthday - Clio, a Pink and Blue Haired Girl with Stars, as a greeting card by Karen Murray of @arosecast")
-
 <div class="row">
-	<div class="col-md-6">
-		<a href="https://society6.com/product/clio-a-girl-with-pink-and-blue-streaked-blonde-hair_print#1=45" title="Buy Clio, a Pink and Blue Haired Girl with Stars, as a range of products on my Society6 Store"><img src="/assets/blog/2016-06/society6-clio-pink-blue-hair-birthday-mug.jpg" alt="Clio - Watercolour Illustration of a Pink and Blue Haired Girl with Stars by Karen Murray of A Rose Cast" title="Mug of Clio - Watercolour Illustration of a Pink and Blue Haired Girl with Stars by Karen Murray of @arosecast"></a>
-	</div>
-	<div class="col-md-6">
-		<a href="https://society6.com/product/clio-a-girl-with-pink-and-blue-streaked-blonde-hair_print#1=45" title="Buy Clio, a Pink and Blue Haired Girl with Stars, as a range of products on my Society6 Store"><img src="/assets/blog/2016-06/society6-clio-pink-blue-hair-birthday-phone-skins.jpg" alt="Clio - Watercolour Illustration of a Pink and Blue Haired Girl with Stars by Karen Murray of A Rose Cast" title="iPhone Skin of Clio - Watercolour Illustration of a Pink and Blue Haired Girl with Stars by Karen Murray of @arosecast"></a>
-	</div>
+    <div class="col-md-6">
+        <a href="https://www.etsy.com/listing/399016083/rose-gold-walnut-wood-pendant-necklace" title="Rose gold and wooden pendant necklace of Clio - Watercolour Illustration of a Pink and Blue Haired Girl with Stars by illustrator and designer Karen Murray of A Rose Cast"><img src="/assets/shop/necklace/necklace-clio-001.jpg" alt="Rose gold and wooden pendant necklace of Clio - Watercolour Illustration of a Pink and Blue Haired Girl with Stars by illustrator and designer Karen Murray of A Rose Cast" title="Rose gold and wooden pendant necklace of Clio - Watercolour Illustration of a Pink and Blue Haired Girl with Stars by illustrator and designer Karen Murray of @arosecast"></a>
+    </div>
+    <div class="col-md-6">
+        <a href="https://www.etsy.com/listing/399016083/rose-gold-walnut-wood-pendant-necklace" title="Rose gold and wooden pendant necklace of Clio - Watercolour Illustration of a Pink and Blue Haired Girl with Stars by illustrator and designer Karen Murray of A Rose Cast"><img src="/assets/shop/necklace/necklace-clio-002.jpg" alt="Rose gold and wooden pendant necklace of Clio - Watercolour Illustration of a Pink and Blue Haired Girl with Stars by illustrator and designer Karen Murray of A Rose Cast" title="Rose gold and wooden pendant necklace of Clio - Watercolour Illustration of a Pink and Blue Haired Girl with Stars by illustrator and designer Karen Murray of @arosecast"></a>
+    </div>
 </div>
-<div class="row">
-	<div class="col-md-6">
-		<a href="http://www.redbubble.com/people/arosecast/works/22077302-clio-a-girl-with-pink-and-blue-streaked-blonde-hair" title="Buy Clio, a Pink and Blue Haired Girl with Stars, as a range of products on my Redbubble Store"><img src="/assets/blog/2016-06/redbubble-clio-pink-blue-hair-birthday-pillow.jpg" alt="Clio - Watercolour Illustration of a Pink and Blue Haired Girl with Stars by Karen Murray of A Rose Cast" title="Pillow of Clio - Watercolour Illustration of a Pink and Blue Haired Girl with Stars by Karen Murray of @arosecast"></a>
-	</div>
-	<div class="col-md-6">
-		<a href="http://www.redbubble.com/people/arosecast/works/22077302-clio-a-girl-with-pink-and-blue-streaked-blonde-hair" title="Buy Clio, a Pink and Blue Haired Girl with Stars, as a range of products on my Redbubble Store"><img src="/assets/blog/2016-06/redbubble-clio-pink-blue-hair-birthday-bags.jpg" alt="Clio - Watercolour Illustration of a Pink and Blue Haired Girl with Stars by Karen Murray of A Rose Cast" title="Tote Bag of Clio - Watercolour Illustration of a Pink and Blue Haired Girl with Stars by Karen Murray of @arosecast"></a>
-	</div>
-</div>
+
+[![Happy Birthday - Clio, a Pink and Blue Haired Girl with Stars, as a greeting card](/assets/shop/stationery/clio-happy-birthday-greeting-card01.jpg)](https://www.etsy.com/listing/288123381/portrait-greeting-cards-for-celebrations "Happy Birthday - Clio, a Pink and Blue Haired Girl with Stars, as a greeting card by Karen Murray of @arosecast")
+
+[![Three greeting cards with watercolour illustrations of girls by illustrator and designer Karen Murray of A Rose Cast](/assets/shop/stationery/portrait-greeting-cards04.jpg)](https://www.etsy.com/listing/288123381/portrait-greeting-cards-for-celebrations "Three greeting cards with watercolour illustrations of girls by illustrator and designer Karen Murray of @arosecast")

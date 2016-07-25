@@ -8,39 +8,28 @@ categories: my-work
 tags: illustration watercolor cats jewellery wild-sofa-beasts brooch
 ---
 
-<p class="intro">I've now released a few little pieces of  <a href="https://www.etsy.com/shop/ARoseCast?section_id=18187909" title="Illustrated jewellery on A Rose Cast's Etsy store">illustrated jewellery</a>. I have two <a href="https://www.etsy.com/listing/257926790/rose-gold-walnut-wood-pendant-necklace" title="Illustrated jewellery on A Rose Cast's Etsy store">rose gold</a> and <a href="https://www.etsy.com/listing/257821751/rose-gold-walnut-wood-pendant-necklace" title="Illustrated jewellery on A Rose Cast's Etsy store">walnut wood</a> portrait pendant necklaces, and a <a href="https://www.etsy.com/listing/257820045/walnut-wood-brooch-with-illustration-of" title="Illustrated jewellery on A Rose Cast's Etsy store">cat and flower themed brooch</a>.</p>
+![Crazy Cat - Lady Wooden Brooch of a Girl and Her Cats by illustrator / artist Karen Muray of A Rose Cast](/assets/folio/wsb/illustration-crazy-cat-lady.jpg "Crazy Cat - Lady Wooden Brooch of a Girl and Her Cats by illustrator / artist Karen Muray of A Rose Cast")
+
+I've now released a few little pieces of  <a href="https://www.etsy.com/shop/ARoseCast?section_id=18187909" title="Illustrated jewellery on A Rose Cast's Etsy store">illustrated jewellery</a>. I have two <a href="https://www.etsy.com/listing/257926790/rose-gold-walnut-wood-pendant-necklace" title="Illustrated jewellery on A Rose Cast's Etsy store">rose gold</a> and <a href="https://www.etsy.com/listing/257821751/rose-gold-walnut-wood-pendant-necklace" title="Illustrated jewellery on A Rose Cast's Etsy store">walnut wood</a> portrait pendant necklaces, and a <a href="https://www.etsy.com/listing/257820045/walnut-wood-brooch-with-illustration-of" title="Illustrated jewellery on A Rose Cast's Etsy store">cat and flower themed brooch</a>.
 
 Today I'm adding another cute cat brooch; an ode to all the crazy cat ladies out there (like myself).
 
-![Crazy Cat - Lady Wooden Brooch of a Girl and Her Cats by illustrator / artist Karen Muray of A Rose Cast](/assets/folio/wsb/illustration-crazy-cat-lady.jpg "Crazy Cat - Lady Wooden Brooch of a Girl and Her Cats by illustrator / artist Karen Muray of A Rose Cast")
+[![Crazy Cat Lady - Wooden Brooch of a Girl and Her Cats by illustrator and designer Karen Murray of A Rose Cast on Etsy](/assets/shop/brooch/brooch-crazy-cat-lady-002.jpg)](https://www.etsy.com/listing/257819325/walnut-wood-brooch-with-an-illustration "Crazy Cat Lady - Wooden Brooch of a Girl and Her Cats by illustrator and designer Karen Murray of @arosecast on Etsy")
 
 This was actually the first piece I designed for a non-print product, and it inspired me to create the <a href="/tag/Wild-Sofa-Beasts/" title="See Other Wild Sofa Beasts Products">Wild Sofa Beasts</a> product line. This piece includes all of my three cats, <a href="https://www.instagram.com/p/_bgRcIGFT7/" title="A photo of Mog on my Instagram">Mog</a>, <a href="https://www.instagram.com/p/8nSfiJmFWm/" title="A photo of Toby on my Instagram">Toby</a> and <a href="https://www.instagram.com/p/_JysW9GFdo/" title="A photo of Month on my Instagram">Monty</a>. As with almost all of my pieces, this was painted in watercolour, but this time watercolour was used for the black outer lines as well, instead of my normal pencil.
 
 <div class="highlight">
-  <p>Buy <span class="the">this</span> Piece <span class="the">on</span>
-    <a href="https://society6.com/product/pink-haired-crazy-cat-lady-with-her-3-cats_print#1=45" title="Buy the Crazy Cat Lady | Wooden Brooch of a Girl and Her Cats on the A Rose Cast Society6 store">Society6</a>
-    <span class="the">or</span>
-    <a href="https://www.etsy.com/listing/257819325/walnut-wood-brooch-with-an-illustration" title="Buy the Crazy Cat Lady | Wooden Brooch of a Girl and Her Cats on the A Rose Cast Etsy store">Etsy</a>
-  </p>
+    Buy <span class="the">this</span> Piece <span class="the">on</span> <a href="https://society6.com/product/pink-haired-crazy-cat-lady-with-her-3-cats_print#1=45" title="Buy on Society6">Society6</a>, <span class="the"></span> <a href="http://artrookie.co.uk/profile_items.php?designer=ARoseCast&design=9093" title="Buy on Art Rookie">Art Rookie</a>,<br></span> <a href="http://www.redbubble.com/people/arosecast/works/21558342-crazy-cat-lady-a-pink-haired-girl-with-her-three-cats" title="Buy on Redbubble">Redbubble</a> <span class="the">or</span> <a href="https://www.etsy.com/listing/257819325/walnut-wood-brooch-with-an-illustration" title="Etsy">Etsy</a>
 </div>
 
 Soon <em>Wild Sofa Beasts</em> will not solely be comprised of wooden brooches. I'm hoping to not only create cat-themed prints, brooches and other pieces of jewellery under this label, but also stickers, stationery and maybe eventually patterned fabric.
 
 <div class="row">
 	<div class="col-md-6">
-		<a href="https://www.etsy.com/listing/257819325/walnut-wood-brooch-with-an-illustration" title="Buy the Crazy Cat Lady | Wooden Brooch of a Girl and Her Cats on the A Rose Cast on Etsy"><img src="/assets/blog/2016-02/crazy-cat-lady-wooden-brooch-01.jpg" alt="Crazy Cat Lady | Wooden Brooch of a Girl and Her Cats"></a>
+		<a href="https://www.etsy.com/listing/257819325/walnut-wood-brooch-with-an-illustration" title="Crazy Cat Lady - Wooden Brooch of a Girl and Her Cats by illustrator and designer Karen Murray of A Rose Cast on Etsy"><img src="/assets/shop/brooch/brooch-crazy-cat-lady-003.jpg" alt="Crazy Cat Lady - Wooden Brooch of a Girl and Her Cats by illustrator and designer Karen Murray of A Rose Cast on Etsy" title="Crazy Cat Lady - Wooden Brooch of a Girl and Her Cats by illustrator and designer Karen Murray of @arosecast on Etsy"></a>
 	</div>
 	<div class="col-md-6">
-		<a href="https://www.etsy.com/listing/257819325/walnut-wood-brooch-with-an-illustration" title="Buy the Crazy Cat Lady | Wooden Brooch of a Girl and Her Cats on the A Rose Cast on Etsy"><img src="/assets/folio/wsb/wooden-brooch-crazy-cat-lady.jpg" alt="Crazy Cat Lady | Wooden Brooch of a Girl and Her Cats"></a>
-	</div>
-</div>
-
-<div class="row">
-	<div class="col-md-6">
-		<a href="https://www.etsy.com/listing/257819325/walnut-wood-brooch-with-an-illustration" title="Buy the Crazy Cat Lady | Wooden Brooch of a Girl and Her Cats on the A Rose Cast on Etsy"><img src="/assets/blog/2016-02/crazy-cat-lady-wooden-brooch-02.jpg" alt="Crazy Cat Lady | Wooden Brooch of a Girl and Her Cats"></a>
-	</div>
-	<div class="col-md-6">
-		<a href="https://www.etsy.com/listing/257819325/walnut-wood-brooch-with-an-illustration" title="Buy the Crazy Cat Lady | Wooden Brooch of a Girl and Her Cats on the A Rose Cast on Etsy"><img src="/assets/blog/2016-02/crazy-cat-lady-wooden-brooch-03.jpg" alt="Crazy Cat Lady | Wooden Brooch of a Girl and Her Cats"></a>
+		<a href="https://www.etsy.com/listing/257819325/walnut-wood-brooch-with-an-illustration" title="Crazy Cat Lady - Wooden Brooch of a Girl and Her Cats by illustrator and designer Karen Murray of A Rose Cast on Etsy"><img src="/assets/shop/brooch/brooch-crazy-cat-lady-006.jpg" alt="Crazy Cat Lady - Wooden Brooch of a Girl and Her Cats by illustrator and designer Karen Murray of A Rose Cast on Etsy" title="Crazy Cat Lady - Wooden Brooch of a Girl and Her Cats by illustrator and designer Karen Murray of @arosecast on Etsy"></a>
 	</div>
 </div>
 

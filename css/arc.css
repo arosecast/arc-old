@@ -115,6 +115,7 @@ p.price {text-align: center; font-size: 2em; color: #f0c0b4;}
 /* Pages */
 div.storeLink a {display: block; font-size: 1.5em; background: #c4dbd3; color: #fff; text-align: center; margin: 20px 0 10px; padding: 10px;}
 div.storeLink a:hover {background: #ffdbd3;}
+div.storeLink #content article img {margin-bottom: 0;}
 
 /* Thumbnails */
 .thumbnail {overflow: hidden; height: 245px; margin-bottom: 20px; padding: 0; background-color: transparent; border: none; border-radius: 0;}

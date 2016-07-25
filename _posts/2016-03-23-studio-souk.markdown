@@ -20,18 +20,18 @@ It's long been one of my favourite places to visit in Belfast (I remember browsi
 
 Studio Souk stock almost all of the items currently available on my [Etsy store](https://www.etsy.com/shop/arosecast), but they have a few exclusive products. If you are local to Belfast or Northern Ireland, you can buy these new products in-store. If not, don't worry; over the next few months all of these items will be popping up to buy online. So for now, here’s a few sneak peaks.
 
-![Happiness is a Warm Puppy - Watercolour Illustration on a Wooden Brooch of a Dog with a Scarf](/assets/blog/2016-03/happiness-is-a-warm-puppy-quote-woden-brooch.jpg "Happiness is a Warm Puppy - Watercolour Illustration on a Wooden Brooch of a Dog with a Scarf")
+[![Happiness is a Warm Puppy - Wooden Brooch of a Shiba Inu Dog in a Scarf by illustrator and designer Karen Murray of A Rose Cast on Etsy](/assets/shop/brooch/brooch-puppy-001.jpg)](https://www.etsy.com/listing/279563830/walnut-wood-brooch-with-an-illustration "Happiness is a Warm Puppy - Wooden Brooch of a Shiba Inu Dog in a Scarf by illustrator and designer Karen Murray of @arosecast on Etsy")
 
-![Cats. Books. Life is Good - Watercolour Illustration on a Wooden Brooch of a Blue Tabby Reading a Book by Karen Murray of A Rose Cast](/assets/blog/2016-03/wooden-brooch-books-cats-life-is-good06.jpg "Cats. Books. Life is Good - Watercolour Illustration on a Wooden Brooch of a Blue Tabby Reading a Book by Karen Murray of A Rose Cast")
+[![Cats. Books. Life is Good - Watercolour Illustration on a Wooden Brooch of a Blue Tabby Reading a Book by illustrator and designer Karen Murray of A Rose Cast](/assets/shop/brooch/brooch-cats-books-001.jpg)](https://www.etsy.com/listing/257924788/walnut-wood-brooch-with-illustration-of "Cats. Books. Life is Good - Watercolour Illustration on a Wooden Brooch of a Blue Tabby Reading a Book by illustrator and designer Karen Murray of @arosecast")
 
-![A selection of rose gold and wooden pendant necklaces with watercolour illustrations](/assets/blog/2016-03/rose-gold-wooden-pendant-necklaces.jpg "A selection of rose gold and wooden pendant necklaces with watercolour illustrations")
+[![Rose gold and wooden pendant necklaces with Watercolour Illustration by illustrator and designer Karen Murray of A Rose Cast](/assets/blog/2016-03/rose-gold-wooden-pendant-necklaces.jpg)](https://www.etsy.com/shop/ARoseCast/search?section_id=18187909 "Rose gold and wooden pendant necklaces with Watercolour Illustration by illustrator and designer Karen Murray of @arosecast")
 
 <div class="row">
 	<div class="col-md-6">
-		<img src="/assets/blog/2016-03/minerva-glasses-rose-gold-wooden-necklace.jpg" alt="Rose gold and wooden pendant necklace of a watercolour illustrations of Minerva" title="Rose gold and wooden pendant necklace of a watercolour illustrations of Minerva">
+		<a href="https://www.etsy.com/listing/288122435/rose-gold-walnut-wood-pendant-necklace" title="Rose gold and wooden pendant necklace of a watercolour illustrations of Minerva by illustrator and designer Karen Murray of A Rose Cast"><img src="/assets/shop/necklace/necklace-minerva-001.jpg" alt="Rose gold and wooden pendant necklace of a watercolour illustrations of Minerva by illustrator and designer Karen Murray of A Rose Cast" title="Rose gold and wooden pendant necklace of a watercolour illustrations of Minerva by illustrator and designer Karen Murray of @arosecast"></a>
 	</div>
 	<div class="col-md-6">
-		<img src="/assets/blog/2016-03/clio-rose-gold-wooden-necklace.jpg" alt="Rose gold and wooden pendant necklace of a watercolour illustrations of Clio" title="Rose gold and wooden pendant necklace of a watercolour illustrations of Clio">
+		<a href="https://www.etsy.com/listing/399016083/rose-gold-walnut-wood-pendant-necklace" title="Rose gold and wooden pendant necklace of a watercolour illustrations of Clio by illustrator and designer Karen Murray of A Rose Cast"><img src="/assets/shop/necklace/necklace-clio-001.jpg" alt="Rose gold and wooden pendant necklace of a watercolour illustrations of Clio by illustrator and designer Karen Murray of A Rose Cast" title="Rose gold and wooden pendant necklace of a watercolour illustrations of Clio by illustrator and designer Karen Murray of @arosecast"></a>
 	</div>
 </div>
 

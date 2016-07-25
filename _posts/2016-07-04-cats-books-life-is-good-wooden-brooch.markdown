@@ -14,14 +14,15 @@ tags: illustration watercolor wild-sofa-beasts books literature jewellery callig
 
 I adore Edward Gorey, so when I came across a quote from him, &quot;Books. Cats. Life is good&quot;, I knew I wanted to use it in someway. Then I remembered that one of the [first photos I’d ever taken of our youngest cat, Monty](https://www.instagram.com/p/sGApATGFbe/), was of him ‘reading’ one of my Haruki Murakami’s novels ([I’m a big fan, if you hadn’t noticed](/tag/haruki-murakami/)). And these two things just sounded like they'd be perfect partners.
 
-![ALT](/assets/blog/2016-03/wooden-brooch-books-cats-life-is-good05.jpg "Cats. Books. Life is Good - Watercolour Illustration on a Wooden Brooch of a Blue Tabby Reading a Book by Karen Murray of A Rose Cast")
+[![Cats. Books. Life is Good - Watercolour Illustration on a Wooden Brooch of a Blue Tabby Reading a Book by illustrator and designer Karen Murray of A Rose Cast](/assets/shop/brooch/brooch-cats-books-001.jpg)](https://www.etsy.com/listing/257924788/walnut-wood-brooch-with-illustration-of "Cats. Books. Life is Good - Watercolour Illustration on a Wooden Brooch of a Blue Tabby Reading a Book by illustrator and designer Karen Murray of @arosecast")
+
 
 <div class="row">
 	<div class="col-md-6">
-		<a href="https://www.etsy.com/listing/257924788/walnut-wood-brooch-with-illustration-of" title="Cats. Books. Life is Good - Watercolour Illustration on a Wooden Brooch of a Blue Tabby Reading a Book by Karen Murray of A Rose Cast"><img src="/assets/folio/wsb/wooden-brooch-books-cats-life-is-good.jpg" alt="Cats. Books. Life is Good - Watercolour Illustration on a Wooden Brooch of a Blue Tabby Reading a Book by Karen Murray of A Rose Cast" title="Cats. Books. Life is Good - Watercolour Illustration on a Wooden Brooch of a Blue Tabby Reading a Book by Karen Murray of @arosecast"></a>
+		<a href="https://www.etsy.com/listing/257924788/walnut-wood-brooch-with-illustration-of" title="Cats. Books. Life is Good - Watercolour Illustration on a Wooden Brooch of a Blue Tabby Reading a Book by Karen Murray of A Rose Cast"><img src="/assets/shop/brooch/brooch-cats-books-003.jpg" alt="Cats. Books. Life is Good - Watercolour Illustration on a Wooden Brooch of a Blue Tabby Reading a Book by Karen Murray of A Rose Cast" title="Cats. Books. Life is Good - Watercolour Illustration on a Wooden Brooch of a Blue Tabby Reading a Book by Karen Murray of @arosecast"></a>
 	</div>
 	<div class="col-md-6">
-		<a href="https://www.etsy.com/listing/257924788/walnut-wood-brooch-with-illustration-of" title="Cats. Books. Life is Good - Watercolour Illustration on a Wooden Brooch of a Blue Tabby Reading a Book by Karen Murray of A Rose Cast"><img src="/assets/blog/2016-03/wooden-brooch-books-cats-life-is-good02.jpg" alt="Cats. Books. Life is Good - Watercolour Illustration on a Wooden Brooch of a Blue Tabby Reading a Book by Karen Murray of A Rose Cast" title="Cats. Books. Life is Good - Watercolour Illustration on a Wooden Brooch of a Blue Tabby Reading a Book by Karen Murray of @arosecast"></a>
+		<a href="https://www.etsy.com/listing/257924788/walnut-wood-brooch-with-illustration-of" title="Cats. Books. Life is Good - Watercolour Illustration on a Wooden Brooch of a Blue Tabby Reading a Book by Karen Murray of A Rose Cast"><img src="/assets/shop/brooch/brooch-cats-books-006.jpg" alt="Cats. Books. Life is Good - Watercolour Illustration on a Wooden Brooch of a Blue Tabby Reading a Book by Karen Murray of A Rose Cast" title="Cats. Books. Life is Good - Watercolour Illustration on a Wooden Brooch of a Blue Tabby Reading a Book by Karen Murray of @arosecast"></a>
 	</div>
 </div>
 
@@ -35,7 +36,7 @@ So, as I've done three times before with my [Wild Sofa Beasts](/tag/wild-sofa-be
 
 If you are a cat and book lover like me, go and grab one of the brooches for yourself.
 
-![Cats. Books. Life is Good - Watercolour Illustration on a Wooden Brooch of a Blue Tabby Reading a Book by Karen Murray of A Rose Cast](/assets/blog/2016-03/wooden-brooch-books-cats-life-is-good06.jpg "Cats. Books. Life is Good - Watercolour Illustration on a Wooden Brooch of a Blue Tabby Reading a Book by Karen Murray of @arosecast")
+[![Cats. Books. Life is Good - Watercolour Illustration on a Wooden Brooch of a Blue Tabby Reading a Book by illustrator and designer Karen Murray of A Rose Cast](/assets/shop/brooch/brooch-cats-books-002.jpg)](https://www.etsy.com/listing/257924788/walnut-wood-brooch-with-illustration-of "Cats. Books. Life is Good - Watercolour Illustration on a Wooden Brooch of a Blue Tabby Reading a Book by illustrator and designer Karen Murray of @arosecast")
 
 You can also buy the illustration on a number different products over on my [Society6](https://society6.com/product/cats-books-life-is-good-blue-tabby-reading-a-book-3qi_print#s6-4660131p4a1v45), [Redbubble](http://www.redbubble.com/people/arosecast/works/22328289-cats-books-life-is-good-blue-tabby-reading-a-book) and [Art Rookie stores](http://artrookie.co.uk/profile_items.php?designer=ARoseCast&design=9957), from cushions and cards to mugs and rugs.
 
