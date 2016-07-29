@@ -1,5 +1,5 @@
 ---
-layout: project-store
+layout: project
 title: Illustration | Pink and Blue Haired Clio with Stars
 description: Clio is derived from a Greek root word that means &quot;to celebrate&quot; or &quot;make famous&quot;, so I thought it fitted this striking woman, especially as she adorns a birthday card. Clio is very much a fashionista. With her big pouting lips, and pink and blue streaked white blonde hair, she's the cool girl you see in the fanciest patisseries and cocktail bars.
 type: Jewellery | Stationery | Illustration | Watercolor | Portraits

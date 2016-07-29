@@ -1,5 +1,5 @@
 ---
-layout: project-store
+layout: project
 title: Illustration | Nerdy Minerva in Vintage Glasses
 description: Named after the Roman goddess of wisdom, she is your modern geek girl. She watches Star Trek TNG and Buffy repeats, while boning up on a bit of medieval history. She knows ombre hair probably isn’t quite as fashionable as it once was, but prefers to follow her own personal style than what happens to be in vogue at any particular time. Her glasses always have to have a bit of a vintage vibe to them. She may be a little shy when you first get to know her, but despite being an introvert she enjoys meeting new people.
 type: Jewellery | Stationery | Illustration | Watercolor | Portraits

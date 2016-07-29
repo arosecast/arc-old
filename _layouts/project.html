@@ -27,15 +27,26 @@
               {% endfor %}
             </p>
 
-            {% if page.s6link and page.etsylink %}
-            <div class="highlight">
-              <p>Buy <span class="the">this</span> Piece <span class="the">on</span></p>
-              <p>
-                <a href="{{page.s6link}}">Society6</a>
-                <span class="the">or</span>
-                <a href="{{page.etsylink}}">Etsy</a>
-              </p>
+            {% if page.etsylink %}
+            <div class="highlight etsy">
+              <a href="{{page.etsylink}}">Buy <span class="the">on</span> <img src="../assets/graphics/etsy.png" alt="Etsy" title="Etsy"></a>
             </div>
+            {% endif %}
+
+            {% if page.s6link and page.rblink and page.arlink %}
+            <p>You can also buy this on apparel, homewares, cushions, mugs and more on the following sites</p>
+
+            <div class="row">
+              <div class="col-md-4">
+                <a href="{{page.s6link}}" title="Buy this design on Society6"><img src="../assets/graphics/society6.png" alt="Society6" title="Buy this design on Society6"></a>
+              </div>
+              <div class="col-md-4">
+                <a href="{{page.rblink}}" title="Buy this design on RedBubble"><img src="../assets/graphics/redbubble.png" alt="RedBubble" title="Buy this design on RedBubble"></a>
+              </div>
+              <div class="col-md-4">
+                <a href="{{page.arlink}}" title="Buy this design on Art Rookie"><img src="../assets/graphics/art-rookie.png" alt="Art Rookie" title="Buy this design on Art Rookie"></a>
+              </div>
+            </div><!-- row -->
             {% endif %}
 
             <div id="tag-cloud">

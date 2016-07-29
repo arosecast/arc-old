@@ -1,5 +1,5 @@
 ---
-layout: project-store
+layout: project
 title: Illustration | Fan Art
 description: I'm a massive nerd, so I love creating illustrations of characters from some of my favourite TV shows and movies, such as Star Trek and Joss Whedon's creations Buffy and Firefly, to different manga and anime series, such as Sailor Moon. Not only have I released these watercolour pieces as prints, I've turned many into humourous greeting cards.
 type: Illustration | Fanart | Watercolor | Lettering | Stationery | Graphic Design

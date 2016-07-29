@@ -1,5 +1,5 @@
 ---
-layout: project-store
+layout: project
 title: Illustration | Greeting Girls
 description: A series of celebratory greeting cards featuring different lovely women, and a whole host of party accessories, such as balloons, presents, party poppers, confetti and, of course, cake. They are perfect as birthday cards, but also work brilliantly for graduations or just when you want to have a party.
 type: Illustration | Watercolor | Lettering | Portraits | Stationery
